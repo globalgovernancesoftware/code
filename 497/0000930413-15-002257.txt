@@ -1,0 +1,661 @@
+<SEC-DOCUMENT>0000930413-15-002257.txt : 20150501
+<SEC-HEADER>0000930413-15-002257.hdr.sgml : 20150501
+<ACCEPTANCE-DATETIME>20150501163856
+ACCESSION NUMBER:		0000930413-15-002257
+CONFORMED SUBMISSION TYPE:	497K
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20150501
+DATE AS OF CHANGE:		20150501
+EFFECTIVENESS DATE:		20150501
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MARKET VECTORS ETF TRUST
+		CENTRAL INDEX KEY:			0001137360
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		497K
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	333-123257
+		FILM NUMBER:		15824894
+
+	BUSINESS ADDRESS:	
+		STREET 1:		335 MADISON AVENUE - 19TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		212-293-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		335 MADISON AVENUE - 19TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MARKET VECTORS TRUST
+		DATE OF NAME CHANGE:	20050516
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VAN ECK ALTERNATIVES INDEX FUND
+		DATE OF NAME CHANGE:	20030327
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VAN ECK ECONOMEX INDUSTRIES INDEX FUND
+		DATE OF NAME CHANGE:	20010329
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0001137360
+<SERIES-ID>S000044444
+<SERIES-NAME>Market Vectors ChinaAMC SME-ChiNext ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000138289
+<CLASS-CONTRACT-NAME>Market Vectors ChinaAMC SME-ChiNext ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>CNXT
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>497K
+<SEQUENCE>1
+<FILENAME>c80134_497k.htm
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+  <META name="GENERATOR" content="3B2 Total Publishing System 9.0.225/W">
+  <TITLE>3B2 EDGAR HTML -- c80134_497k.htm</TITLE>
+</HEAD>
+<BODY>
+
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:Times, serif; font-size:4.5mm; "><p align="left"><img src="vegxrxs1955xgsxsum.jpg" style="margin:0 0 0 0; border:   ;"></p></FONT></P>
+<P align="right" style="margin:4.2mm 0 0; "><FONT style="font-family:sans-serif; font-size:4.5mm; "><B>MARKET VECTORS CHINAAMC SME-CHINEXT ETF</B></FONT></P>
+<P style="margin:3.5mm 0 0 54.8mm; font-size:0; margin-bottom:3.1mm; margin-top:3.1mm; border-top:2pt solid #858585;">&nbsp;</P>
+<P align="right" style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:4.2mm; ">Ticker: CNXT<font style="vertical-align:top; font-family:Times, serif; font-size:70%">&#174;</font></FONT><FONT style="font-family:sans-serif; font-size:3.5mm; "><br>Principal U.S. Listing Exchange: NYSE Arca, Inc.</FONT><FONT style="font-family:sans-serif; font-size:4.2mm; "><br>SUMMARY PROSPECTUS<br>MAY 1, 2015</FONT></P>
+<P style="margin:4.2mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.8mm; "></FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">CNXTSUM</FONT></P>
+<DIV style="border:solid 1pt black; margin-bottom:-6pt;">
+<P style="margin:2.1mm 2.1mm 2.1mm; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">Before you invest, you may want to review the Fund&#146;s prospectus, which contains more information about the Fund and its risks. You can find the Fund&#146;s prospectus and other information about the Fund online at http://www.vaneck.com/ library/etfs/. You can also get this information at no cost by calling 888.MKT.VCTR, or by sending an
+  email request to info@vaneck.com. The Fund&#146;s prospectus and statement of additional information, both dated May&nbsp;1, 2015, are incorporated by reference into this summary prospectus.</FONT></P>
+</DIV>
+<br>
+
+<P style="margin:3.5mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; color:#c1ef00; "><B><a name=c80134_market1>SUMMARY INFORMATION</a></B></FONT></P>
+<P style="margin:3.5mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; color:#c1ef00; "><B>INVESTMENT OBJECTIVE</B></FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">Market Vectors ChinaAMC SME-ChiNext ETF (the &#147;Fund&#148;) seeks to replicate as closely as possible, before fees and expenses, the price and yield performance of the SME-ChiNext 100 Index (the &#147;SME-ChiNext Index&#148;).</FONT></P>
+<P style="margin:3.5mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; color:#c1ef00; "><B>FUND FEES AND EXPENSES</B></FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">The following tables describe the fees and expenses that you may pay if you buy and hold shares of the Fund (&#147;Shares&#148;).</FONT></P>
+<TABLE cellspacing=0 cellpadding=0 style="margin-left:0.00%; margin-right:0.00%; width:100.00%;background:#effbbb; border:solid .75pt rgb(193,239,0); margin-top:6pt;" >
+  <TR valign="bottom">
+    <TD style="width:87.42%;"><P><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+    <TD style="width:2.63%"><P><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+    <TD style="width:4.15%;" colspan="6"><P><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+  </TR>
+  <TR valign="bottom">
+    <TD>
+    <P style="text-indent:-3.2mm; margin:0 0 0 3.2mm; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Shareholder Fees</B><I> (fees paid directly from your investment)</I></FONT></P></TD>
+    <TD width="3"><p style="font-size:0.2mm">&nbsp;</P></TD>
+    <TD><P><font style="font-size:0.2mm">&nbsp;</font></P></td>
+    <TD colspan="2">&nbsp;</TD>
+    <TD align="right"><P><FONT style="font-family:sans-serif; font-size:3.5mm; ">
+      None</FONT></P></TD>
+    <TD colspan="2">&nbsp;</TD>
+  </TR>
+</TABLE>
+<P style="margin:3.5mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; color:#c1ef00; "><B>Annual Fund Operating Expenses</B></FONT><FONT style="font-family:sans-serif; font-size:3.5mm; "><I><br>(expenses that you pay each year as a percentage of the value of your investment)</I></FONT></P>
+<TABLE cellspacing=0 cellpadding=0 style="margin-left:0.00%; margin-right:0.00%; width:100.00%;background:#effbbb; border:solid .75pt rgb(193,239,0); margin-top:6pt;" >
+  <TR valign="bottom">
+    <TD style="width:88.11%;"><P><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+    <TD style="width:2.63%"><P><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+    <TD style="width:3.46%;" colspan="6"><P><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+  </TR>
+  <TR valign="bottom">
+    <TD>
+    <P style="text-indent:-3.2mm; margin:0 0 0 3.2mm; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">Management Fee</FONT></P></TD>
+    <TD width="3"><p style="font-size:0.2mm">&nbsp;</P></TD>
+    <TD><P><font style="font-size:0.2mm">&nbsp;</font></P></td>
+    <TD colspan="2">&nbsp;</TD>
+    <TD align="right"><P><FONT style="font-family:sans-serif; font-size:3.5mm; ">
+      0.50</FONT></P></TD>
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.5mm; ">
+       %</FONT></P></TD>
+    <TD><P><font style="font-size:0.2mm">&nbsp;</font></P></td>
+  </TR>
+  <TR valign="bottom">
+    <TD>
+    <P style="text-indent:-3.2mm; margin:0 0 0 3.2mm; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">Other Expenses</FONT><FONT style="font-family:sans-serif; font-size:2.3mm; "><SUP>(a)</SUP></FONT></P></TD>
+    <TD width="3"><p style="font-size:0.2mm">&nbsp;</P></TD>
+    <TD><P><font style="font-size:0.2mm">&nbsp;</font></P></td>
+    <TD colspan="2">&nbsp;</TD>
+    <TD align="right"><P><FONT style="font-family:sans-serif; font-size:3.5mm; ">
+      0.16</FONT></P></TD>
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.5mm; ">
+       %</FONT></P></TD>
+    <TD><P><font style="font-size:0.2mm">&nbsp;</font></P></td>
+  </TR>
+  <TR valign="bottom" style="font-size:0.2mm">
+    <TD>
+    <P style="text-indent:-3.2mm; margin:0 0 0 3.2mm; "><font style="font-size:0.2mm">&nbsp;</font></P></TD>
+    <TD width="3"><P><font style="font-size:0.2mm;">&nbsp;</font></P></TD>
+    <TD colspan="6" style="border-top:solid .27mm Black; "><P><font style="font-size:0.2mm;">&nbsp;</font></P></TD>
+  </TR>
+  <TR valign="bottom">
+    <TD>
+    <P style="text-indent:-3.2mm; margin:0 0 0 3.2mm; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">Total Annual Fund Operating Expenses</FONT></P></TD>
+    <TD width="3"><p style="font-size:0.2mm">&nbsp;</P></TD>
+    <TD><P><font style="font-size:0.2mm">&nbsp;</font></P></td>
+    <TD colspan="2">&nbsp;</TD>
+    <TD align="right"><P><FONT style="font-family:sans-serif; font-size:3.5mm; ">
+      0.66</FONT></P></TD>
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.5mm; ">
+       %</FONT></P></TD>
+    <TD><P><font style="font-size:0.2mm">&nbsp;</font></P></td>
+  </TR>
+</TABLE>
+<TABLE cellspacing=0 cellpadding=0 style="margin-top:1.8mm; font-size:0.2mm;">
+  <TR valign="top">
+    <TD colspan="99"><P style="margin-top:0pt; font-size:0;"></P></TD>
+  </TR>
+  <TR valign="top">
+    <TD style="width:0pt;">&nbsp;</TD>
+    <TD style="width:7pt;" align="right"><P><FONT style="font-family:sans-serif; font-size:2.1mm; "><SUP>
+      (a)</SUP></FONT></P></TD>
+    <TD width="7">&nbsp;</TD>
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.1mm; ">
+      &#147;Other Expenses&#148; are based on estimated amounts for the current fiscal year.</FONT></P>
+    </TD>
+  </TR>
+</TABLE>
+<P style="margin:3.5mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; color:#c1ef00; "><B>EXPENSE EXAMPLE</B></FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">This example is intended to help you compare the cost of investing in the Fund with the cost of investing in other funds. This example does not take into account brokerage commissions that you pay when purchasing or selling Shares of the Fund.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">The example assumes that you invest $10,000 in the Fund for the time periods indicated and then redeem all of your Shares at the end of those periods. The example also assumes that your investment has a 5% annual return and that the Fund&#146;s operating expenses remain the same. Although your actual costs may be higher or lower, based
+  on these assumptions, your costs would be:</FONT></P>
+<TABLE cellspacing=0 cellpadding=0 style="margin-left:21.05%; margin-right:21.05%; width:57.90%;background:#effbbb; border:solid .75pt rgb(193,239,0); margin-top:6pt;" >
+  <TR valign="bottom">
+    <TD style="width:45.22%;"><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+    <TD style="width:2.63%"><P><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+    <TD style="width:8.25%;" colspan="6"><P><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+  </TR>
+  <TR valign="bottom">
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.1mm; "><B>
+      YEAR</B></FONT></P></TD>
+    <TD width="3">&nbsp;</TD>
+    <TD colspan="6" align="center"><P><FONT style="font-family:sans-serif; font-size:3.1mm; "><B>
+      EXPENSES</B></FONT></P></TD>
+  </TR>
+  <TR valign="bottom" style="font-size:0.2mm">
+    <TD colspan="8" align="center" style="border-top:solid .27mm Black; "><P><font style="font-size:0.2mm;">&nbsp;</font></P></TD>
+  </TR>
+  <TR valign="bottom">
+    <TD>
+    <P style="text-indent:-3.2mm; margin:0 0 0 3.2mm; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">1</FONT></P></TD>
+    <TD width="3"><p style="font-size:0.2mm">&nbsp;</P></TD>
+    <TD><P><font style="font-size:0.2mm">&nbsp;</font></P></td>
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.5mm; ">
+      $</FONT></P></TD>
+    <TD><P><font style="font-size:0.2mm">&nbsp;</font></P></td>
+    <TD align="right"><P><FONT style="font-family:sans-serif; font-size:3.5mm; ">
+       67</FONT></P></TD>
+    <TD colspan="2">&nbsp;</TD>
+  </TR>
+  <TR valign="bottom">
+    <TD>
+    <P style="text-indent:-3.2mm; margin:0 0 0 3.2mm; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">3</FONT></P></TD>
+    <TD width="3"><p style="font-size:0.2mm">&nbsp;</P></TD>
+    <TD><P><font style="font-size:0.2mm">&nbsp;</font></P></td>
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.5mm; ">
+      $</FONT></P></TD>
+    <TD><P><font style="font-size:0.2mm">&nbsp;</font></P></td>
+    <TD align="right"><P><FONT style="font-family:sans-serif; font-size:3.5mm; ">
+       211</FONT></P></TD>
+    <TD colspan="2">&nbsp;</TD>
+  </TR>
+  <TR valign="bottom">
+    <TD>
+    <P style="text-indent:-3.2mm; margin:0 0 0 3.2mm; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">5</FONT></P></TD>
+    <TD width="3"><p style="font-size:0.2mm">&nbsp;</P></TD>
+    <TD><P><font style="font-size:0.2mm">&nbsp;</font></P></td>
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.5mm; ">
+      $</FONT></P></TD>
+    <TD><P><font style="font-size:0.2mm">&nbsp;</font></P></td>
+    <TD align="right"><P><FONT style="font-family:sans-serif; font-size:3.5mm; ">
+       368</FONT></P></TD>
+    <TD colspan="2">&nbsp;</TD>
+  </TR>
+  <TR valign="bottom">
+    <TD>
+    <P style="text-indent:-3.2mm; margin:0 0 0 3.2mm; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">10</FONT></P></TD>
+    <TD width="3"><p style="font-size:0.2mm">&nbsp;</P></TD>
+    <TD><P><font style="font-size:0.2mm">&nbsp;</font></P></td>
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.5mm; ">
+      $</FONT></P></TD>
+    <TD><P><font style="font-size:0.2mm">&nbsp;</font></P></td>
+    <TD align="right"><P><FONT style="font-family:sans-serif; font-size:3.5mm; ">
+       822</FONT></P></TD>
+    <TD colspan="2">&nbsp;</TD>
+  </TR>
+</TABLE>
+<P style="margin:3.5mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; color:#c1ef00; "><B>PORTFOLIO TURNOVER</B></FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">The Fund will pay transaction costs, such as commissions, when it purchases and sells securities (or &#147;turns over&#148; its portfolio). A higher portfolio turnover will cause the Fund to incur additional transaction costs and may result in higher taxes when Fund Shares are held in a taxable account. These costs, which are not reflected in annual fund
+  operating expenses or in the example, may affect the Fund&#146;s performance. During the period July 23, 2014 (the Fund&#146;s commencement of operations) through December 31, 2014, the Fund&#146;s portfolio turnover rate was 7%. The Fund&#146;s portfolio turnover rate is not annualized.</FONT></P>
+<P style="margin-top:2.1mm; font-size:0; margin-bottom:3.1mm; margin-top:3.1mm; border-top:2pt solid #f3fcca;">&nbsp;</P>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr style="font-size:1px;">
+<td style="width:50%;">&nbsp;</td>
+<td style="width:50%;">&nbsp;</td>
+</tr>
+<tr>
+<td><P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.1mm; "><B>marketvectorsetfs.com</B></FONT></P></td><td><P align="right" style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:2.8mm; ">1</FONT></P></td></tr></table>
+
+
+<p><hr color=#000000 noshade></p>
+<p style="page-break-before: always; margin-bottom: -12pt">&nbsp;</p>
+<PAGE>
+<P style="margin:1.4mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; color:#c1ef00; "><B>PRINCIPAL INVESTMENT STRATEGIES</B></FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">The Fund normally invests at least 80% of its total assets in securities that comprise the Fund&#146;s benchmark index. The SME-ChiNext Index is a modified, free-float adjusted index intended to track the performance of the 100 largest and most liquid stocks listed and trading on the Small and Medium Enterprise (&#147;SME&#148;) Board and the ChiNext
+  Board of the Shenzhen Stock Exchange. Such companies may include small- and medium-capitalization companies. The SME-ChiNext Index is comprised of China A-shares (&#147;A-shares&#148;). As of December 31, 2014, the SME-ChiNext Index included 100 securities of companies with a market capitalization range of between approximately $791.1
+  million and $14.7 billion and a weighted average market capitalization of $4.6 billion. The Fund&#146;s 80% investment policy is non-fundamental and may be changed without shareholder approval upon 60 days&#146; prior written notice to shareholders.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">The Fund, using a &#147;passive&#148; or indexing investment approach, attempts to approximate the investment performance of the SME-ChiNext Index by investing in a portfolio of securities that generally replicates the SME-ChiNext Index.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">The Fund will seek to achieve its investment objective by primarily investing directly in A-shares. A-shares are issued by companies incorporated in the People&#146;s Republic of China (&#147;China&#148; or the &#147;PRC&#148;). A-shares are traded in renminbi (&#147;RMB&#148;) on the Shenzhen or Shanghai Stock Exchanges. The A-share market in China is made available to
+  domestic PRC investors and certain foreign investors, including principally those that have been approved as a Renminbi Qualified Foreign Institutional Investor (&#147;RQFII&#148;) or a Qualified Foreign Institutional Investor (&#147;QFII&#148;). A RQFII or QFII license may be obtained by application to the China Securities Regulatory Commission (&#147;CSRC&#148;). After
+  obtaining a RQFII or QFII license, the RQFII or QFII would also apply to China&#146;s State Administration of Foreign Exchange (&#147;SAFE&#148;) for a specific aggregate dollar amount investment quota in which the RQFII or QFII can invest in A-shares. Investment companies are not currently within the types of entities that are eligible for a RQFII or QFII
+  license. Because the Fund does not satisfy the criteria to qualify as a RQFII or QFII itself, the Fund intends to invest directly in A-shares via the A-share quota granted to the Fund&#146;s sub-adviser, China Asset Management (Hong Kong) Limited (the &#147;Sub-Adviser&#148;), by SAFE (&#147;RQFII quota&#148;). The Sub-Adviser has obtained RQFII status and has been
+  granted an RQFII quota, which the Sub-Adviser will use to invest the portion of the Fund&#146;s assets allocated to it by the Adviser in A-shares. At such time that the Sub-Adviser has utilized its entire RQFII quota, the Sub-Adviser may, subject to applicable regulations, apply for an increase of the RQFII quota. The size of the Fund&#146;s direct
+  investment in A-shares will be limited by the size of the RQFII quota of the Sub-Adviser unless the Fund is able to enter into another sub-advisory agreement with another sub-adviser who has an RQFII quota. Assets not allocated to the Sub-Adviser for investment directly in A-shares will be managed by the Adviser for investment through Stock
+  Connect. The Fund may also invest in A-shares listed and traded on the Shanghai Stock Exchange through the Hong Kong&#151;Shanghai Stock Connect (&#147;Stock Connect&#148;) program. Stock Connect is a securities trading and clearing program between the Shanghai Stock Exchange, the Stock Exchange of Hong Kong Limited (&#147;SEHK&#148;), China
+  Securities Depository and Clearing Corporation Limited and Hong Kong Securities Clearing Company Limited designed to permit mutual stock market access between mainland China and Hong Kong by allowing investors to trade and settle shares on each market via their local exchanges. Other exchanges in China, including the Shenzhen
+  Stock Exchange, may participate in Stock Connect in the future. Trading through Stock Connect is subject to aggregate investment quotas that limit total purchases and sales through Stock Connect as well as daily quotas that limit the maximum daily net purchases on any particular day. Accordingly, the Fund&#146;s direct investment in A-shares
+  will be limited to the RQFII or QFII quota and by the aggregate investment quotas, including daily quotas, that limit total purchases and/or sales through Stock Connect.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">The Fund may concentrate its investments in a particular industry or group of industries to the extent that the SME-ChiNext Index concentrates in an industry or group of industries. As of December 31, 2014, the SME-ChiNext Index was concentrated in the information technology sector, and each of the industrials, consumer discretionary and
+  health care sectors represented a significant portion of the SME-ChiNext Index.</FONT></P>
+<P style="margin:3.5mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; color:#c1ef00; "><B>PRINCIPAL RISKS OF INVESTING IN THE FUND</B></FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Investors in the Fund should be willing to accept a high degree of volatility in the price of the Fund&#146;s Shares and the possibility of significant losses. An investment in the Fund involves a substantial degree of risk. An investment in the Fund is not a deposit with a bank and is not insured or guaranteed by the Federal
+  Deposit Insurance Corporation or any other government agency. Therefore, you should consider carefully the following risks before investing in the Fund, each of which could significantly and adversely affect the value of an investment in the Fund.</B></FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Risk of the RQFII Regime and the Fund&#146;s Principal Investment Strategy. </B>The SME-ChiNext Index is comprised of A-shares. In seeking to replicate the SME-ChiNext Index, the Fund intends to invest directly in A-shares through the Sub-Adviser&#146;s RQFII quota and Stock Connect. Because the Fund will not be able to invest directly in A-
+  shares in excess of the Sub-Adviser&#146;s RQFII quota and beyond the limits that may be imposed by Stock Connect, the size of the Fund&#146;s direct investment in A-shares may be limited. In addition, the RQFII quota of the Sub-Adviser may be reduced or revoked by the Chinese regulators if, among other things, the Sub-Adviser fails to observe
+  SAFE and other applicable Chinese regulations. The Fund cannot predict what would occur if the RQFII quota of the Sub-Adviser or RQFII quotas generally were reduced or eliminated, although such an occurrence would likely have a material adverse effect on the Fund, including the requirement </FONT></P>
+<P style="margin-top:2.1mm; font-size:0; margin-bottom:3.1mm; margin-top:3.1mm; border-top:2pt solid #f3fcca;">&nbsp;</P>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr style="font-size:1px;">
+<td style="width:50%;">&nbsp;</td>
+<td style="width:50%;">&nbsp;</td>
+</tr>
+<tr>
+<td><P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:2.8mm; ">2</FONT></P></td>
+<td><P align="right" style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.1mm; "><B>marketvectorsetfs.com</B></FONT></P></td>
+</tr>
+</table>
+
+
+<p><hr color=#000000 noshade></p>
+<p style="page-break-before: always; margin-bottom: -12pt">&nbsp;</p>
+<PAGE>
+<P style="margin:2.1mm 0 0;"><FONT style="font-family:sans-serif; font-size:3.5mm; ">that the Fund dispose of certain or all of its A-shares holdings, and may adversely affect the willingness and ability of potential swap counterparties to engage in swaps with the Fund linked to the performance of A-shares. These risks are compounded by the fact that, at present, there are only a limited number of firms and potential
+  counterparties that have RQFII or QFII status or are willing and able to enter into swap transactions linked to the performance of A-shares. Therefore, any such reduction or elimination may have a material adverse effect on the ability of the Fund to achieve its investment objective. If the Fund is unable to obtain sufficient exposure to the
+  performance of the SME-ChiNext Index due to the limited availability of the Sub-Adviser&#146;s RQFII quota or other investments that provide exposure to the performance of A-shares, the Fund, subject to any necessary regulatory relief, could, among other things, as a defensive measure limit or suspend creations until the Adviser and/or the Sub-
+  Adviser determine that the requisite exposure to the SME-ChiNext Index is obtainable. During the period that creations are suspended, the Fund could trade at a significant premium or discount to its net asset value (&#147;NAV&#148;) and could experience substantial redemptions. Alternatively, the Fund could change its investment objective by, for
+  example, seeking to track an alternative index focused on Chinese-related stocks other than A-shares or other appropriate investments, or decide to liquidate the Fund.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">The A-share market is volatile with a risk of suspension of trading in a particular security or government intervention. Securities on the A-share market, including securities in the SME-ChiNext Index, may be suspended from trading without an indication of how long the suspension will last, which may impair the liquidity of such securities. The
+  regulations which regulate investments by RQFIIs in the PRC and the repatriation of capital from RQFII investments are relatively new. The application and interpretation of such investment regulations are therefore relatively untested and there is no certainty as to how they will be applied. The PRC authorities and regulators have been given wide
+  discretion in applying and interpreting such investment regulations and there is no precedent or certainty as to how such discretion may be exercised now or in the future. The application and interpretation of such investment regulations may adversely affect the Fund. In addition, there are custody risks associated with investing through a RQFII,
+  where, due to requirements regarding establishing a custody account in the joint names of the Fund and the Sub-Adviser, the Fund&#146;s assets may not be as well protected from the claims of the Sub-Adviser&#146;s creditors than if the Fund had an account in its name only.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">Specific rules governing taxes on capital gains derived by RQFIIs and QFIIs from the trading of PRC securities have yet to be announced. In the absence of specific rules, the tax treatment of the Fund&#146;s investments in A-shares through the Sub-Adviser&#146;s RQFII quota should be governed by the general PRC tax provisions and provisions
+  applicable to RQFIIs. Under these provisions, the Fund is generally subject to a tax of 10% on any dividends, distributions and interest it receives from its investment in PRC securities. In addition, a nonresident enterprise is subject to withholding tax at a rate of 10% on its capital gains. Withholding taxes on dividends, interest and capital gains
+  may be taxed at a reduced rate under an applicable tax treaty, but the application of such treaties for an RQFII acting on behalf of a foreign investor (<I>i.e.</I>, the Sub-Adviser acting on behalf of the Fund) is also uncertain and would depend upon the approval of PRC tax authorities. It is also unclear how China&#146;s business tax may apply to
+  activities of an RQFII such as the Sub-Adviser and how such application may be affected by tax treaty provisions. While it is unclear whether this tax will be applied to investments by an RQFII such as the Sub-Adviser or what the methodology for calculating or collecting the tax will be, the PRC&#146;s Ministry of Finance announced that, effective
+  November 17, 2014, the corporate income tax for QFIIs and RQFIIs, with respect to capital gains, will be temporarily lifted for a period of three years. The current PRC tax laws and regulations and interpretations thereof may be revised or amended in the future, including with respect to the possible liability of the Fund for obligations of the
+  Sub-Adviser. Any revision or amendment in tax laws and regulations may adversely affect the Fund. The Fund, prior to December 22, 2014, reserved 10% of its realized and unrealized gains from its A-share investments in &#147;land-rich&#148; enterprises, which are companies that have greater than 50% of their assets in land or real properties in the
+  PRC, to apply towards withholding tax liability. The tax reserve was reflected in the Fund&#146;s daily NAV calculations as a deduction from the Fund&#146;s NAV. It is expected that the PRC will, in 2015, begin collecting capital gains taxes from QFIIs and RQFIIs for investments realized between November 17, 2009 and November 16, 2014, although no
+  formal announcement has been made. If the PRC beings applying tax rules regarding the taxation of capital gains from A-share investment to RQFIIs, such as the Sub-Adviser, and/or begins collecting capital gains taxes on such investments (whether for the period described above or otherwise), the Fund could be subject to tax liability for any
+  tax payments for which reserves have not been made or that were not previously withheld. The impact of any such tax liability on the Fund&#146;s return could be substantial. The Fund may also be liable to the Sub- Adviser for any tax that is imposed on the Sub-Adviser by the PRC with respect to the Fund&#146;s investments.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">The Sub-Adviser, as a licensed RQFII, is currently permitted to repatriate RMB daily and is not subject to RMB repatriation restrictions or prior approval. However, there is no assurance that RQFIIs may not be subject to restrictions or prior approval requirements in the future. Any additional restrictions imposed on the Sub-Adviser or RQFIIs
+  generally may have an adverse effect on the Fund&#146;s ability to invest directly in A-shares and its ability to meet redemption requests.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">If the Fund&#146;s direct investments in A-shares through the Sub-Adviser&#146;s RQFII quota become subject to repatriation restrictions, the Fund may be unable to satisfy distribution requirements applicable to regulated investment companies (&#147;RICs&#148;) under the Internal Revenue Code of 1986, as amended (the &#147;Internal Revenue Code&#148;), and be subject
+  to income and excise tax at the Fund level. In addition, the Fund could be required to recognize unrealized gains, pay taxes and make distributions before re-</FONT></P>
+<P style="margin-top:2.1mm; font-size:0; margin-bottom:3.1mm; margin-top:3.1mm; border-top:2pt solid #f3fcca;">&nbsp;</P>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr style="font-size:1px;">
+<td style="width:50%;">&nbsp;</td>
+<td style="width:50%;">&nbsp;</td>
+</tr>
+<tr>
+<td><P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.1mm; "><B>marketvectorsetfs.com</B></FONT></P></td><td><P align="right" style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:2.8mm; ">3</FONT></P></td></tr></table>
+
+
+<p><hr color=#000000 noshade></p>
+<p style="page-break-before: always; margin-bottom: -12pt">&nbsp;</p>
+<PAGE>
+<P style="margin:2.1mm 0 0;"><FONT style="font-family:sans-serif; font-size:3.5mm; ">qualifying for taxation as a RIC. See the prospectus under &#147;Shareholder Information&#151;Tax Information&#151;Taxes on Distributions&#148; for more information. The Fund may elect, for U.S. federal income tax purposes, to treat Chinese taxes (including withholding taxes) paid by the Fund as paid by its shareholders. Even if the Fund is qualified to make that
+  election and does so this treatment will not apply with respect to amounts the Fund reserves in anticipation of the imposition of withholding taxes not currently in effect (as discussed above). If these amounts are used to pay any tax liability of the Fund in a later year, they will be treated as paid by the shareholders in such later year, even if
+  they are imposed with respect to income of an earlier year. See the prospectus under &#147;Shareholder Information&#151;Tax Information&#148; for a further description of this risk.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Special Risk Considerations of Investing in China and A-shares. </B>Investing in securities of Chinese companies, including A-shares, involves certain risks and considerations not typically associated with investing in securities of U.S. issuers, including, among others, (i) the small size of the market for Chinese securities and the low volume of
+  trading, resulting in lack of liquidity and in price volatility, (ii) currency devaluations and other currency exchange rate fluctuations or blockage, (iii) the nature and extent of intervention by the Chinese government in the Chinese securities markets, whether such intervention will continue and the impact of such intervention or its discontinuation, (iv)
+  the risk of nationalization or expropriation of assets, (v) the risk that the Chinese government may decide not to continue to support economic reform programs, (vi) limitations on the use of brokers, (vii) higher rates of inflation, (viii) greater political, economic and social uncertainty, (ix) market volatility caused by any potential regional or territorial
+  conflicts or natural disasters, (x) the risk of increased trade tariffs, embargoes and other trade limitations and (xi) custody risks associated with investing through a RQFII, where due to requirements regarding establishing a custody account in the joint names of the Fund and the Sub-Adviser the Fund&#146;s assets may not be as well protected from
+  the claims of the Sub-Adviser&#146;s creditors than if the Fund had an account in its name only.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">The economy of China differs, often unfavorably, from the U.S. economy in such respects as structure, general development, government involvement, wealth distribution, rate of inflation, growth rate, interest rates, allocation of resources and capital reinvestment, among others. The Chinese central government has historically exercised
+  substantial control over virtually every sector of the Chinese economy through administrative regulation and/or state ownership and actions of the Chinese central and local government authorities continue to have a substantial effect on economic conditions in China. In addition, the Chinese government has from time to time taken actions that
+  influence the prices at which certain goods may be sold, encourage companies to invest or concentrate in particular industries, induce mergers between companies in certain industries and induce private companies to publicly offer their securities to increase or continue the rate of economic growth, control the rate of inflation or otherwise
+  regulate economic expansion. It may do so in the future as well, potentially having a significant adverse effect on economic conditions in China.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">The Chinese securities markets are emerging markets characterized by relatively low trading volume, resulting in substantially less liquidity and greater price volatility. Liquidity risks may be more pronounced for the A-share market than for Chinese securities markets generally because the A-share market is subject to greater government
+  restrictions and control, including trading suspensions as discussed above. Price fluctuations of A-shares are currently limited to either 5% or 10% per trading day. In addition, there is less regulation and monitoring of Chinese securities markets and the activities of investors, brokers and other participants than in the United States. Accounting,
+  auditing and financial reporting standards in China are different from U.S. standards and, therefore, disclosure of certain material information may not be made. In addition, less information may be available to the Fund and other investors than would be the case if the Fund&#146;s investments were restricted to securities of U.S. issuers. There is also
+  generally less governmental regulation of the securities industry in China, and less enforcement of regulatory provisions relating thereto, than in the United States. Moreover, it may be more difficult to obtain a judgment in a court outside the United States.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">The Chinese government strictly regulates the payment of foreign currency denominated obligations and sets monetary policy. In addition, the Chinese economy is export-driven and highly reliant on trade. Adverse changes to the economic conditions of its primary trading partners, such as the United States, Japan and South Korea, would
+  adversely impact the Chinese economy and the Fund&#146;s investments. Moreover, a slowdown in other significant economies of the world, such as the United States, the European Union and certain Asian countries, may adversely affect economic growth in China. An economic downturn in China would adversely impact the Fund&#146;s investments.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">Emerging markets such as China can experience high rates of inflation, deflation and currency devaluation. The value of the RMB may be subject to a high degree of fluctuation due to, among other things, changes in interest rates, the effects of monetary policies issued by the PRC, the United States, foreign governments, central banks or
+  supranational entities, the imposition of currency controls or other national or global political or economic developments. The Fund invests a significant portion of its assets in investments denominated in RMB and the income received by the Fund will principally be in RMB. The Fund&#146;s exposure to the RMB and changes in value of the RMB
+  versus the U.S. dollar may result in reduced returns for the Fund. Moreover, the Fund may incur costs in connection with conversions between U.S. dollars and RMB. The RMB is currently not a freely convertible currency. The Chinese government places strict regulation on RMB and sets the value of the RMB to levels dependent on the value
+  of the U.S. dollar, but the Chinese government has been under pressure to manage the currency in a less restrictive fashion so that it is less correlated to the U.S. dollar. The Chinese government&#146;s imposition of restrictions on the repatriation of RMB out of mainland China may limit the depth of the offshore RMB market and reduce </FONT></P>
+<P style="margin-top:2.1mm; font-size:0; margin-bottom:3.1mm; margin-top:3.1mm; border-top:2pt solid #f3fcca;">&nbsp;</P>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr style="font-size:1px;">
+<td style="width:50%;">&nbsp;</td>
+<td style="width:50%;">&nbsp;</td>
+</tr>
+<tr>
+<td><P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:2.8mm; ">4</FONT></P></td>
+<td><P align="right" style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.1mm; "><B>marketvectorsetfs.com</B></FONT></P></td>
+</tr>
+</table>
+
+
+<p><hr color=#000000 noshade></p>
+<p style="page-break-before: always; margin-bottom: -12pt">&nbsp;</p>
+<PAGE>
+<P style="margin:2.1mm 0 0;"><FONT style="font-family:sans-serif; font-size:3.5mm; ">the liquidity of the Fund&#146;s investments. There may not be sufficient amounts of RMB for the Fund to be fully invested because the Fund has to convert U.S. dollars received from the purchase of Creation Units (defined herein) into RMB to purchase A-shares. As a result, these restrictions may adversely affect the Fund and its investments and
+  may increase the risk of Index tracking error.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Risks of Investing through Stock Connect. </B>The Fund may invest in A-shares listed and traded on the Shanghai Stock Exchange through Stock Connect, or on such other stock exchanges in China which participate in Stock Connect from time to time or in the future. Trading through Stock Connect is subject to a number of restrictions that
+  may affect the Fund&#146;s investments and returns. For example, trading through Stock Connect is subject to aggregate investment quotas that limit total purchases and sales through Stock Connect as well as daily quotas that limit the maximum daily net purchases on any particular day, each of which may restrict or preclude the Fund&#146;s ability to
+  invest in Stock Connect A-shares. In addition, investments made through Stock Connect are subject to trading, clearance and settlement procedures that are untested in the PRC, which could pose risks to the Fund. Moreover, Stock Connect A-shares generally may not be sold, purchased or otherwise transferred other than through Stock
+  Connect in accordance with applicable rules. A primary feature of Stock Connect is the application of the home market&#146;s laws and rules applicable to investors in A-shares. Therefore, the Fund&#146;s investments in Stock Connect A-shares are generally subject to PRC securities regulations and listing rules, among other restrictions. Finally,
+  uncertainties in PRC tax rules governing taxation of income and gains from investments in Stock Connect A-shares could result in unexpected tax liabilities for the Fund. The withholding tax treatment of dividends and capital gains payable to overseas investors currently is unsettled.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">The Stock Connect program is a pilot program in its initial stages. Further developments are likely and there can be no assurance as to the program&#146;s continued existence or whether future developments regarding the program may restrict or adversely affect the Fund&#146;s investments or returns. In addition, the application and interpretation of the
+  laws and regulations of Hong Kong and the PRC, and the rules, policies or guidelines published or applied by relevant regulators and exchanges in respect of the Stock Connect program are uncertain, and they may have a detrimental effect on the Fund&#146;s investments and returns.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Risk of Investing in Foreign Securities. </B>Investments in the securities of foreign issuers involve risks beyond those associated with investments in U.S. securities. These additional risks include greater market volatility, the availability of less reliable financial information, higher transactional and custody costs, taxation by foreign governments,
+  decreased market liquidity and political instability. Because certain foreign securities markets may be limited in size, the activity of large traders may have an undue influence on the prices of securities that trade in such markets. Because the Fund may invest in securities denominated in foreign currencies and some of the income received by
+  the Fund may be in foreign currencies, changes in currency exchange rates may negatively impact the Fund&#146;s return. The risks of investing in emerging market countries are greater than risks associated with investments in foreign developed countries. The Fund may also invest in depositary receipts which involve similar risks to those
+  associated with investments in foreign securities.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Risk of Investing in Emerging Market Issuers. </B>Investments in securities of emerging market issuers are exposed to a number of risks that may make these investments volatile in price or difficult to trade. Political risks may include unstable governments, nationalization, restrictions on foreign ownership, laws that prevent investors from getting
+  their money out of a country and legal systems that do not protect property rights as well as the laws of the United States. Market risks may include economies that concentrate in only a few industries, securities issues that are held by only a few investors, limited trading capacity in local exchanges and the possibility that markets or issues
+  may be manipulated by foreign nationals who have inside information.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Risk of Investing in Small- and Medium-Capitalization Companies. </B>Small- and medium-capitalization companies may be more volatile and more likely than large-capitalization companies to have narrower product lines, fewer financial resources, less management depth and experience and less competitive strength. In addition, these
+  companies often have greater price volatility, lower trading volume and less liquidity than larger more established companies. Returns on investments in securities of small- and medium-capitalization companies could trail the returns on investments in securities of large-capitalization companies.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Risk of Investing in the Information Technology Sector. </B>To the extent that the SME-ChiNext Index continues to be concentrated in the information technology sector, the Fund will be sensitive to changes in, and its performance will depend to a greater extent on, the overall condition of the information technology sector. Information
+  technology companies face intense competition, both domestically and internationally, which may have an adverse effect on profit margins. Information technology companies may have limited product lines, markets, financial resources or personnel. The products of information technology companies may face product obsolescence due to rapid
+  technological developments and frequent new product introduction, unpredictable changes in growth rates and competition for the services of qualified personnel. Companies in the information technology sector are heavily dependent on patent protection and the expiration of patents may adversely affect the profitability of these companies.</FONT></P>
+<P style="margin-top:2.1mm; font-size:0; margin-bottom:3.1mm; margin-top:3.1mm; border-top:2pt solid #f3fcca;">&nbsp;</P>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr style="font-size:1px;">
+<td style="width:50%;">&nbsp;</td>
+<td style="width:50%;">&nbsp;</td>
+</tr>
+<tr>
+<td><P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.1mm; "><B>marketvectorsetfs.com</B></FONT></P></td><td><P align="right" style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:2.8mm; ">5</FONT></P></td></tr></table>
+
+
+<p><hr color=#000000 noshade></p>
+<p style="page-break-before: always; margin-bottom: -12pt">&nbsp;</p>
+<PAGE>
+<P style="margin:2.1mm 0 0;"><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Risk of Investing in the Consumer Discretionary Sector. </B>To the extent that the consumer discretionary sector continues to represent a significant portion of the SME-ChiNext Index, the Fund will be sensitive to changes in, and its performance may depend to a greater extent on, the overall condition of the consumer discretionary sector.
+  Companies engaged in the consumer discretionary sector are subject to fluctuations in supply and demand. These companies may also be adversely affected by changes in consumer spending as a result of world events, political and economic conditions, commodity price volatility, changes in exchange rates, imposition of import controls,
+  increased competition, depletion of resources and labor relations.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Risk of Investing in the Health Care Sector. </B>To the extent that the health care sector continues to represent a significant portion of the SME-ChiNext Index, the Fund will be sensitive to changes in, and its performance may depend to a greater extent on, the overall condition of the health care sector. Companies in the healthcare sector may
+  be affected by extensive government regulation, restrictions on government reimbursement for medical expenses, rising costs of medical products and services, pricing pressure, an increased emphasis on outpatient services, limited number of products, industry innovation, changes in technologies and other market developments. Many
+  healthcare companies are heavily dependent on patent protection and are subject to extensive litigation based on product liability and similar claims.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Risk of Investing in the Industrials Sector. </B>To the extent that the industrials sector continues to represent a significant portion of the SME-ChiNext Index, the Fund will be sensitive to changes in, and its performance may depend to a greater extent on, the overall condition of the industrials sector. Companies in the industrials sector may be
+  adversely affected by changes in government regulation, world events and economic conditions. In addition, companies in the industrials sector may be adversely affected by environmental damages, product liability claims and exchange rates.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Equity Securities Risk.</B> The value of the equity securities held by the Fund may fall due to general market and economic conditions, perceptions regarding the markets in which the issuers of securities held by the Fund participate, or factors relating to specific issuers in which the Fund invests. Equity securities are subordinated to preferred
+  securities and debt in a company&#146;s capital structure with respect to priority in right to a share of corporate income, and therefore will be subject to greater dividend risk than preferred securities or debt instruments. In addition, while broad market measures of equity securities have historically generated higher average returns than fixed income
+  securities, equity securities have generally also experienced significantly more volatility in those returns, although under certain market conditions fixed income securities may have comparable or greater price volatility.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Market Risk.</B> The prices of the securities in the Fund are subject to the risks associated with investing in the securities market, including general economic conditions and sudden and unpredictable drops in value. An investment in the Fund may lose money.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Index Tracking Risk. </B>The Fund&#146;s return may not match the return of the SME-ChiNext Index for a number of reasons. For example, the Fund incurs a number of operating expenses not applicable to the SME-ChiNext Index and incurs costs associated with buying and selling securities and entering into derivatives transactions, especially when
+  rebalancing the Fund&#146;s securities holdings to reflect changes in the composition of the SME-ChiNext Index and raising cash to meet redemptions or deploying cash in connection with newly created Creation Units (defined herein). In addition, the Fund may not be able to invest in certain securities included in the SME-ChiNext Index or invest in
+  them in the exact proportions in which they are represented in the SME-ChiNext Index, due to legal restrictions or limitations imposed by the Chinese Government, a lack of liquidity on stock exchanges in which such securities trade, potential adverse tax consequences or other regulatory reasons. As discussed above, one or more securities
+  included the SME-ChiNext Index may be suspended from trading and such securities would be valued by the SME-ChiNext Index at the last closing price. The Fund is expected to value these securities and its other investments based on fair value prices. To the extent the Fund calculates its NAV based on fair value prices and the value of the
+  SME-ChiNext Index is based on securities&#146; closing prices on local foreign markets (i.e., the value of the SME-ChiNext Index is not based on fair value prices), the Fund&#146;s ability to track the SME-ChiNext Index may be adversely affected. The Fund will be required to remit RMB to settle the purchase of A-shares and repatriate RMB to U.S.
+  dollars to settle redemption orders. In the event such remittance is delayed or disrupted, the Fund will not be able to fully replicate the SME-ChiNext Index by investing in the relevant A-shares, which may lead to increased tracking error, and may need to rely on borrowings to meet redemptions, which may lead to increased expenses.
+  Moreover, the ability of the Fund to track the SME-ChiNext Index may be affected by foreign exchange fluctuations as between the U.S. dollar and the RMB to the extent the SME-ChiNext Index is priced in Chinese RMB and the Fund is priced in U.S. dollars. The Fund may underperform the SME-ChiNext Index when the value of the U.S.
+  dollar increases relative to the value of the RMB. Additionally, to the extent the Fund invests in swaps, the terms of the swaps may require the payment of the U.S. dollar equivalent of the RMB distributions and dividends received by the QFII, meaning that the Fund is exposed to foreign exchange risk and fluctuations in value between the U.S.
+  dollar and the RMB. For tax efficiency purposes, the Fund may sell certain securities to realize losses causing it to deviate from the performance of the SME-ChiNext Index. In light of the above factors, the Fund&#146;s return may deviate significantly from the return of the SME-ChiNext Index.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Replication Management Risk. </B>An investment in the Fund involves risks similar to those of investing in any fund of equity securities traded on an exchange, such as market fluctuations caused by such factors as economic and political </FONT></P>
+<P style="margin-top:2.1mm; font-size:0; margin-bottom:3.1mm; margin-top:3.1mm; border-top:2pt solid #f3fcca;">&nbsp;</P>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr style="font-size:1px;">
+<td style="width:50%;">&nbsp;</td>
+<td style="width:50%;">&nbsp;</td>
+</tr>
+<tr>
+<td><P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:2.8mm; ">6</FONT></P></td>
+<td><P align="right" style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.1mm; "><B>marketvectorsetfs.com</B></FONT></P></td>
+</tr>
+</table>
+
+
+<p><hr color=#000000 noshade></p>
+<p style="page-break-before: always; margin-bottom: -12pt">&nbsp;</p>
+<PAGE>
+<P style="margin:2.1mm 0 0;"><FONT style="font-family:sans-serif; font-size:3.5mm; ">developments, changes in interest rates and perceived trends in security prices. However, because the Fund is not &#147;actively&#148; managed, unless a specific security is removed from the SME-ChiNext Index, the Fund generally would not sell a security because the security&#146;s issuer was in financial trouble. Therefore, the Fund&#146;s performance could
+  be lower than funds that may actively shift their portfolio assets to take advantage of market opportunities or to lessen the impact of a market decline or a decline in the value of one or more issuers.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Premium/Discount Risk.</B> Disruptions to creations and redemptions, the existence of extreme market volatility or potential lack of an active trading market for Shares may result in Shares trading at a significant premium or discount to NAV. If a shareholder purchases Shares at a time when the market price is at a premium to the NAV or sells
+  Shares at a time when the market price is at a discount to the NAV, the shareholder may sustain losses.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Risk of Cash Transactions.</B> Unlike other ETFs, the Fund expects to effect all of its creations and redemptions for cash, rather than in-kind securities. As such, investments in Shares may be less tax-efficient than an investment in a conventional ETF.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Non-Diversified Risk.</B> The Fund is classified as a &#147;non-diversified&#148; investment company under the Investment Company Act of 1940, as amended (the &#147;1940 Act&#148;). Therefore, the Fund may invest a relatively high percentage of its assets in a smaller number of issuers or may invest a larger proportion of its assets in a single issuer. As a result, the
+  gains and losses on a single investment may have a greater impact on the Fund&#146;s NAV and may make the Fund more volatile than more diversified funds.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Concentration Risk.</B> The Fund&#146;s assets may be concentrated in a particular sector or sectors or industry or group of industries<br>to the extent the SME-ChiNext Index concentrates in a particular sector or sectors or industry or group of industries. To the extent that the SME-ChiNext Index continues to be concentrated in the information technology sector, the Fund will be subject to the risk that economic, political or other conditions that have a negative effect on that
+  sector will negatively impact the Fund to a greater extent than if the Fund&#146;s assets were invested in a wider variety of sectors or industries.</FONT></P>
+<P style="margin:3.5mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; color:#c1ef00; "><B>PERFORMANCE</B></FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">The Fund commenced operations on July 23, 2014 and therefore does not have a performance history for a full calendar year. The Fund&#146;s financial performance for the Fund&#146;s first fiscal period is included in the &#147;Financial Highlights&#148; section of the prospectus. Visit www.marketvectorsetfs.com for current performance figures.</FONT></P>
+<P style="margin:3.5mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; color:#c1ef00; "><B>PORTFOLIO MANAGEMENT</B></FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Investment Adviser.</B> Van Eck Associates Corporation.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Investment Sub-Adviser.</B> China Asset Management (Hong Kong) Limited.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; "><B>Portfolio Managers.</B> The following individuals are jointly and primarily responsible for the day-to-day management of the Fund&#146;s portfolio:</FONT></P>
+<TABLE cellspacing=0 cellpadding=0 style="margin-left:0.00%; margin-right:0.00%; width:100.00%;background:#effbbb; border:solid .75pt rgb(193,239,0); margin-top:6pt;" >
+  <TR valign="top">
+    <TD style="width:30.13%;"><P><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+    <TD style="width:2.63%"><P><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+    <TD style="width:30.13%;"><P><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+    <TD style="width:2.63%"><P><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+    <TD style="width:30.13%;"><P><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+  </TR>
+  <TR valign="bottom">
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.1mm; "><B>
+      Name</B></FONT></P></TD>
+    <TD width="3">&nbsp;</TD>
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.1mm; "><B>
+      Title with Sub-Adviser</B></FONT></P></TD>
+    <TD width="3">&nbsp;</TD>
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.1mm; "><B>
+      Date Began Managing the Fund</B></FONT></P></TD>
+  </TR>
+  <TR valign="top" style="font-size:0.2mm">
+    <TD colspan="5" align="center" style="border-top:solid .27mm Black; "><P><font style="font-size:0.2mm;">&nbsp;</font></P></TD>
+  </TR>
+  <TR valign="top">
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.1mm; ">
+      Jian Fei (Jeffrey) Wu</FONT></P></TD>
+    <TD width="3">&nbsp;</TD>
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.1mm; ">
+      Portfolio Manager</FONT></P></TD>
+    <TD width="3">&nbsp;</TD>
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.1mm; ">
+      Since inception</FONT></P></TD>
+  </TR>
+</TABLE>
+<TABLE cellspacing=0 cellpadding=0 style="margin-left:0.00%; margin-right:0.00%; width:100.00%;background:#effbbb; border:solid .75pt rgb(193,239,0); margin-top:6pt;" >
+  <TR valign="top">
+    <TD style="width:30.13%;"><P><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+    <TD style="width:2.63%"><P><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+    <TD style="width:30.13%;"><P><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+    <TD style="width:2.63%"><P><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+    <TD style="width:30.13%;"><P><font style="font-size:0.6mm;">&nbsp;</font></P></TD>
+  </TR>
+  <TR valign="bottom">
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.1mm; "><B>
+      Name</B></FONT></P></TD>
+    <TD width="3">&nbsp;</TD>
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.1mm; "><B>
+      Title with Adviser</B></FONT></P></TD>
+    <TD width="3">&nbsp;</TD>
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.1mm; "><B>
+      Date Began Managing the Fund</B></FONT></P></TD>
+  </TR>
+  <TR valign="top" style="font-size:0.2mm">
+    <TD colspan="5" align="center" style="border-top:solid .27mm Black; "><P><font style="font-size:0.2mm;">&nbsp;</font></P></TD>
+  </TR>
+  <TR valign="top">
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.1mm; ">
+      Hao-Hung (Peter) Liao</FONT></P></TD>
+    <TD width="3">&nbsp;</TD>
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.1mm; ">
+      Portfolio Manager</FONT></P></TD>
+    <TD width="3">&nbsp;</TD>
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.1mm; ">
+      Since inception</FONT></P></TD>
+  </TR>
+  <TR valign="top">
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.1mm; ">
+      George Chao</FONT></P></TD>
+    <TD width="3">&nbsp;</TD>
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.1mm; ">
+      Portfolio Manager</FONT></P></TD>
+    <TD width="3">&nbsp;</TD>
+    <TD><P><FONT style="font-family:sans-serif; font-size:3.1mm; ">
+      Since inception</FONT></P></TD>
+  </TR>
+</TABLE>
+<P style="margin:3.5mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; color:#c1ef00; "><B>PURCHASE AND SALE OF FUND SHARES</B></FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">The Fund issues and redeems Shares at NAV only in a large specified number of Shares each called a &#147;Creation Unit,&#148; or multiples thereof. A Creation Unit consists of 50,000 Shares.</FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">Individual Shares of the Fund may only be purchased and sold in secondary market transactions through brokers. Shares of the Fund are listed on NYSE Arca, Inc. (&#147;NYSE Arca&#148;) and because Shares trade at market prices rather than NAV, Shares of the Fund may trade at a price greater than or less than NAV.</FONT></P>
+<P style="margin:3.5mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; color:#c1ef00; "><B>TAX INFORMATION</B></FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">The Fund&#146;s distributions are taxable and will generally be taxed as ordinary income or capital gains.</FONT></P>
+<P style="margin:3.5mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; color:#c1ef00; "><B>PAYMENTS TO BROKER-DEALERS AND OTHER FINANCIAL INTERMEDIARIES</B></FONT></P>
+<P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.5mm; ">The Adviser and its related companies may pay broker-dealers or other financial intermediaries (such as a bank) for the sale of the Fund Shares and related services. These payments may create a conflict of interest by influencing your broker-dealer or other intermediary or its employees or associated persons to recommend the Fund over
+  another investment. Ask your financial adviser or visit your financial intermediary&#146;s website for more information.</FONT></P>
+<P style="margin-top:2.1mm; font-size:0; margin-bottom:3.1mm; margin-top:3.1mm; border-top:2pt solid #f3fcca;">&nbsp;</P>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr style="font-size:1px;">
+<td style="width:50%;">&nbsp;</td>
+<td style="width:50%;">&nbsp;</td>
+</tr>
+<tr>
+<td><P style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.1mm; "><B>marketvectorsetfs.com</B></FONT></P></td><td><P align="right" style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:2.8mm; ">7</FONT></P></td></tr></table>
+
+
+<p><hr color=#000000 noshade></p>
+<p style="page-break-before: always; margin-bottom: -12pt">&nbsp;</p>
+<PAGE>
+<P align="right" style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:4.2mm; "><B><br>888.MKT.VCTR<br>marketvectorsetfs.com</B></FONT></P>
+<P style="margin-top:2.1mm; font-size:0; margin-bottom:3.1mm; margin-top:3.1mm; border-top:2pt solid #f3fcca;">&nbsp;</P>
+<P align="right" style="margin:2.1mm 0 0; "><FONT style="font-family:sans-serif; font-size:3.1mm; "><B>(05/15)</B></FONT></P>
+<p><hr color=#000000 noshade></p>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>vegxrxs1955xgsxsum.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 vegxrxs1955xgsxsum.jpg
+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
+(!S13J*`/_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,1246 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html class="win" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>
+	Canadian Securities Administrators
+</title><meta http-equiv="Page-Enter" content="blendTrans(Duration=0.05)"><link rel="stylesheet" type="text/css" href="http://www.securities-administrators.ca/WorkArea/FrameworkUI/css/ektron.stylesheet.ashx?id=-1759591071+-845549574+-1619052588"><script type="text/javascript" src="/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=-569449246+-1939951303+-1080527330+-1687560804+-1388997516+2009761168+27274999+1979897163+-422906301+-1818005853+-1008700845"></script>  
+
+    <!-- August 2015 : New font used - Google Open Sans font -->    
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css"><link href="http://www.securities-administrators.ca/css/main.css" rel="stylesheet" type="text/css"><link href="http://www.securities-administrators.ca/css/nrd_print.css" rel="stylesheet" type="text/css" media="print"><link href="http://www.securities-administrators.ca/css/nrdsearch.css" rel="stylesheet" type="text/css">
+          
+    <script type="text/javascript" src="/scripts/gssi.base.js"></script>
+    <script type="text/javascript" src="/scripts/gssi.environment.js"></script>
+    <script type="text/javascript" src="/scripts/gssi.events.js"></script>
+    <script type="text/javascript" src="/scripts/gssi.dom.js"></script>
+    <script type="text/javascript" src="/scripts/csa.js"></script>
+    <script type="text/javascript" src="/nifti/nifti.js"></script>    
+
+    <script type="text/javascript">
+        NIFTI.init("/nifti/nifti.ashx", ".section-title", ".about h1", ".tools h1", ".enforcement h1", ".enforcement-list h1", ".orders h1", ".resources h1", ".resources-fr h1", ".registration h1", ".inscription h1", "#overview-intro");
+//        NIFTI.init("/nifti/nifti.ashx", ".section-title", ".about h1", ".tools h1", ".enforcement h1", ".enforcement-list h1", ".orders h1", ".registration h1", ".resources h1", ".about-french h1", ".tools-french h1", ".enforcement-french h1", ".enforcement-list-french h1", ".orders-french h1", "registration-french h1", ".resources-french h1", "#overview-intro");
+    </script>
+
+    <script type="text/javascript">
+        function gotopage(language) {
+            //alert(document.location.href);
+            if (language == "french") {
+                var url = document.location.href;
+                if (url.indexOf("LangType=1033") > -1)
+                    url = url.replace("LangType=1033", "LangType=1036");
+                else if (url.indexOf("?") > -1)
+                    url = url + "&LangType=1036";
+                else
+                    url = url + "?LangType=1036";
+                url = url.replace("bcsecurities.gssiwebs.com", "bcsecurities-fr.gssiwebs.com");
+            }
+            else {
+                var url = document.location.href;
+                if (url.indexOf("LangType=1036") > -1)
+                    url = url.replace("LangType=1036", "LangType=1033");
+                else if (url.indexOf("?") > -1)
+                    url = url + "&LangType=1033";
+                else
+                    url = url + "?LangType=1033";
+
+                url = url.replace("bcsecurities-fr.gssiwebs.com", "bcsecurities.gssiwebs.com");
+            }
+            document.location.href = url;
+        }
+    </script>
+    <script type="text/javascript">
+    
+    <!--
+    function MM_swapImgRestore() { //v3.0
+     var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+    }
+    function MM_preloadImages() { //v3.0
+     var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+     if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+    }
+    
+    function MM_findObj(n, d) { //v4.01
+     var p,i,x; if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+     d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+     if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+     for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+     if(!x && d.getElementById) x=d.getElementById(n); return x;
+    }
+    
+    function MM_swapImage() { //v3.0
+     var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+     if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+    }
+    
+    function redirectURL()
+    {
+     //alert(document.getElementById("categorylist").value);
+     window.location.href = document.getElementById("categorylist").value;
+    }
+    //-->
+    
+
+
+    </script>
+    
+    
+    <script type="text/javascript" src="/scripts/jquery-1.11.4.js"></script>
+    <meta name="description" content="The Canadian Securities Administrators CSA has investor resources to prevent securities fraud. We also offer securities compliance, cease trade order, securities passport, investor protection and more.">
+<meta name="keywords" content="cease trade order, securities fraud, securities regulator, investment securities,  investment regulations canada, canadian public companies">
+<title>CSA | Industry Resources | Overview</title>
+
+<script type="text/javascript">Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+});
+</script><script type="text/javascript">Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+});
+</script><script type="text/javascript">Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+});
+</script><script type="text/javascript">Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+});
+</script><script type="text/javascript">Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+});
+</script><script type="text/javascript">Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+});
+</script><script type="text/javascript">Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+});
+</script><script type="text/javascript">Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+});
+</script><script type="text/javascript">Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+});
+</script><script type="text/javascript">Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+});
+</script></head>
+<body style="cursor: default;" class="gecko">
+    <div id="container">
+        <form method="post" action="/nrs/nrsFirmSearchResults.aspx?mode=AS&amp;type=F&amp;firm=&amp;juri=1&amp;ctgy=1&amp;history=0" id="aspnetForm">
+<div class="aspNetHidden">
+
+
+
+
+
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=4GYn0_jpzmQi_HgbArti1aoukJwZvv_eIR8NFkDfH2qCR4KJXmVV7qwQy1x6giBfGCheQEEDQOAWoR1DnD9pGlXtLMW7bQftxlCd4vVp6FM1&amp;t=635802997220000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=MUhdEh1AzAC7Zb81j-DRoGLor3zIIoNIaXbAehjXDS-jvkxIASeBirS5mB-_batcjKtMlQ2anvfLrw18VnJFfjR1x-XmJhm_1hMhEUok0ySc0kvU-xiNbNI5Kdujtrw4aUrPdcRxFwC8oknK492q60jMiH7C4h04HE4BIqVCN0M3y_MZHVJKGRAIgv9NPZBo0&amp;t=5f9d5645" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=lKuG1xrGHlo0kooN2UX6KQh-Bpm33TmVBFCQ3aQ5BWpGR9f8jFU3zOXnWNK2E5cP-WYgUpOD3r1bXg6AJgV2NYUi47i190ZJaS5ZkE7eUptC73sfzmtaPEeyzilHYNGB91-dcjA1SKcOdat1K2rDGGUU3phElDtRoaeXfgXaWOI0e_s3-gfLEJ7RDiml_FWu0&amp;t=5f9d5645" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	
+	
+	
+</div>
+        <div id="header">
+            <div id="logo-section">
+                <div id="ctl00_pnl_logoeng">
+	<a id="logo" href="http://www.securities-administrators.ca/"></a>
+</div>
+                
+               
+                <div id="util">
+                    <div id="ctl00_pnl_util_english">
+	
+                        <a id="util-home" class="util-item" href="http://www.securities-administrators.ca/">Home</a> <a id="util-login" class="util-item" href="http://www.securities-administrators.ca/login.aspx">Member Login</a> <input name="ctl00$imgbtn_english" id="ctl00_imgbtn_english" onmouseover="MM_swapImage('ctl00_imgbtn_english','','/images/util/french-over.png',1)" onmouseout="MM_swapImgRestore()" src="../images/util/french.png" type="image">
+                    
+</div>
+                    
+                </div>
+                <div id="search" style="padding-top:5px">
+                    <div id="ctl00_searchBox_pnl_sitesearch" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_searchBox_ImageButton1')">
+	
+<div id="search-field">
+    <script language="javascript">
+function noenter() {
+    if (window.event && window.event.keyCode == 13) {
+        window.location.href = 'search.aspx?searchtext=' + document.getElementById('ctl00_searchBox_searchTxt').value; 
+        return false; 
+    } else {
+        return true; 
+    } 
+}
+</script>
+
+    <input name="ctl00$searchBox$searchTxt" id="ctl00_searchBox_searchTxt" onkeypress="javascript:return noenter();" type="text"></div>
+<input name="ctl00$searchBox$ImageButton1" id="ctl00_searchBox_ImageButton1" onmouseover="javascript:this.src='/images/util/go-over.gif'" onmouseout="javascript:this.src='/images/util/go.gif'" src="../images/util/go.gif" onclick="return noenter();" type="image">
+
+</div>
+
+                </div>
+            </div>
+            
+    <div id="nav" class="registration">
+        <div id="ctl00_navContent_pnl_nav_english">
+	
+            <div id="ctl00_navContent_fm1">
+		<link type="text/css" rel="stylesheet" href="http://www.securities-administrators.ca/css/horizontal.css"><div class="horizontal"><div class="ekflexmenu" id="e9edebdfa_23_0_ekflexmenu" onmouseover="return (ekFlexMenuPopupMsIn(event));" onmouseout="return (ekFlexMenuPopupMsOut(event));"><div class="ekflexmenu_menu_level_0 ekflexmenu_submenu"><ul data-ektron-flexmenu-preselected-submenu="true" class="ekflexmenu_submenu_items" id="e9edebdfa_23_0_submenu_items"><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel" id="e9edebdfa_23_30"><a id="e9edebdfa_23_30_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=45">About CSA</a><input id="e9edebdfa_23_30_parentid" value="e9edebdfa_23_23" type="hidden"><ul id="e9edebdfa_23_30_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=45" target="_self">Overview</a></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e9edebdfa_23_32"><a id="e9edebdfa_23_32_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=77">Who We Are</a><input id="e9edebdfa_23_32_parentid" value="e9edebdfa_23_30" type="hidden"><ul id="e9edebdfa_23_32_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=77" target="_self">Overview</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/our-mission.aspx" target="_self">Our Mission</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=80" target="_self">CSA Members</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=92" target="_self">CSA Structure</a></li></ul></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=1162" target="_self">CSA Business Plan</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=94" target="_self">What's New</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=866" target="_self">Letters, Statements and Other Reports</a></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e9edebdfa_23_37"><a id="e9edebdfa_23_37_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=101">Regulatory Cooperation</a><input id="e9edebdfa_23_37_parentid" value="e9edebdfa_23_30" type="hidden"><ul id="e9edebdfa_23_37_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=101" target="_self">Overview</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=96" target="_self">Pan-Canadian</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=97" target="_self">International</a></li></ul></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=99" target="_self">Contact Us</a></li></ul></li><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel" id="e9edebdfa_23_25"><a id="e9edebdfa_23_25_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=82">Investor Tools</a><input id="e9edebdfa_23_25_parentid" value="e9edebdfa_23_23" type="hidden"><ul id="e9edebdfa_23_25_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=82" target="_self">Overview</a></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e9edebdfa_23_39"><a id="e9edebdfa_23_39_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=102">Investing Basics</a><input id="e9edebdfa_23_39_parentid" value="e9edebdfa_23_25" type="hidden"><ul id="e9edebdfa_23_39_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=102" target="_self">What is investing</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=83" target="_self">Setting Goals</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=85" target="_self">Understanding Risk</a></li></ul></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e9edebdfa_23_65"><a id="e9edebdfa_23_65_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=84">Working with Advisers</a><input id="e9edebdfa_23_65_parentid" value="e9edebdfa_23_25" type="hidden"><ul id="e9edebdfa_23_65_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=84" target="_self">Choosing an Adviser</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1001" target="_self">Client-Adviser Relationship</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1002" target="_self">Dealing With Disputes</a></li></ul></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1128" target="_self">Are They Registered?</a></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e9edebdfa_23_67"><a id="e9edebdfa_23_67_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=1003">Understanding your Investments</a><input id="e9edebdfa_23_67_parentid" value="e9edebdfa_23_25" type="hidden"><ul id="e9edebdfa_23_67_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1003" target="_self">Be an Informed Investor</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1004" target="_self">Types of Investments</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/FundFacts.aspx?id=1275" target="_self">Fund Facts: Interactive Sample</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1401" target="_self">Start-up Crowdfunding FAQs</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1407" target="_self">Types of Crowdfunding</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1406" target="_self">Risks of Crowdfunding</a></li></ul></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=87" target="_self">Young Investors</a></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e9edebdfa_23_63"><a id="e9edebdfa_23_63_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=88">Avoiding Fraud</a><input id="e9edebdfa_23_63_parentid" value="e9edebdfa_23_25" type="hidden"><ul id="e9edebdfa_23_63_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=736" target="_self">Know the Red Flags of Fraud</a></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e9edebdfa_23_69"><a id="e9edebdfa_23_69_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=1008">Common Frauds and Scams</a><input id="e9edebdfa_23_69_parentid" value="e9edebdfa_23_63" type="hidden"><ul id="e9edebdfa_23_69_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1041" target="_self">Forex Resources</a></li></ul></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1009" target="_self">Report a Scam</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1039" target="_self">BlueHedge Investments Fraud Campaign</a></li></ul></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1005" target="_self">Brochures</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=995" target="_self">Seeking Compensation</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=838" target="_self">Publications</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1011" target="_self">Research</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=89" target="_self">Related Links</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=90" target="_self">My Local Investor Education</a></li></ul></li><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel" id="e9edebdfa_23_26"><a id="e9edebdfa_23_26_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=73">Enforcement</a><input id="e9edebdfa_23_26_parentid" value="e9edebdfa_23_23" type="hidden"><ul id="e9edebdfa_23_26_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/enforcement.aspx?id=73" target="_self">Overview</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/disciplinedpersons.aspx?id=74" target="_self">Disciplined Persons</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/InvestorAlerts.aspx?id=985" target="_self">Investor Alerts</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/enforcement.aspx?id=75" target="_self">Activity Reports</a></li></ul></li><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel" id="e9edebdfa_23_28"><a id="e9edebdfa_23_28_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=171">Cease Trade Orders</a><input id="e9edebdfa_23_28_parentid" value="e9edebdfa_23_23" type="hidden"><ul id="e9edebdfa_23_28_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/cease_trade.aspx?id=171" target="_self">Overview</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/cease_trade.aspx?id=937" target="_self">Search Tips</a></li></ul></li><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel" id="e9edebdfa_23_60"><a data-ektron-flexmenu-preselected-button="true" id="e9edebdfa_23_60_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button_selected" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=857">Registration</a><input id="e9edebdfa_23_60_parentid" value="e9edebdfa_23_23" type="hidden"><ul id="e9edebdfa_23_60_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/registration.aspx?id=857" target="_self">Overview</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/registration.aspx?id=858" target="_self">Registration Information</a></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e9edebdfa_23_61"><a data-ektron-flexmenu-preselected-button="true" id="e9edebdfa_23_61_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button_selected" href="http://www.securities-administrators.ca/nrs/nrsearch.aspx?ID=850">National Registration Search</a><input id="e9edebdfa_23_61_parentid" value="e9edebdfa_23_60" type="hidden"><ul id="e9edebdfa_23_61_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/registration.aspx?id=849" target="_self">Search Tips</a></li></ul></li></ul></li><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel" id="e9edebdfa_23_29"><a id="e9edebdfa_23_29_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=48">Industry Resources</a><input id="e9edebdfa_23_29_parentid" value="e9edebdfa_23_23" type="hidden"><ul id="e9edebdfa_23_29_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/industry_resources.aspx?id=48" target="_self">Overview</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/industry_resources.aspx?id=47" target="_self">Access Rules &amp; Policies</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/industry_resources.aspx?id=49" target="_self">Issuer Information</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/fee_guide.aspx?id=800" target="_self">Fee Guide</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/industry_resources.aspx?id=51" target="_self">Insider Reporting</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/industry_resources.aspx?id=52" target="_self">Exception Reporting</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/industry_resources.aspx?id=54" target="_self">XBRL Filing</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/industry_resources.aspx?id=55" target="_self">Dealer/Adviser Registration</a></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e9edebdfa_23_73"><a id="e9edebdfa_23_73_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=1172">Additional Information</a><input id="e9edebdfa_23_73_parentid" value="e9edebdfa_23_29" type="hidden"><ul id="e9edebdfa_23_73_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/industry_resources.aspx?id=57" target="_self">Related Links</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/industry_resources.aspx?id=1171" target="_self">How to Determine the Value of an Old Stock Certificate</a></li></ul></li></ul></li></ul></div></div></div><script language="JavaScript" type="text/javascript">
+			// Pass server control properties, etc., to Javascript:
+			if (("undefined" == typeof window.ekFlexMenu_ekflexmenuArray)
+				|| (null == window.ekFlexMenu_ekflexmenuArray)) {
+				window.ekFlexMenu_ekflexmenuArray = new Array;
+			}
+			window.ekFlexMenu_ekflexmenuArray[window.ekFlexMenu_ekflexmenuArray.length] = "e9edebdfa_23_0";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_swRev)
+			|| (null == window.ekFlexMenu_swRev)) {
+			window.ekFlexMenu_swRev = new Array;
+			}
+			window.ekFlexMenu_swRev["e9edebdfa"] = "8.0.0.073";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_startupSubmenuBranchId)
+			|| (null == window.ekFlexMenu_startupSubmenuBranchId)) {
+			window.ekFlexMenu_startupSubmenuBranchId = new Array;
+			}
+			window.ekFlexMenu_startupSubmenuBranchId["e9edebdfa"] = "";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_autoCollapseBranches)
+			|| (null == window.ekFlexMenu_autoCollapseBranches)) {
+			window.ekFlexMenu_autoCollapseBranches = new Array;
+			}
+			window.ekFlexMenu_autoCollapseBranches["e9edebdfa"] = "true";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_startCollapsed)
+			|| (null == window.ekFlexMenu_startCollapsed)) {
+			window.ekFlexMenu_startCollapsed = new Array;
+			}
+			window.ekFlexMenu_startCollapsed["e9edebdfa"] = "true";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_startWithRootFolderCollapsed)
+				|| (null == window.ekFlexMenu_startWithRootFolderCollapsed)) {
+				window.ekFlexMenu_startWithRootFolderCollapsed = new Array;
+			}
+			window.ekFlexMenu_startWithRootFolderCollapsed["e9edebdfa"] = "false";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_masterControlIdHash)
+				|| (null == window.ekFlexMenu_masterControlIdHash)) {
+				window.ekFlexMenu_masterControlIdHash = new Array;
+			}
+			window.ekFlexMenu_masterControlIdHash["e9edebdfa"] = "";
+			
+			//
+			if (("undefined" == typeof window.ekFlexMenu_ajaxEnabled)
+			|| (null == window.ekFlexMenu_ajaxEnabled)) {
+			window.ekFlexMenu_ajaxEnabled = new Array;
+			}
+			window.ekFlexMenu_ajaxEnabled["e9edebdfa"] = "false";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_ajaxWSPath)
+			|| (null == window.ekFlexMenu_ajaxWSPath)) {
+			window.ekFlexMenu_ajaxWSPath = new Array;
+			}
+			window.ekFlexMenu_ajaxWSPath["e9edebdfa"] = "/WorkArea/webservices/";
+			// 
+			if (("undefined" == typeof window.ekFlexMenu_displayXslt)
+			|| (null == window.ekFlexMenu_displayXslt)) {
+			window.ekFlexMenu_displayXslt = new Array;
+			}
+			window.ekFlexMenu_displayXslt["e9edebdfa"] = "/xsl/FMMasterDemo.xsl";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_cacheInterval)
+			|| (null == window.ekFlexMenu_cacheInterval)) {
+			window.ekFlexMenu_cacheInterval = new Array;
+			}
+			window.ekFlexMenu_cacheInterval["e9edebdfa"] = "0";
+			//
+			//////////////////////////////////////////////////////////////////
+			// Add event handler calling functions:
+			//   Test to ensure that ekFlexMenu is valid/reachable (this is needed 
+			//   to prevent intermittent Javascript errors that can occur if user
+			//   causes event to fire while page is being torn down (i.e. a link is
+			//   clicked, browser is fetching new page, movement causes mouse-out...):
+			function ekFlexMenu_IsValid(obj) {
+				return (("undefined" != typeof obj) && (null != obj));
+			}
+			function ekFlexMenuPopupMsIn(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.mouseIn)) {
+					return (ekFlexMenu.mouseIn(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuPopupMsOut(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.mouseOut)) {
+					return (ekFlexMenu.mouseOut(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuKey(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnKeyHdlr)) {
+					return (ekFlexMenu.menuBtnKeyHdlr(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuMsOut(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnMouseOutHdlr)) {
+					return (ekFlexMenu.menuBtnMouseOutHdlr(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuMsOvr(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnMouseOverHdlr)) {
+					return (ekFlexMenu.menuBtnMouseOverHdlr(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuClk(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnClickHdlr)) {
+					return (ekFlexMenu.menuBtnClickHdlr(event));
+				}
+				return (true);
+			}
+		</script>
+	</div>
+        
+</div>
+        
+    </div>
+
+        </div>
+        <div id="main-outer">
+            <div id="main">
+                
+    <div id="menu">
+        <div class="navSectionTitle">
+            <span id="ctl00_bodyContent_lbl_language" class="articleText">registration</span>
+        </div>
+        <div id="ctl00_bodyContent_fm2" class="usersClass">
+	<link type="text/css" rel="stylesheet" href="http://www.securities-administrators.ca/css/slaveflyout.css"><div class="slaveflyout"><div class="ekflexmenu" id="e9edebdf9_23_0_ekflexmenu"><div class="ekflexmenu_menu_level_0 ekflexmenu_submenu"><ul class="ekflexmenu_submenu_items" id="e9edebdf9_23_0_submenu_items"><li class="ekflexmenu_menu_level_0 ekflexmenu_submenu" id="e9edebdf9_23_23"><input id="e9edebdf9_23_23_parentid" value="e9edebdf9_23_0" type="hidden"><ul id="e9edebdf9_23_23_submenu_items" class="ekflexmenu_submenu_items ekflexmenu_slavecontainer"><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e9edebdf9_23_30"><input id="e9edebdf9_23_30_parentid" value="e9edebdfa_23_23" type="hidden"><ul id="e9edebdf9_23_30_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=45" target="_self">Overview</a></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu ekflexmenu_startlevel" id="e9edebdf9_23_32"><a id="e9edebdf9_23_32_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=77">Who We Are</a><input id="e9edebdf9_23_32_parentid" value="e9edebdf9_23_30" type="hidden"><ul id="e9edebdf9_23_32_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=77" target="_self">Overview</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/our-mission.aspx" target="_self">Our Mission</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=80" target="_self">CSA Members</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=92" target="_self">CSA Structure</a></li></ul></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=1162" target="_self">CSA Business Plan</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=94" target="_self">What's New</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=866" target="_self">Letters, Statements and Other Reports</a></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu ekflexmenu_startlevel" id="e9edebdf9_23_37"><a id="e9edebdf9_23_37_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=101">Regulatory Cooperation</a><input id="e9edebdf9_23_37_parentid" value="e9edebdf9_23_30" type="hidden"><ul id="e9edebdf9_23_37_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=101" target="_self">Overview</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=96" target="_self">Pan-Canadian</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=97" target="_self">International</a></li></ul></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/aboutcsa.aspx?id=99" target="_self">Contact Us</a></li></ul></li><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e9edebdf9_23_25"><input id="e9edebdf9_23_25_parentid" value="e9edebdfa_23_23" type="hidden"><ul id="e9edebdf9_23_25_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=82" target="_self">Overview</a></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu ekflexmenu_startlevel" id="e9edebdf9_23_39"><a id="e9edebdf9_23_39_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=102">Investing Basics</a><input id="e9edebdf9_23_39_parentid" value="e9edebdf9_23_25" type="hidden"><ul id="e9edebdf9_23_39_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=102" target="_self">What is investing</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=83" target="_self">Setting Goals</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=85" target="_self">Understanding Risk</a></li></ul></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu ekflexmenu_startlevel" id="e9edebdf9_23_65"><a id="e9edebdf9_23_65_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=84">Working with Advisers</a><input id="e9edebdf9_23_65_parentid" value="e9edebdf9_23_25" type="hidden"><ul id="e9edebdf9_23_65_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=84" target="_self">Choosing an Adviser</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1001" target="_self">Client-Adviser Relationship</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1002" target="_self">Dealing With Disputes</a></li></ul></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1128" target="_self">Are They Registered?</a></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu ekflexmenu_startlevel" id="e9edebdf9_23_67"><a id="e9edebdf9_23_67_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=1003">Understanding your Investments</a><input id="e9edebdf9_23_67_parentid" value="e9edebdf9_23_25" type="hidden"><ul id="e9edebdf9_23_67_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1003" target="_self">Be an Informed Investor</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1004" target="_self">Types of Investments</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/FundFacts.aspx?id=1275" target="_self">Fund Facts: Interactive Sample</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1401" target="_self">Start-up Crowdfunding FAQs</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1407" target="_self">Types of Crowdfunding</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1406" target="_self">Risks of Crowdfunding</a></li></ul></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=87" target="_self">Young Investors</a></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu ekflexmenu_startlevel" id="e9edebdf9_23_63"><a id="e9edebdf9_23_63_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=88">Avoiding Fraud</a><input id="e9edebdf9_23_63_parentid" value="e9edebdf9_23_25" type="hidden"><ul id="e9edebdf9_23_63_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=736" target="_self">Know the Red Flags of Fraud</a></li><li class="ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e9edebdf9_23_69"><a id="e9edebdf9_23_69_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=1008">Common Frauds and Scams</a><input id="e9edebdf9_23_69_parentid" value="e9edebdf9_23_63" type="hidden"><ul id="e9edebdf9_23_69_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1041" target="_self">Forex Resources</a></li></ul></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1009" target="_self">Report a Scam</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1039" target="_self">BlueHedge Investments Fraud Campaign</a></li></ul></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1005" target="_self">Brochures</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=995" target="_self">Seeking Compensation</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=838" target="_self">Publications</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=1011" target="_self">Research</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=89" target="_self">Related Links</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/investortools.aspx?id=90" target="_self">My Local Investor Education</a></li></ul></li><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e9edebdf9_23_26"><input id="e9edebdf9_23_26_parentid" value="e9edebdfa_23_23" type="hidden"><ul id="e9edebdf9_23_26_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/enforcement.aspx?id=73" target="_self">Overview</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/disciplinedpersons.aspx?id=74" target="_self">Disciplined Persons</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/InvestorAlerts.aspx?id=985" target="_self">Investor Alerts</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/enforcement.aspx?id=75" target="_self">Activity Reports</a></li></ul></li><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e9edebdf9_23_28"><input id="e9edebdf9_23_28_parentid" value="e9edebdfa_23_23" type="hidden"><ul id="e9edebdf9_23_28_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/cease_trade.aspx?id=171" target="_self">Overview</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/cease_trade.aspx?id=937" target="_self">Search Tips</a></li></ul></li><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e9edebdf9_23_60"><input id="e9edebdf9_23_60_parentid" value="e9edebdfa_23_23" type="hidden"><ul id="e9edebdf9_23_60_submenu_items" class="ekflexmenu_submenu_items"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/registration.aspx?id=857" target="_self">Overview</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/registration.aspx?id=858" target="_self">Registration Information</a></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu ekflexmenu_startlevel" id="e9edebdf9_23_61"><a id="e9edebdf9_23_61_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button_selected" href="http://www.securities-administrators.ca/nrs/nrsearch.aspx?ID=850">National Registration Search</a><input id="e9edebdf9_23_61_parentid" value="e9edebdf9_23_60" type="hidden"><ul id="e9edebdf9_23_61_submenu_items" class="ekflexmenu_submenu_items"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/registration.aspx?id=849" target="_self">Search Tips</a></li></ul></li></ul></li><li class="ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e9edebdf9_23_29"><input id="e9edebdf9_23_29_parentid" value="e9edebdfa_23_23" type="hidden"><ul id="e9edebdf9_23_29_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/industry_resources.aspx?id=48" target="_self">Overview</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/industry_resources.aspx?id=47" target="_self">Access Rules &amp; Policies</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/industry_resources.aspx?id=49" target="_self">Issuer Information</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/fee_guide.aspx?id=800" target="_self">Fee Guide</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/industry_resources.aspx?id=51" target="_self">Insider Reporting</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/industry_resources.aspx?id=52" target="_self">Exception Reporting</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/industry_resources.aspx?id=54" target="_self">XBRL Filing</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/industry_resources.aspx?id=55" target="_self">Dealer/Adviser Registration</a></li><li class="ekflexmenu_menu_level_2 ekflexmenu_submenu ekflexmenu_startlevel" id="e9edebdf9_23_73"><a id="e9edebdf9_23_73_button" tabindex="0" onkeydown="return (ekFlexMenuKey(event));" onblur="return (ekFlexMenuMsOut(event));" onfocus="return (ekFlexMenuMsOvr(event));" onclick="return (ekFlexMenuClk(event));" onmouseover="return (ekFlexMenuMsOvr(event));" onmouseout="return (ekFlexMenuMsOut(event));" class="ekflexmenu_button" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=1172">Additional Information</a><input id="e9edebdf9_23_73_parentid" value="e9edebdf9_23_29" type="hidden"><ul id="e9edebdf9_23_73_submenu_items" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/industry_resources.aspx?id=57" target="_self">Related Links</a></li><li><a class="ekflexmenu_link" href="http://www.securities-administrators.ca/industry_resources.aspx?id=1171" target="_self">How to Determine the Value of an Old Stock Certificate</a></li></ul></li></ul></li></ul></li></ul></div></div></div><script language="JavaScript" type="text/javascript">
+			// Pass server control properties, etc., to Javascript:
+			if (("undefined" == typeof window.ekFlexMenu_ekflexmenuArray)
+				|| (null == window.ekFlexMenu_ekflexmenuArray)) {
+				window.ekFlexMenu_ekflexmenuArray = new Array;
+			}
+			window.ekFlexMenu_ekflexmenuArray[window.ekFlexMenu_ekflexmenuArray.length] = "e9edebdf9_23_0";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_swRev)
+			|| (null == window.ekFlexMenu_swRev)) {
+			window.ekFlexMenu_swRev = new Array;
+			}
+			window.ekFlexMenu_swRev["e9edebdf9"] = "8.0.0.073";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_startupSubmenuBranchId)
+			|| (null == window.ekFlexMenu_startupSubmenuBranchId)) {
+			window.ekFlexMenu_startupSubmenuBranchId = new Array;
+			}
+			window.ekFlexMenu_startupSubmenuBranchId["e9edebdf9"] = "";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_autoCollapseBranches)
+			|| (null == window.ekFlexMenu_autoCollapseBranches)) {
+			window.ekFlexMenu_autoCollapseBranches = new Array;
+			}
+			window.ekFlexMenu_autoCollapseBranches["e9edebdf9"] = "true";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_startCollapsed)
+			|| (null == window.ekFlexMenu_startCollapsed)) {
+			window.ekFlexMenu_startCollapsed = new Array;
+			}
+			window.ekFlexMenu_startCollapsed["e9edebdf9"] = "true";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_startWithRootFolderCollapsed)
+				|| (null == window.ekFlexMenu_startWithRootFolderCollapsed)) {
+				window.ekFlexMenu_startWithRootFolderCollapsed = new Array;
+			}
+			window.ekFlexMenu_startWithRootFolderCollapsed["e9edebdf9"] = "false";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_masterControlIdHash)
+				|| (null == window.ekFlexMenu_masterControlIdHash)) {
+				window.ekFlexMenu_masterControlIdHash = new Array;
+			}
+			window.ekFlexMenu_masterControlIdHash["e9edebdf9"] = "e9edebdfa";
+			
+				//
+				if (("undefined" == typeof window.ekFlexMenu_subscriberList)
+				|| (null == window.ekFlexMenu_subscriberList)) {
+				window.ekFlexMenu_subscriberList = new Array;
+				}
+				if ("undefined" == typeof window.ekFlexMenu_subscriberList["e9edebdfa"]) {
+				window.ekFlexMenu_subscriberList["e9edebdfa"] = "e9edebdf9";
+				}
+				else {
+				window.ekFlexMenu_subscriberList["e9edebdfa"] += ",e9edebdf9";
+				}
+				//
+				if (("undefined" == typeof window.ekFlexMenu_defaultMenuIdString)
+				|| (null == window.ekFlexMenu_defaultMenuIdString)) {
+				window.ekFlexMenu_defaultMenuIdString = new Array;
+				}
+				window.ekFlexMenu_defaultMenuIdString["e9edebdf9"] = "e9edebdf9_23_30";
+				//
+				if (("undefined" == typeof window.ekFlexMenu_slaveStartLevelIds)
+				|| (null == window.ekFlexMenu_slaveStartLevelIds)) {
+				window.ekFlexMenu_slaveStartLevelIds = new Array;
+				}
+				window.ekFlexMenu_slaveStartLevelIds["e9edebdf9"] = "e9edebdf9_23_30,e9edebdf9_23_25,e9edebdf9_23_26,e9edebdf9_23_28,e9edebdf9_23_60,e9edebdf9_23_29";
+			
+			//
+			if (("undefined" == typeof window.ekFlexMenu_ajaxEnabled)
+			|| (null == window.ekFlexMenu_ajaxEnabled)) {
+			window.ekFlexMenu_ajaxEnabled = new Array;
+			}
+			window.ekFlexMenu_ajaxEnabled["e9edebdf9"] = "false";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_ajaxWSPath)
+			|| (null == window.ekFlexMenu_ajaxWSPath)) {
+			window.ekFlexMenu_ajaxWSPath = new Array;
+			}
+			window.ekFlexMenu_ajaxWSPath["e9edebdf9"] = "/WorkArea/webservices/";
+			// 
+			if (("undefined" == typeof window.ekFlexMenu_displayXslt)
+			|| (null == window.ekFlexMenu_displayXslt)) {
+			window.ekFlexMenu_displayXslt = new Array;
+			}
+			window.ekFlexMenu_displayXslt["e9edebdf9"] = "/xsl/FMSlaveDemo.xsl";
+			//
+			if (("undefined" == typeof window.ekFlexMenu_cacheInterval)
+			|| (null == window.ekFlexMenu_cacheInterval)) {
+			window.ekFlexMenu_cacheInterval = new Array;
+			}
+			window.ekFlexMenu_cacheInterval["e9edebdf9"] = "0";
+			//
+			//////////////////////////////////////////////////////////////////
+			// Add event handler calling functions:
+			//   Test to ensure that ekFlexMenu is valid/reachable (this is needed 
+			//   to prevent intermittent Javascript errors that can occur if user
+			//   causes event to fire while page is being torn down (i.e. a link is
+			//   clicked, browser is fetching new page, movement causes mouse-out...):
+			function ekFlexMenu_IsValid(obj) {
+				return (("undefined" != typeof obj) && (null != obj));
+			}
+			function ekFlexMenuPopupMsIn(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.mouseIn)) {
+					return (ekFlexMenu.mouseIn(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuPopupMsOut(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.mouseOut)) {
+					return (ekFlexMenu.mouseOut(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuKey(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnKeyHdlr)) {
+					return (ekFlexMenu.menuBtnKeyHdlr(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuMsOut(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnMouseOutHdlr)) {
+					return (ekFlexMenu.menuBtnMouseOutHdlr(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuMsOvr(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnMouseOverHdlr)) {
+					return (ekFlexMenu.menuBtnMouseOverHdlr(event));
+				}
+				return (true);
+			}
+			function ekFlexMenuClk(event) {
+				if (ekFlexMenu_IsValid(ekFlexMenu) && ekFlexMenu_IsValid(ekFlexMenu.menuBtnClickHdlr)) {
+					return (ekFlexMenu.menuBtnClickHdlr(event));
+				}
+				return (true);
+			}
+		</script>
+</div>
+    </div>
+    <div id="content">
+        <div id="ctl00_bodyContent_divResultsDate" style="text-align:right;padding-bottom:10px">  
+            <span id="ctl00_bodyContent_lblResultsDate" class="articleText" style="font-weight:bold;">Registration information was last refreshed on 2016-01-21 18:28 PST.</span>
+        </div>
+        <br>
+        <div id="ctl00_bodyContent_pnl_banner" style="width:100%;">
+	
+            <div id="ctl00_bodyContent_cb_banner" class="articleText">
+		<p><img title="Industry Resources" alt="Industry Resources" src="/images/title_nrs.jpg"></p>
+	</div>
+        
+</div>
+        <br>
+        <div id="content-inner" class="registration">
+            <div style="margin-bottom: 20px; padding-bottom: 20px;" class="line-dividor">
+                
+                                             
+
+                    <!--believe it or not this is where you start coding, everything above are menus which should be part of a master page-->
+                    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$bodyContent$ScriptManagerMain', 'aspnetForm', ['tctl00$bodyContent$UpPnlSearchResults',''], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+                    <script type="text/javascript" language="javascript">
+                        Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(pageLoadedHandler)
+                        function pageLoadedHandler(sender, args)
+                        { window.scrollTo(0, 0); }
+                        var prm = Sys.WebForms.PageRequestManager.getInstance();
+                        prm.add_initializeRequest(InitializeRequest);
+                        prm.add_endRequest(EndRequest);
+                        ///////////////////////////////
+                        function InitializeRequest(sender, args) {
+                            document.body.style.cursor = "wait";
+                        }
+                        /////////////////////////////////////
+                        function EndRequest(sender, args) {
+                            document.body.style.cursor = "default";
+                        }
+
+                    </script>
+                    
+                <br>
+                <a name="top" id="top"></a>                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+
+                <input name="ctl00$bodyContent$hdSearchMode" id="ctl00_bodyContent_hdSearchMode" value="AS" type="hidden"><!-- QS - Quick Search, AS - Advanced Search -->
+                <input name="ctl00$bodyContent$hdSearchType" id="ctl00_bodyContent_hdSearchType" value="F" type="hidden"><!-- I or F -->
+                <input name="ctl00$bodyContent$hdQuickSearchIndividualName" id="ctl00_bodyContent_hdQuickSearchIndividualName" type="hidden">
+                <input name="ctl00$bodyContent$hdQuickSearchFirmName" id="ctl00_bodyContent_hdQuickSearchFirmName" type="hidden">
+                <input name="ctl00$bodyContent$hdDetailedSearchIndvName" id="ctl00_bodyContent_hdDetailedSearchIndvName" type="hidden">
+                <input name="ctl00$bodyContent$hdDetailedSearchFirmName" id="ctl00_bodyContent_hdDetailedSearchFirmName" type="hidden">
+                <input name="ctl00$bodyContent$hdINDVFIRMId" id="ctl00_bodyContent_hdINDVFIRMId" type="hidden">
+                <input name="ctl00$bodyContent$hdINDVFIRMName" id="ctl00_bodyContent_hdINDVFIRMName" type="hidden">
+                <input name="ctl00$bodyContent$hdSelectedJurisdictionList" id="ctl00_bodyContent_hdSelectedJurisdictionList" value="1" type="hidden">
+                <input name="ctl00$bodyContent$hdSelectedCategoryList" id="ctl00_bodyContent_hdSelectedCategoryList" value="1" type="hidden">
+                <input name="ctl00$bodyContent$hdIncludeHistory" id="ctl00_bodyContent_hdIncludeHistory" value="0" type="hidden">                                
+                <input name="ctl00$bodyContent$hdNoRecordsFound" id="ctl00_bodyContent_hdNoRecordsFound" value="No registered individuals found" type="hidden">                                                                
+                <input name="ctl00$bodyContent$hdRegisteredIndividualsIn" id="ctl00_bodyContent_hdRegisteredIndividualsIn" value="Registered Individuals in " type="hidden">                                                                
+                
+           <div id="ctl00_bodyContent_UpPnlSearchResults">
+              
+                        <!-- Search results grid -->
+                        <div id="ctl00_bodyContent_divSearchResults" style="display: block; padding-bottom: 15px;" class="articleText">
+                            <div width="100%" class="explanationtable">
+                                <span id="ctl00_bodyContent_lbl_explanation_results" class="articleText14">A registrant who is no longer registered is not allowed to advise or deal in securities in Canada.</span>
+                            </div>
+                            <br>
+                            <h2>
+                                <span id="spSearchResults" class="title">
+                                    Search Results
+                                </span>
+                            </h2>
+                            <div style="padding: 10px 0">
+                                <span id="spSearchConditions" style="display:none">
+                                    <span id="ctl00_bodyContent_lbl_SearchConditions" class="articleText"></span>
+                                </span>
+                                <div id="ctl00_bodyContent_pnl_SearchConditions">
+	
+
+                                    <div id="ctl00_bodyContent_divIndividualSearchCriteria" style="display:none;" class="articleTextSuccessRegular">
+                                        You searched individual registrants for
+                                    </div>
+                                    <div id="ctl00_bodyContent_divFirmSearchCriteria" style="display:block;">
+                                        <div id="showSearchCriteria" style="padding-top:10px;padding-bottom:5px">
+                                            <img src="/images/menu/arrow.gif"> <a href="#" onclick="return showCriteria()" class="articleTextSuccessRegular">Show search criteria</a>
+                                        </div>
+                                        <table id="SearchCriteria" style="display: none;padding-top:10px" class="articleTextSuccessRegular">
+                                            <tbody><tr>
+                                                <td colspan="2" style="padding-top:10px;padding-bottom:5px">
+                                                    <img src="/images/menu/arrow-active.gif"> 
+                                                    <a href="#" onclick="return hideCriteria();">
+                                                        Hide search criteria
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                            <tr><td style="padding-top:5px;width:220px"></td><td></td></tr>                                             
+                                            <tr>
+                                                <td style="padding-left:15px" valign="top">
+                                                    <span id="spFirmName">
+                                                        Firm Name:</span>
+                                                </td>
+                                                <td>
+                                                    <span style="font-weight: bold" id="spCondFirmName"><span id="ctl00_bodyContent_lblCond_FirmName">none</span></span>
+                                                </td>                                                
+                                            </tr>
+                                            <tr>
+                                                <td style="padding-left:15px" valign="top">
+                                                    <span id="spJurisdiction">
+                                                        Jurisdiction:</span>
+                                                </td>
+                                                <td>
+                                                    <span style="font-weight: bold" id="spCondJuri">
+                                                        <span id="ctl00_bodyContent_lblCond_Jurs">All</span></span>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="padding-left:15px" valign="top">
+                                                    <span id="spCategory">
+                                                        Category:</span>
+                                                </td>
+                                                <td>
+                                                    <span style="font-weight: bold" id="spCategoryCond">
+                                                        <span id="ctl00_bodyContent_lblCond_Cats">All</span></span>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="padding-left:15px" valign="top">
+                                                    <span id="spHistoricalInfo">Include History:</span>
+                                                </td>
+                                                <td style="vertical-align:top">
+                                                    <span style="font-weight: bold" id="Span3"><span id="ctl00_bodyContent_lblCond_History">No</span></span>
+                                                </td>
+                                            </tr>                                          
+                                        </tbody></table>
+                                        </div>
+                                
+</div>
+                            </div>
+                            <div style="padding-top:10px;padding-bottom:10px">
+                                <a id="A1" onclick="javascript:goBackToSearchStartPage();" style="cursor: pointer" class="Blue">
+                                    Back to search
+                                </a>
+                            </div>
+                            <div style="text-align: center">
+                                <div aria-hidden="true" role="status" id="ctl00_bodyContent_UpdateProgress2" style="display:none;">
+	
+                                        <div style="padding-right:40px;position:absolute;top:280px;left:280px">
+                                             <div style="z-index:50000; padding:20px 50px;background-color:#E0EEE0;border:1px solid #E0E0E0">
+                                                 <img src="/images/busy.gif" border="0">
+                                             </div>                                        
+                                        </div>
+                                    
+</div>
+                            </div>
+                            <div id="ctl00_bodyContent_dvListGrids" style="position: relative;padding-top:10px">
+                                <div style="font-weight: bold; margin-bottom: 5px">
+                                    <span id="ctl00_bodyContent_lbl_count">There are 3046 records found.</span>
+                                </div>
+                                <table class="pagerdiv" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody><tr>
+                                        <td style="width: 79%; padding: 1px 0 1px 4px;" valign="top">
+                                            <a id="ctl00_bodyContent_lbtnPrev" class="aspNetDisabled linkpagers">Prev page</a>| <a id="ctl00_bodyContent_lbtnPager1" class="aspNetDisabled linkpagerSelected">1</a><a id="ctl00_bodyContent_lbtnPager2" class="linkpagers" href="javascript:__doPostBack('ctl00$bodyContent$lbtnPager2','')">2</a><a id="ctl00_bodyContent_lbtnPager3" class="linkpagers" href="javascript:__doPostBack('ctl00$bodyContent$lbtnPager3','')">3</a><a id="ctl00_bodyContent_lbtnPager4" class="linkpagers" href="javascript:__doPostBack('ctl00$bodyContent$lbtnPager4','')">4</a><a id="ctl00_bodyContent_lbtnPager5" class="linkpagers" href="javascript:__doPostBack('ctl00$bodyContent$lbtnPager5','')">5</a><a id="ctl00_bodyContent_lbtnPager6" class="linkpagers" href="javascript:__doPostBack('ctl00$bodyContent$lbtnPager6','')">6...</a>
+                                            | <a id="ctl00_bodyContent_lbtnNext" class="linkpagers" href="javascript:__doPostBack('ctl00$bodyContent$lbtnNext','')">Next page</a><div style="padding-left: 10px; display: inline; font-size: 10px;">
+                                                    <select name="ctl00$bodyContent$list_num_per_page" onchange="javascript:setTimeout('__doPostBack(\'ctl00$bodyContent$list_num_per_page\',\'\')', 0)" id="ctl00_bodyContent_list_num_per_page" class="controlstyle">
+	<option selected="selected" value="25">25</option>
+	<option value="50">50</option>
+	<option value="100">100</option>
+
+</select><span class="articleText14">  per page
+                                                    </span>
+                                            </div>
+                                                 
+                                        </td>
+                                        
+                                        
+                                    </tr>
+                                </tbody></table>
+                                <div id="dvGridResults" class="articleTextSearchResults">
+                                    <div>
+
+</div>
+                                    <span id="ctl00_bodyContent_lblTest"></span><span id="ctl00_bodyContent_lblTest2"></span><div>
+	<table class="gridview_style" rules="all" id="ctl00_bodyContent_gv_frm_list" style="width:100%;border-collapse:collapse;" border="1" cellspacing="0">
+		<tbody><tr>
+			<th scope="col" style="width:50%;">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl01_lbl_firm">Firm</span></th><th scope="col" style="width:50%;">
+                                                    Jurisdiction
+                                                </th>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl02_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl02$lbtnFirmDetail','')"> AIP PHOENIX II GP LP</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl02_lblFirmJurs"> Ontario</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl03_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl03$lbtnFirmDetail','')"> FIRST WESTERN CAPITAL MANAGEMENT COMPANY</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl03_lblFirmJurs"> Ontario,  Québec</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl04_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl04$lbtnFirmDetail','')"> VIRAGE CAPITAL PARTNERS (NON-US) SPC</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl04_lblFirmJurs"> Ontario</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl05_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl05$lbtnFirmDetail','')">108 SECURITIES INC. </a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl05_lblFirmJurs"> Ontario</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl06_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl06$lbtnFirmDetail','')">12TH STREET ASSET MANAGEMENT COMPANY, LLC</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl06_lblFirmJurs"> Ontario</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl07_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl07$lbtnFirmDetail','')">1741 ASSET MANAGEMENT FUNDS SICAV </a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl07_lblFirmJurs"> Ontario,  Québec</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl08_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl08$lbtnFirmDetail','')">1741 SPECIALISED INVESTMENT FUNDS SICAV</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl08_lblFirmJurs"> Ontario,  Québec</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl09_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl09$lbtnFirmDetail','')">17CAPITAL LLP</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl09_lblFirmJurs"> Alberta,  Nova Scotia,  Ontario,  Québec</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl10_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl10$lbtnFirmDetail','')">18 ASSET MANAGEMENT INC.</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl10_lblFirmJurs"> Ontario</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl11_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl11$lbtnFirmDetail','')">1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl11_lblFirmJurs">
+ Alberta,  British Columbia,  Manitoba,  New Brunswick,  Newfoundland 
+and Labrador,  Northwest Territories,  Nova Scotia,  Ontario,  Prince 
+Edward Island,  Québec,  Saskatchewan,  Yukon</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl12_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl12$lbtnFirmDetail','')">32 DEGREES CAPITAL ADVISOR LTD.</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl12_lblFirmJurs"> Alberta</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl13_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl13$lbtnFirmDetail','')">360 SECURITIES LTD</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl13_lblFirmJurs"> British Columbia</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl14_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl14$lbtnFirmDetail','')">3I FINANCIAL INVESTMENT SERVICES INC.</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl14_lblFirmJurs"> Ontario</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl15_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl15$lbtnFirmDetail','')">3IQ CORP.</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl15_lblFirmJurs"> Ontario,  Québec</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl16_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl16$lbtnFirmDetail','')">400 CAPITAL MANAGEMENT LLC</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl16_lblFirmJurs"> Ontario,  Québec</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl17_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl17$lbtnFirmDetail','')">4FRONT CAPITAL PARTNERS INC. </a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl17_lblFirmJurs"> Alberta,  British Columbia,  Manitoba,  Ontario</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl18_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl18$lbtnFirmDetail','')">50 SOUTH CAPITAL ADVISORS, LLC</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl18_lblFirmJurs"> Newfoundland and Labrador,  Ontario,  Québec</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl19_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl19$lbtnFirmDetail','')">7017065 CANADA INC.</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl19_lblFirmJurs"> Ontario</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl20_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl20$lbtnFirmDetail','')">A.F.T. TRIVEST MANAGEMENT INC.</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl20_lblFirmJurs"> British Columbia</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl21_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl21$lbtnFirmDetail','')">A.R. SCHMEIDLER &amp; CO., INC.</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl21_lblFirmJurs"> Ontario</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl22_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl22$lbtnFirmDetail','')">AB PRIVATE CREDIT INVESTORS LLC</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl22_lblFirmJurs"> Ontario</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl23_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl23$lbtnFirmDetail','')">ABBEY CAPITAL LIMITED</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl23_lblFirmJurs"> Alberta,  British Columbia,  Ontario,  Québec</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl24_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl24$lbtnFirmDetail','')">ABEL CREEK MANAGEMENT INC.</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl24_lblFirmJurs"> Alberta</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl25_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl25$lbtnFirmDetail','')">ABERDEEN ASSET MANAGEMENT ASIA LIMITED</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl25_lblFirmJurs"> Ontario</span></td>
+		</tr><tr>
+			<td class="articleText">
+                                                    <a id="ctl00_bodyContent_gv_frm_list_ctl26_lbtnFirmDetail" class="articleText" href="javascript:__doPostBack('ctl00$bodyContent$gv_frm_list$ctl26$lbtnFirmDetail','')">ABERDEEN ASSET MANAGEMENT CANADA LIMITED</a></td><td class="articleText">
+                                                    <span id="ctl00_bodyContent_gv_frm_list_ctl26_lblFirmJurs"> Ontario</span></td>
+		</tr>
+	</tbody></table>
+</div>
+                                    
+                                    
+                                </div>
+                                <table cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody><tr>
+                                        <td style="width: 80%; padding-top: 10px; padding-right: 2px" nowrap="nowrap" valign="top">
+                                            <table class="pagerdiv" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody><tr>
+                                                    <td style="padding: 0 0 3px 4px;" nowrap="nowrap" valign="top">
+                                                        <a id="ctl00_bodyContent_lbtnPrev2" class="aspNetDisabled linkpagers">Prev page</a>| <a id="ctl00_bodyContent_lbtnPager21" class="aspNetDisabled linkpagerSelected">1</a><a id="ctl00_bodyContent_lbtnPager22" class="linkpagers" href="javascript:__doPostBack('ctl00$bodyContent$lbtnPager22','')">2</a><a id="ctl00_bodyContent_lbtnPager23" class="linkpagers" href="javascript:__doPostBack('ctl00$bodyContent$lbtnPager23','')">3</a><a id="ctl00_bodyContent_lbtnPager24" class="linkpagers" href="javascript:__doPostBack('ctl00$bodyContent$lbtnPager24','')">4</a><a id="ctl00_bodyContent_lbtnPager25" class="linkpagers" href="javascript:__doPostBack('ctl00$bodyContent$lbtnPager25','')">5</a><a id="ctl00_bodyContent_lbtnPager26" class="linkpagers" href="javascript:__doPostBack('ctl00$bodyContent$lbtnPager26','')">6...</a>
+                                                        | <a id="ctl00_bodyContent_lbtnNext2" class="linkpagers" href="javascript:__doPostBack('ctl00$bodyContent$lbtnNext2','')">Next page</a></td></tr></tbody></table></td></tr></tbody></table><table style="padding-top:20px" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody>
+                                        <tr>
+                                            <td style="width: 1%; white-space: nowrap">
+                                                 <a id="A2" onclick="javascript:goBackToSearchStartPage();" style="cursor: pointer" class="Blue">
+                                                    Back to search
+                                                </a>
+                                            </td>
+                                            <td style="padding-left:20px">
+                                                <a class="articleTextAnchor" href="#top">
+                                                    Top
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+
+                   <!--divSearchResults-->
+                   <span id="ctl00_bodyContent_lbl_message" style="color:Red;"></span>
+                   <span id="ctl00_bodyContent_lblWarning" style="color:Red;"></span>
+
+                   <div id="ctl00_bodyContent_divDetails" style="display: none;">
+                      <div id="ctl00_bodyContent_pnl_detail" style="width:100%;">
+	
+                          <ul id="pageUtil">
+                              <li id="util_print"><a href="#" onclick="return PrintScreenDetails();">
+                                  Print</a>
+                              </li>                             
+                          </ul>
+                          <div width="100%" class="explanationtable">         
+                              <span id="ctl00_bodyContent_lbl_explanation_detail" class="articleText">Only a registrant with “current registration” is allowed to advise or deal in securities in Canada.</span>
+                          </div>
+                          <br>
+                      
+</div>                                            
+                     
+                       
+
+                      <h2><span id="ctl00_bodyContent_lbl_firm_detail_title" class="title">Firm Registration Record</span></h2>
+                       
+                       <!-- /////////// CR - Sept 2015 //////////// -->                                                                 
+                       <div style="padding-top:20px">
+                          <div style="height:40px;">
+                              <div style="float:left;width:200px">
+                                  <a id="anchBackToSearchResultsFromSearchDetails" onclick="javascript:goBackToFirmSearchResults();" class="articleTextAnchor">
+                                    Back to results
+                                  </a>
+                              </div>
+                              <div style="position:absolute;top:180px;left:300px;">
+                                  <!-- Loading image -->
+                                  <div style="z-index:100000;display:none;padding:25px 50px;background-color:#E0EEE0;border:1px solid #E0E0E0" id="divImageLoaderIndvDetailsPage">
+                                      <img src="/images/busy.gif" border="0">
+                                  </div>
+                                  <!-- loading image ends here-->
+                              </div>
+                          </div>
+                          <div style="clear:both;padding-top:10px">
+                               <table class="articleText" style="background-color:#E0EAFA;display:inline-block;width:100%;padding-top:5px;padding-bottom:5px">         
+                                  <tbody><tr>
+                                      <td colspan="2">                                                                                    
+                                        <div style="position:relative">
+                                                                                      
+                                              <div class="articleText" style="padding-left:5px;width:680px;">
+                                                  <div id="ctl00_bodyContent_divPreviousNameExpandCollapse" onclick="return TogglePreviousNameExpandCollapse();" style="float: right; margin-right: 15px;top:0px;">
+                                                    <img src="/images/expand.png" id="ctl00_bodyContent_imgPreviousNamesList" style="display:block;"></div> 
+                                                  <div style="float:left"><span class="heading"><strong><span>Name</span>:</strong></span> </div>
+                                                  <div style="width:430px;padding-left:160px"><span id="ctl00_bodyContent_lblFirmName">1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.</span></div>
+                                                  
+                                                   
+                                              
+                                              </div>
+                                              <div id="divPreviousNamesList" style="clear:both;width:600px; display:none;padding:20px 30px 10px 5px">
+                                                  <span class="heading"><strong><span>Other Name(s)</span>:</strong></span> 
+                                                  <div style="margin-left:165px"><span id="ctl00_bodyContent_lblPreviousNamesList"><ul><li>1832 Asset Management </li><li>Dynamic Funds</li><li>Fonds Dynamique</li><li>Gestion dactifs institutionnels Scotia</li><li>Gestion d'actiffs Scotia</li><li>Gestion d'actiffs Scotia S.E.C.</li><li>Gestion d'actifs 1832</li><li>Gestion d'actifs mondiale, Particuliers canadiens, Banque Scotia</li><li>Gestion d'actifs Scotia </li><li>Gestion de patrimoine Scotia</li><li>Group Gestion Privee Scotia</li><li>Scotia Asset Management</li><li>SCOTIA ASSET MANAGEMENT L.P.</li><li>SCOTIA ASSET MANAGEMENT L.P. / GESTION D'ACTIFS SCOTIA S.E.C.</li><li>Scotia Global Asset Management, Retail Canada </li><li>Scotia Institutional Asset Management</li><li>Scotia Private Client Group</li><li>Scotia Wealth Management</li><li>Scotiafunds</li><li>Waterstreet Family Offices</li></ul></span></div>
+                                              </div>                                              
+                                        </div>
+                                       </td>
+                                  </tr>
+                               </tbody></table>
+                          </div>                          
+                        </div>
+                       <div id="ctl00_bodyContent_divFirmDetailsAccordion" class="csaAccordion" style="padding-top:15px"> <div class="csaAccordionCurrent">  <div class="registrationConstantText"><strong>CURRENT REGISTRATION</strong></div>  <div style="outline: 1px solid blue;" class="imgRegistrationCollapse" onclick="javascript:toggleCurrentRegistration(this);"></div>   <div class="current-content"><input id="hdnRegistrationType" value="C" type="hidden"><br><br><table style="width:100%">   <tbody><tr><td style="vertical-align:top;width:30%">Firm:</td><td style="vertical-align:top;width:70%"><b>1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.</b></td></tr>   <tr><td style="vertical-align:top;width:30%">Head Office:</td><td style="vertical-align:top;width:70%;white-space: nowrap">1 Adelaide Street East<br>Suite 2700<br>Toronto ON    M5C 2V9 CAN  <br>Phone: (416)933-1937   </td></tr></tbody></table></div>  <div class="province" style="display: block;">     <div style="outline: 1px solid blue;" class="imgRegistrationCollapse" onclick="javascript:toggleProvince(this);"></div>      <div class="province-name">Alberta</div>      <div class="province-content" style="display: block;"><div style="padding-top:7px;padding-bottom:15px "><a href="#" onclick="javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;AB   &quot;,&quot; Alberta&quot;);">Registered Individuals</a></div>Categories   <a href="#" onclick="javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img style="border-width: 0px;" src="/images/b_help_swap.gif" border="0"></a><ul><li style="margin-top:15px">Exempt Market Dealer</li><li style="margin-top:15px">Portfolio Manager</li></ul><br>Terms &amp; Conditions<br><br>There are no terms or conditions for this registrant.<br><br></div> </div><div class="province" style="display: block;">     <div class="imgProvinceExpand" onclick="javascript:toggleProvince(this);"></div>      <div class="province-name">British Columbia</div>      <div class="province-content" style="display:none"><div style="padding-top:7px;padding-bottom:15px "><a href="#" onclick="javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;BC   &quot;,&quot; British Columbia&quot;);">Registered Individuals</a></div>Categories   <a href="#" onclick="javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img style="border-width: 0px;" src="/images/b_help_swap.gif" border="0"></a><ul><li style="margin-top:15px">Exempt Market Dealer</li><li style="margin-top:15px">Portfolio Manager</li></ul><br>Terms &amp; Conditions<br><br>There are no terms or conditions for this registrant.<br><br></div> </div><div class="province" style="display: block;">     <div class="imgProvinceExpand" onclick="javascript:toggleProvince(this);"></div>      <div class="province-name">Manitoba</div>      <div class="province-content" style="display:none"><div style="padding-top:7px;padding-bottom:15px "><a href="#" onclick="javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;MB   &quot;,&quot; Manitoba&quot;);">Registered Individuals</a></div>Categories   <a href="#" onclick="javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img style="border-width: 0px;" src="/images/b_help_swap.gif" border="0"></a><ul><li style="margin-top:15px">Exempt Market Dealer</li><li style="margin-top:15px">Portfolio Manager</li></ul><br>Terms &amp; Conditions<br><br>There are no terms or conditions for this registrant.<br><br></div> </div><div class="province" style="display: block;">     <div class="imgProvinceExpand" onclick="javascript:toggleProvince(this);"></div>      <div class="province-name">New Brunswick</div>      <div class="province-content" style="display:none"><div style="padding-top:7px;padding-bottom:15px "><a href="#" onclick="javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;NB   &quot;,&quot; New Brunswick&quot;);">Registered Individuals</a></div>Categories   <a href="#" onclick="javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img style="border-width: 0px;" src="/images/b_help_swap.gif" border="0"></a><ul><li style="margin-top:15px">Exempt Market Dealer</li><li style="margin-top:15px">Portfolio Manager</li></ul><br>Terms &amp; Conditions<br><br>There are no terms or conditions for this registrant.<br><br></div> </div><div class="province" style="display: block;">     <div class="imgProvinceExpand" onclick="javascript:toggleProvince(this);"></div>      <div class="province-name">Newfoundland and Labrador</div>      <div class="province-content" style="display:none"><div style="padding-top:7px;padding-bottom:15px "><a href="#" onclick="javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;NF   &quot;,&quot; Newfoundland and Labrador&quot;);">Registered Individuals</a></div>Categories   <a href="#" onclick="javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img style="border-width: 0px;" src="/images/b_help_swap.gif" border="0"></a><ul><li style="margin-top:15px">Investment Fund Manager</li><li style="margin-top:15px">Exempt Market Dealer</li><li style="margin-top:15px">Portfolio Manager</li></ul><br>Terms &amp; Conditions<br><br><ul><li style="margin-top:10px">This dealer operates outside the jurisdiction of its Principal Regulator. <a href="#" onclick="javascript:return OpenTermsAndConditions('1832 ASSET MANAGEMENT L.P./GESTION D\'ACTIFS 1832 S.E.C.','Newfoundland and Labrador','Terms &amp; Conditions related to: Extra-Provincial Dealer','Scotia Asset Management L.P. is  exempt from the requirement under subsection 101(5) and 101(6) of the Regulations that it must maintain books and records in Newfoundland and Labrador, provided that:<BR/><BR/>1.	Scotia Asset Management L.P. shall maintain the books and records which would otherwise be required to be maintained in Newfoundland and Labrador pursuant to subsection 101(6) of the Regulations at its head office in Ontario;<BR/><BR/>2.	Scotia Asset Management L.P. shall file with the Superintendent a written undertaking that:<BR/><BR/>(i)	the Superintendent or his staff or agent may inspect and examine, from time to time, the books and records maintained by Scotia Asset Management L.P. in respect of Newfoundland and Labrador clients at its business office in Ontario.<BR/><BR/>(ii)	Scotia Asset Management L.P. will reimburse the Superintendent for all reasonable costs and expenses incurred in conducting such inspection and examination which would not have been incurred by the Superintendent had the books and records been maintained in Newfoundland and Labrador; and<BR/><BR/>(iii)	any books and records shall, upon request by the Superintendent, be made available, for review at the address for service of Scotia Asset Management L.P. in Newfoundland and Labrador.','The%20CSA%20presents%20this%20information%20as%20a%20plain%20language%20summary%20of%20information%20found%20in%20publicly%20available%20documents.%20You%20should%20review%20the%20supporting%20documents%20for%20the%20full%20conditions%20and%20context%20of%20all%20decisions%2C%20orders%2C%20and%20sanctions.%20Please%20forward%20any%20questions%20or%20reports%20of%20errors%20and%20omissions%20to%20%3Ca%20href%3D%22mailto%3Acsa-acvm-secretariat%40acvm-csa.ca%22%3Ecsa-acvm-secretariat%40acvm-csa.ca%3C%2Fa%3E.'); ">(Click for Details)</a><br></li></ul><br><br></div> </div><div class="province" style="display: block;">     <div class="imgProvinceExpand" onclick="javascript:toggleProvince(this);"></div>      <div class="province-name">Northwest Territories</div>      <div class="province-content" style="display:none"><div style="padding-top:7px;padding-bottom:15px "><a href="#" onclick="javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;NT   &quot;,&quot; Northwest Territories&quot;);">Registered Individuals</a></div>Categories   <a href="#" onclick="javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img style="border-width: 0px;" src="/images/b_help_swap.gif" border="0"></a><ul><li style="margin-top:15px">Portfolio Manager</li><li style="margin-top:15px">Investment Fund Manager</li></ul><br>Terms &amp; Conditions<br><br>There are no terms or conditions for this registrant.<br><br></div> </div><div class="province" style="display: block;">     <div class="imgProvinceExpand" onclick="javascript:toggleProvince(this);"></div>      <div class="province-name">Nova Scotia</div>      <div class="province-content" style="display:none"><div style="padding-top:7px;padding-bottom:15px "><a href="#" onclick="javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;NS   &quot;,&quot; Nova Scotia&quot;);">Registered Individuals</a></div>Categories   <a href="#" onclick="javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img style="border-width: 0px;" src="/images/b_help_swap.gif" border="0"></a><ul><li style="margin-top:15px">Exempt Market Dealer</li><li style="margin-top:15px">Portfolio Manager</li></ul><br>Terms &amp; Conditions<br><br>There are no terms or conditions for this registrant.<br><br></div> </div><div class="province" style="display: block;">     <div class="imgProvinceExpand" onclick="javascript:toggleProvince(this);"></div>      <div class="province-name">Ontario</div>      <div class="province-content" style="display:none"><div style="padding-top:7px;padding-bottom:15px "><a href="#" onclick="javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;ON   &quot;,&quot; Ontario&quot;);">Registered Individuals</a></div>Categories   <a href="#" onclick="javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img style="border-width: 0px;" src="/images/b_help_swap.gif" border="0"></a><ul><li style="margin-top:15px">Investment Fund Manager</li><li style="margin-top:15px">Exempt Market Dealer</li><li style="margin-top:15px">Portfolio Manager</li><li style="margin-top:15px">Commodity Trading Manager</li></ul><br>Terms &amp; Conditions<br><br><ul><li style="margin-top:10px">This firm is subject to custom terms and conditions that address a unique situation. Please see specific terms and conditions. <a href="#" onclick="javascript:return OpenTermsAndConditions('1832 ASSET MANAGEMENT L.P./GESTION D\'ACTIFS 1832 S.E.C.','Ontario','Terms &amp; Conditions related to: Other','The Partnership will ensure that the general partner of the Partnership, identified in the limited partnership agreement governing the affairs of the Partnership, and any other general partner of the Partnership, will not carry on any activities other than as general partner of the Partnership and that any activities they do carry on will be for or on behalf of the Partnership','The%20CSA%20presents%20this%20information%20as%20a%20plain%20language%20summary%20of%20information%20found%20in%20publicly%20available%20documents.%20You%20should%20review%20the%20supporting%20documents%20for%20the%20full%20conditions%20and%20context%20of%20all%20decisions%2C%20orders%2C%20and%20sanctions.%20Please%20forward%20any%20questions%20or%20reports%20of%20errors%20and%20omissions%20to%20%3Ca%20href%3D%22mailto%3Acsa-acvm-secretariat%40acvm-csa.ca%22%3Ecsa-acvm-secretariat%40acvm-csa.ca%3C%2Fa%3E.'); ">(Click for Details)</a><br></li></ul><br><br></div> </div><div class="province" style="display: block;">     <div class="imgProvinceExpand" onclick="javascript:toggleProvince(this);"></div>      <div class="province-name">Prince Edward Island</div>      <div class="province-content" style="display:none"><div style="padding-top:7px;padding-bottom:15px "><a href="#" onclick="javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;PE   &quot;,&quot; Prince Edward Island&quot;);">Registered Individuals</a></div>Categories   <a href="#" onclick="javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img style="border-width: 0px;" src="/images/b_help_swap.gif" border="0"></a><ul><li style="margin-top:15px">Portfolio Manager</li></ul><br>Terms &amp; Conditions<br><br>There are no terms or conditions for this registrant.<br><br></div> </div><div class="province" style="display: block;">     <div class="imgProvinceExpand" onclick="javascript:toggleProvince(this);"></div>      <div class="province-name">Québec</div>      <div class="province-content" style="display:none"><div style="padding-top:7px;padding-bottom:15px "><a href="#" onclick="javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;QC   &quot;,&quot; Québec&quot;);">Registered Individuals</a></div>Categories   <a href="#" onclick="javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img style="border-width: 0px;" src="/images/b_help_swap.gif" border="0"></a><ul><li style="margin-top:15px">Investment Fund Manager</li><li style="margin-top:15px">Exempt Market Dealer</li><li style="margin-top:15px">Portfolio Manager</li></ul><br>Terms &amp; Conditions<br><br>There are no terms or conditions for this registrant.<br><br></div> </div><div class="province" style="display: block;">     <div class="imgProvinceExpand" onclick="javascript:toggleProvince(this);"></div>      <div class="province-name">Saskatchewan</div>      <div class="province-content" style="display:none"><div style="padding-top:7px;padding-bottom:15px "><a href="#" onclick="javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;SK   &quot;,&quot; Saskatchewan&quot;);">Registered Individuals</a></div>Categories   <a href="#" onclick="javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img style="border-width: 0px;" src="/images/b_help_swap.gif" border="0"></a><ul><li style="margin-top:15px">Portfolio Manager</li></ul><br>Terms &amp; Conditions<br><br>There are no terms or conditions for this registrant.<br><br></div> </div><div class="province" style="display: block;">     <div class="imgProvinceExpand" onclick="javascript:toggleProvince(this);"></div>      <div class="province-name">Yukon</div>      <div class="province-content" style="display:none"><div style="padding-top:7px;padding-bottom:15px "><a href="#" onclick="javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;YT   &quot;,&quot; Yukon&quot;);">Registered Individuals</a></div>Categories   <a href="#" onclick="javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img style="border-width: 0px;" src="/images/b_help_swap.gif" border="0"></a><ul><li style="margin-top:15px">Portfolio Manager</li></ul><br>Terms &amp; Conditions<br><br>There are no terms or conditions for this registrant.<br><br></div> </div>  </div><br></div>                       
+                       <span id="ctl00_bodyContent_lbl_firm_detail_message" style="color:Red;"></span>
+
+                       <div id="ctl00_bodyContent_divFirmNoLongerRegistered" style="padding:20px 10px 10px 5px;display:none;">
+                             <hr style="display: block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding: 0;">
+                             <div style="padding-top:4px;padding-bottom:4px">                                                     
+                                <span id="ctl00_bodyContent_Label5" class="articleText"><b><i>This firm is no longer registered.  Please contact your <a href="http://www.securities-administrators.ca/presentation_des_ACVM.aspx?ID=99&amp;LangType=1033" target="_blank">local securities regulator</a> for more information.</i></b></span>
+                             </div>
+                       </div>
+
+                      <div style="float:left;width:200px;padding-top:30px;padding-bottom:20px">
+                          <a id="anchBackToSearchResultsFooter" onclick="javascript:goBackToFirmSearchResults();" class="articleTextAnchor">
+                            Back to results
+                          </a>
+                      </div>
+                      <!-- /////////// CR //////////// -->                                             
+
+                   </div>
+
+               <!--divDetails-->
+               </div>
+                
+
+           </div>
+        </div>
+
+        <!-- Firm individuals List -->
+        <div id="divFirmIndividuals" class="lightboxOverlay" style="min-width:600px;max-width:800px;min-height:250px">       
+            <div class="articleText">
+                 <div class="header">
+                    <div style="float:left"><h1 class="title">Registered Individuals</h1></div><div style="float:right"><a href="javascript:void(0)" onclick="document.getElementById('divFirmIndividuals').style.display='none'"><img src="/images/close-blue.png"></a></div></div><div class="contents">
+                     <table style="width:100%" border="0" cellpadding="0" cellspacing="0">
+                         <tbody><tr class="border-bottom">
+                             <td class="heading" style="vertical-align:top;width:5%"><span>Name</span>:</td><td style="width:95%"><div id="divRegIndvFirmName" class="articleText"></div></td></tr>           
+                         <tr class="heading-blue-bg">
+                             <td colspan="2">
+                                 <div id="divRegisteredIndividualsSubTitle"></div>
+                             </td>
+                         </tr>                           
+                         <tr class="border-bottom">
+                             <td colspan="2">
+                                 <div id="divFirmIndividualsList" style="width:700px;min-height:150px;max-height:300px;overflow:auto"></div>
+                             </td>
+                         </tr>
+                     </tbody></table>                                          
+                 </div>  
+                 <div class="footer">
+                     <div id="divPostfixArticle"></div>
+                 </div>
+            </div>
+        </div><!-- Firm individuals -->
+
+
+         <!-- Terms and Conditions -->
+        <div id="divTermsAndConditions" class="lightboxOverlay" style="min-width:600px;max-width:800px;min-height:200px;">       
+            <div class="articleText">
+                 <div class="header">
+                    <div style="float:left"><h1 class="success"><span>Terms and Condition Details</span></h1></div><div style="float:right"><a href="javascript:void(0)" onclick="document.getElementById('divTermsAndConditions').style.display='none'"><img src="/images/close-blue.png"></a></div></div><div class="contents">
+                     <table style="width:100%">
+                         <tbody><tr><td class="heading" style="width:20%"><span id="ctl00_bodyContent_Label7">Name</span>:</td><td style="width:80%"><div id="divTermCondIndividualName"></div></td></tr>
+                         <tr class="heading-blue-bg"><td colspan="2" class="heading"><div id="divTermCondJurisdiction"></div></td></tr>                         
+                         <tr class="border-bottom"><td colspan="2" class="heading"><div id="divTermCondTypeDescription"></div></td></tr>                         
+                         <tr><td colspan="2" class="articleText"><div id="divTermCondDetails" class="articleText" style="width:700px;min-height:150px;max-height:300px;overflow:auto"></div></td></tr>
+                         <tr><td colspan="2"> </td></tr></tbody></table></div><div class="footer">
+                     <div id="divPostfixArticleTermsAndConditions"></div>
+                 </div>
+            </div>
+        </div><!-- Terms and Conditions -->
+
+
+        <!-- Static button for postbacks -->
+        <div style="display:none">
+            <input name="ctl00$bodyContent$btnFirmClickStaticEventHandler" value="" id="ctl00_bodyContent_btnFirmClickStaticEventHandler" type="submit">
+        </div>
+    
+
+    </div>
+    <!--div_Content-->
+
+
+    <input name="ctl00$bodyContent$hdOriginalSelectedJuri" id="ctl00_bodyContent_hdOriginalSelectedJuri" type="hidden">
+    <input name="ctl00$bodyContent$hdSelectedJuri" id="ctl00_bodyContent_hdSelectedJuri" type="hidden">
+    <input name="ctl00$bodyContent$hdSelectedCategory" id="ctl00_bodyContent_hdSelectedCategory" type="hidden">
+    <input name="ctl00$bodyContent$hdIndCatCount" id="ctl00_bodyContent_hdIndCatCount" value="16" type="hidden">
+    <input name="ctl00$bodyContent$hdAllCat" id="ctl00_bodyContent_hdAllCat" value="0" type="hidden">
+    <input name="ctl00$bodyContent$hdAllJuri" id="ctl00_bodyContent_hdAllJuri" value="0" type="hidden">
+    <input name="ctl00$bodyContent$hdSelectedJuriForDisplay" id="ctl00_bodyContent_hdSelectedJuriForDisplay" type="hidden">
+    <input name="ctl00$bodyContent$hdSelectedCatForDisplay" id="ctl00_bodyContent_hdSelectedCatForDisplay" type="hidden">
+    <input name="ctl00$bodyContent$hdFrimCatCount" id="ctl00_bodyContent_hdFrimCatCount" value="23" type="hidden">
+    <input name="ctl00$bodyContent$hdIsCurrent" id="ctl00_bodyContent_hdIsCurrent" type="hidden">
+    <input id="hdEmailText" value="" type="hidden">
+    <input id="hdEmailTitle" value="" type="hidden">
+    <input name="ctl00$bodyContent$hdEmailDetailsCriteria" id="ctl00_bodyContent_hdEmailDetailsCriteria" type="hidden">
+    <input name="ctl00$bodyContent$hdLastSearchResultsPageURL" id="ctl00_bodyContent_hdLastSearchResultsPageURL" type="hidden">
+
+    
+    
+    <script type="text/javascript" language="javascript">
+
+    function showCriteria() {
+        document.getElementById('SearchCriteria').style.display = '';
+        document.getElementById('showSearchCriteria').style.display = 'none';
+        return false;
+    }
+
+    function hideCriteria() {
+        document.getElementById('SearchCriteria').style.display = 'none';
+        document.getElementById('showSearchCriteria').style.display = '';
+        return false;
+    }
+
+    
+    function goBackToSearchStartPage() {
+        window.location = "/nrs/nrsearchprep.aspx" + window.location.search;
+    }
+                                                          
+    //To go back to Firm search results page from firm details page                        
+    function goBackToFirmSearchResults() {
+
+        //If current mode is INDVFIRM, then redirect to the document.referrer page otherwise show the proper div
+        if (getQueryString("mode") == "INDVFIRM") {
+            window.location = document.referrer;
+        }
+        else {
+            document.getElementById("divImageLoaderIndvDetailsPage").style.display = 'block';
+            //divSearchResults
+            setTimeout(LoadFirmSearchResultsPage, 500);
+        }
+    }
+
+    function LoadFirmSearchResultsPage() {
+        document.getElementById("ctl00_bodyContent_divDetails").style.display = 'none';
+        document.getElementById("ctl00_bodyContent_divSearchResults").style.display = 'block';
+        document.getElementById("divImageLoaderIndvDetailsPage").style.display = 'none';
+    }
+
+     //To go back to individual search results page from individual details page                        
+     function goBackToIndividualSearchResultPage() {
+            document.getElementById("divImageLoaderIndvDetailsPage").style.display = 'block';
+            setTimeout(LoadIndividualSearchResultsPage, 500);
+     }
+
+     function LoadIndividualSearchResultsPage() {
+
+         document.getElementById("< %=divDetails.ClientID%>").style.display = 'none';
+         document.getElementById("< %=divSearchResults.ClientID%>").style.display = 'block';
+         document.getElementById("divImageLoaderIndvDetailsPage").style.display = 'none';
+     }
+
+
+     function toggleCurrentRegistration(objCurrRegImage) {
+         var children = objCurrRegImage.parentNode.children;
+         for (var i = 0; i < children.length; i++) {
+             var element = children[i];
+             if (element.className == 'province') {
+                 if (element.style.display == "block" || element.style.display == "") {
+                     objCurrRegImage.className = 'imgRegistrationExpand';
+                     element.style.display = "none";
+                 } else {
+                     objCurrRegImage.className = 'imgRegistrationCollapse';
+                     element.style.display = "block";
+                 }
+             }
+         }
+     }
+
+     function togglePreviousRegistration(objPrevRegImage) {
+         var children = objPrevRegImage.parentNode.children;
+         for (var i = 0; i < children.length; i++) {
+             var element = children[i];
+             if (element.className == 'province') {
+                 if (element.style.display == "block" || element.style.display == "") {
+                     objPrevRegImage.className = 'imgRegistrationExpand';
+                     element.style.display = "none";
+                 } else {
+                     objPrevRegImage.className = 'imgRegistrationCollapse';
+                     element.style.display = "block";
+                 }
+             }
+         }
+     }
+                                   
+     function toggleProvince(prov) {               
+         var children = prov.parentNode.children;
+         for (var i = 0; i < children.length; i++) {
+             var element = children[i];
+             if (element.className == 'province-content') {
+                 if (element.style.display == "block" || element.style.display == "") {
+                     prov.className = "";
+                     prov.className = 'imgRegistrationExpand';
+                     element.style.display = "none";
+                 } else {
+                     prov.className = "";
+                     prov.className = "imgRegistrationCollapse";
+                     //prov.className = 'imgRegistrationCollapse';
+                     element.style.display = "block";
+                 }
+             }
+         }
+     }
+                                                                   
+     function OpenTermsAndConditions(firmName, juri, termCondcd, termCond, postfixArticle) {               
+
+         document.getElementById("divTermCondIndividualName").innerHTML = unescape(firmName);
+         document.getElementById("divTermCondJurisdiction").innerHTML = unescape(juri);
+         document.getElementById("divTermCondTypeDescription").innerHTML = unescape(termCondcd);
+         document.getElementById("divTermCondDetails").innerHTML = unescape(termCond);               
+         //document.getElementById("divPostfixArticleTermsAndConditions").innerHTML = unescape(postfixArticle);               
+         document.getElementById("divTermsAndConditions").style.display = 'block';
+
+         return false;
+     }                        
+           
+     function OpenRegisteredPermittedIndividuals(strHexFid, strFirmName, strJuriCd, strJuriDesc) {
+         
+         var currentURL = noQuoteInFrenchText(window.location.href);         
+         var found = 0;
+         var registeredIndividualsIn = document.getElementById("ctl00_bodyContent_hdRegisteredIndividualsIn").value;
+         var noRecordsFound = document.getElementById("ctl00_bodyContent_hdNoRecordsFound").value;
+
+         $.ajax({
+             type: "POST",
+             contentType: "application/json; charset=utf-8",
+             url: "/nrs/Services.aspx/GetIndividualsInFirmByJurisdiction",
+             data: "{'firmId':'" + strHexFid + "','juriCode':'" + strJuriCd + "','currentURL':'" + currentURL + "'}",
+             dataType: "json",
+             cache: false,
+             async: true,
+             success: function (response) {                 
+                 var trHTML = '<table>';
+                 //$.each(response.d, function (idx, item) {
+                 //trHTML += '<tr><td><a target="_blank" href="' + noQuoteInFrenchText(item.urlToIndvDetail) + '">' + noQuoteInFrenchText(item.individualName) + '</a></td></tr>';
+                 //found = 1; //individual found
+                 //});
+
+                 var data = $.parseJSON(response.d);                 
+                 for (i = 0; i < data.length; i++) {
+                     trHTML += '<tr><td><a target="_blank" href="' + noQuoteInFrenchText(data[i].urlToIndvDetail) + '">' + noQuoteInFrenchText(data[i].individualName) + '</a></td></tr>';
+                     found = 1; //individual found
+                 }
+
+
+                 trHTML += '</table>';
+                 
+                 $("#divRegisteredIndividualsSubTitle").html(registeredIndividualsIn + "<b>" + noQuoteInFrenchText(strJuriDesc) + "</b>");
+                 $("#divRegIndvFirmName").html(strFirmName);
+                 
+                 if (found == 1) {
+                     $('#divFirmIndividualsList').html(trHTML);
+                 } else {
+                     $('#divFirmIndividualsList').html("<span class='RedText'><BR/><BR/>" + noRecordsFound + "</span>");
+                 }
+                 $("#divFirmIndividuals").show();                       
+             }                   
+         });
+         
+         return false;
+     }
+
+
+     //Firm link click event handler
+     function GetDetailsFirmClicked(strFirmName, strFid) {
+
+         var isIndvFirmPage = getQueryString("mode");               
+
+         if (isIndvFirmPage != "" && isIndvFirmPage != null && isIndvFirmPage != undefined) {
+             //implies user clicked on the INDV FIRM link again so don't load any page for Back to results link to retain referrer                   
+             return false;
+         } else {
+             
+             //Firm Details requested               
+             __doPostBack('btnFirmClickStaticEventHandler', strFirmName + "~" + strFid);
+         }
+
+         return false;
+     }
+
+     function TogglePreviousNameExpandCollapse() {               
+         var objDivPrevNames = document.getElementById("divPreviousNamesList");
+         var divPrevNamesState = document.getElementById("divPreviousNamesList").style.display;
+         
+         if (divPrevNamesState == '' || divPrevNamesState == 'none') {
+             objDivPrevNames.style.display = 'block';
+             document.getElementById("ctl00_bodyContent_imgPreviousNamesList").src = "/images/collapse.png";
+         } else {
+             objDivPrevNames.style.display = 'none';
+             document.getElementById("ctl00_bodyContent_imgPreviousNamesList").src = "/images/expand.png";
+         }
+     }
+
+
+        function PrintScreenDetails() {
+
+            $(".csaAccordionCurrent").children().show();
+            $(".csaAccordionPrevious").children().show();
+            $(".province").children().show();
+            $(".imgRegistrationExpand").removeClass('imgRegistrationExpand').addClass('imgRegistrationCollapse');
+            $(".imgProvinceExpand").removeClass('imgProvinceExpand').addClass('imgProvinceCollapse');
+            $("#divPreviousNamesList").show();
+            var objPrevNames = document.getElementById("ctl00_bodyContent_imgPreviousNamesList");
+            if (objPrevNames != null && objPrevNames !== undefined) {
+                objPrevNames.src = "/images/collapse.png";
+            }
+
+            //Issue print command now
+            window.print();
+
+            return false;
+        }
+
+        function noQuoteInFrenchText(text) {
+            var newtext = "";
+            //for (var i = 0; i < text.length; i++) {
+            //    if (text[i] == "'") {
+            //        newtext += "\"";
+            //    }
+            //    else {
+            //        newtext += text[i];
+            //    }
+            //}
+            return text;
+        }
+
+    </script>
+
+
+                
+                
+                
+            </div>
+        </div>
+        <div id="footer">
+            <div id="footer-left">
+                ©2009 Canadian Securities Administrators</div>
+            <div id="footer-right">
+                <div id="ctl00_contentblockfooterlink">
+	<p><a target="_blank" href="http://www.iosco2010.com/en/index.asp" title="IOSCO Montreal 2010"></a></p>
+<p> </p>
+<p><a target="_blank" href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=1023" title="Follow Us on Twitter"><img src="/uploadedImages/General/twitter-bird-blue-on-white.JPG?n=6643" alt="Follow Us on Twitter" style="width: 40px; height: 40px;" title="Follow Us on Twitter" border="0"></a> | <a href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=722" title="Sitemap">Sitemap</a> | <a href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=721" title="Legal">Legal</a>  | <a href="http://www.securities-administrators.ca/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=99" title="Contact us">Contact us</a> | <font color="#ff0000"><b>NEW !!</b></font> <b><a href="http://www.securities-administrators.ca/link.aspx?id=1382" title="Frequently asked questions">Frequently asked questions</a> </b></p>
+</div>
+                <span class="gssi"><a href="http://www.graphicallyspeaking.ca/" target="_blank">Vancouver
+                    Website Design</a> by <a href="http://www.graphicallyspeaking.ca/" target="_blank">Graphically
+                        Speaking</a></span></div>
+        </div>
+        
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+});
+//]]>
+</script>
+<span style="display: none ! important;"><input value="" id="__EVENTTARGET" name="__EVENTTARGET" type="hidden"></span><span style="display: none ! important;"><input value="" id="__EVENTARGUMENT" name="__EVENTARGUMENT" type="hidden"></span><span style="display: none ! important;"><input value="" id="__LASTFOCUS" name="__LASTFOCUS" type="hidden"></span><span style="display: none ! important;"><input value="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" id="__VIEWSTATE" name="__VIEWSTATE" type="hidden"></span><span style="display: none ! important;"><input value="53A765B9" id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden"></span><span style="display: none ! important;"><input value="sR9h0nTUeN5X+9GcSvFcKblhz2NthVOl0AhLemOxkN33Wt+ygWXb+OjoTE3aKWJY9uUmPzsbFD7mupvny66znxSmpLcvMkrRPTxvP9y99yauArUz4lfqnbaUM9oad9PrFJA3glcqvd33g/ew/nKKY9yhXTxT+Vv6yZ/aGFIxc56fBAZcw2F7mdpRTvkKhze4Q2gIUzcpqXfmgWNxC4rZsz9IY99ThpDN/B4/o0XYT0dlT5DTNN1riENjiHqinOC2V2/YPNW+640SiE55CMnmNpToxj204cWO4rvqJPvi5NJy/251c0V+rYN1mATVxVxdx/C3VYEHMYQ7eK0jm4vDko9aa66JZ8a1KlunPM8FG8lCemgpc1cvb7V16CCEonQcHjQVWNTczFQiBBQIia3zEtbqp2CLjj4MnLb+D8DiV36I5A+g0YfzhdNSHg/tdK/MaeqYEsa/0TEfyaHnFIDHg1YDTuKb7N9R/zX5TJIibfLc/Sbzo9NWyUCbtDoOJ+d4xSMF8bRhkiTYg+n6gZYcauL2WvIdBNXJe5jVNARTOJhsJKtAwsE8NTZCrNJBHJyHtz+6ybE2Ul1mjPG4EcdPm+gdGMV8ldVchIrwO4EFRy9l0/m22G6nGHltFgCMHdFlLs6LPreKZxH+GvxoqZQBjfn1SP0qfW15NXO+xVog+P3I3KvBx/t4Sq2yWizil0azKd3yZeqCyTyL8qfoQH/hOaUnKyiPWGX2kfCgmhhCaj5K0PltisiTsumB1FOIPTdCZ7DFpLYJpW+p/ISU7Y77Zs/k6zOQqJfH9S5+lQepNyfFbsOEsWD2ytm/g9abz+UTMbufjklgYxntwTvPAotTmwa7oybn/ANqicVh4QmVoXfD1+nxiNz3HakYaDKq2dZhwM8SgLNJx44ZlQtzmDDol4lzONuHCxvzzBgQ9NUhAxVCqoZD9gcPvtivN0QueWvaAPjokUwovB20YP3ncoiXntdUmScEWppAo+jDVD11ks4F2+6ZwKCwoYBUBfHTCplOBXgjaU7T8kqy+oWMY/iy7H10AvqQy1su4gFsGHU4Win6uNa4T5MzyLl8OxriqYXPZlsa7IBfUsK4leQjfsZp046bM3pog9WJnLIUE9D7H8qeyBjaHsXArMGbGfJRVl2ZGYb32UCaJf8WpbnLm9ZMs+XP+HTQRdnL1bm50LTI93xH2GIzNIX9tiBvvHt/iAY/Zcd2WGyVuWCc+kaYqUUza/WK4JK/JMAXH+gQz9PolAe1gEbKbMAkVSt1mYQDHNeryupVlUUxlVFAwHTniuhhJ8aSmj79BDg2mW2Goskd4iepVnd4uKJ8gpyMQKwt1d68IAruYf42JRTpQ4j8oQDobSUoU92bNNO4hNbM6Gez4qxFoDgq5oCS2ZaDcE99Tqnz8cXE4p+B+kKi6cmhJ2ogXBZP9P9SNkszI9qjHlJSWkSUhdmMqKIzvXkTh+U8TgwOc/WKTHhQsZ4P/qnggzT0BrwP3FlzfGZl6hjQBrh5P7sI3uyTFUmnWeJjIfzNrrzD5srw4T9kx4KAmWi/n5syqr72cbwBW+a3uNWXSzivA3SX6l6Ttb8MuCd1nPuwJJvWeCdeHNXv7rES1m33RZ9qbA==" id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden"></span><span style="display: none ! important;"><input value="-1759591071,-569449246,-1939951303,-1080527330,-1687560804,-1388997516,2009761168,27274999,1979897163,-422906301,-1818005853,-1008700845,-845549574,-1619052588" id="EktronClientManager" name="EktronClientManager" type="hidden"></span><span style="display: none ! important;"><input value="" id="__VIEWSTATEENCRYPTED" name="__VIEWSTATEENCRYPTED" type="hidden"></span></form>
+    </div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6743787-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+</body></html>

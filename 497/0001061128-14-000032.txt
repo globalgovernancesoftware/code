@@ -1,0 +1,1173 @@
+<SEC-DOCUMENT>0001061128-14-000032.txt : 20140430
+<SEC-HEADER>0001061128-14-000032.hdr.sgml : 20140430
+<ACCEPTANCE-DATETIME>20140430124240
+ACCESSION NUMBER:		0001061128-14-000032
+CONFORMED SUBMISSION TYPE:	497K
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20140430
+DATE AS OF CHANGE:		20140430
+EFFECTIVENESS DATE:		20140430
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN FIDELITY DUAL STRATEGY FUND INC
+		CENTRAL INDEX KEY:			0001061130
+		IRS NUMBER:				731544180
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		497K
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	333-59185
+		FILM NUMBER:		14797138
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2000 CLASSEN CENTER, STE 7N
+		CITY:			OKLAHOMA CITY
+		STATE:			OK
+		ZIP:			73106
+		BUSINESS PHONE:		405-523-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		2000 CLASSEN CENTER
+		CITY:			OKLAHOMA CITY
+		STATE:			OK
+		ZIP:			73106
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0001061130
+<SERIES-ID>S000009840
+<SERIES-NAME>AMERICAN FIDELITY DUAL STRATEGY FUND INC.
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000027249
+<CLASS-CONTRACT-NAME>AMERICAN FIDELITY DUAL STRATEGY FUND INC.
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>497K
+<SEQUENCE>1
+<FILENAME>form497kmay2014.htm
+<DESCRIPTION>AFDSF SUMMARY PROSPECTUS 2014
+<TEXT>
+<html>
+<head>
+    <title>form497kmay2014.htm</title>
+    <!--Licensed to: AFDSF-->
+    <!--Document Created using EDGARizer 2020 5.4.5.1-->
+    <!--Copyright 1995 - 2013 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">
+<div style="LINE-HEIGHT: 24.6pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 9pt; FONT-WEIGHT: normal">497k</font></div>
+
+<div style="LINE-HEIGHT: 24.6pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 24.6pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 24pt; FONT-WEIGHT: bold">AMERICAN FIDELITY</font></div>
+
+<div style="LINE-HEIGHT: 14.35pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold"><font style="DISPLAY: inline; FONT-SIZE: 24pt">DUAL STRATEGY FUND, INC.</font><font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">&#174; </font>(no ticker symbol)</font></div>
+
+<div style="LINE-HEIGHT: 15.15pt; TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="LINE-HEIGHT: 15.15pt; TEXT-INDENT: 0pt; DISPLAY: block"><br>
+&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="14%">
+<div style="LINE-HEIGHT: 15.15pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">SUMMARY PROSPECTUS</font></div>
+
+<div style="LINE-HEIGHT: 15.15pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">May 1, 2014</font></div>
+</td>
+<td align="left" valign="top" width="86%">
+<div style="LINE-HEIGHT: 10.85pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Before you invest, you may want to review the Fund&#8217;s prospectus, which contains more information about the Fund and its risks. You can find the Fund&#8217;s prospectus and other information about the Fund online at: http://pe.newriver.com/summary.asp?clientid=amfid&amp;fundid=NRMF03244&amp;contractid=NRVA01077 You can also get this information at no cost by calling 1.800.662.1106 or by sending an email request to va.help@af-group.com.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="LINE-HEIGHT: 13pt; TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><a name="RiskReturnSummary"><!--EFPlaceholder--></a><a name="InvestObjectGoals"><!--EFPlaceholder--></a>RISK/RETURN SUMMARY</font></div>
+
+<div style="LINE-HEIGHT: 13.7pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 15.95pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Investment Objectives/Goals</font></div>
+
+<div style="LINE-HEIGHT: 15.95pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The primary investment goal of the American Fidelity Dual Strategy Fund (the &#8220;Fund&#8221;) is long-term capital growth.&#160;&#160;The Fund&#8217;s secondary investment goal is to generate current income.</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 15.95pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold"><a name="FeesExpensesFund"><!--EFPlaceholder--></a>Fees and Expenses of the Fund</font></div>
+
+<div style="LINE-HEIGHT: 15.95pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The information below reflects the fees and expenses that the Fund incurs.&#160;&#160;The Fund&#8217;s fees and expenses will impact your investment.&#160;&#160;Because you may only invest indirectly in the Fund either by purchasing a variable annuity contract issued by a separate account or by participating in a contract available through your employer&#8217;s retirement plan, your investment may also be impacted by fees imposed by the separate account.&#160;&#160;<font style="FONT-STYLE: italic; DISPLAY: inline; FONT-WEIGHT: bold">The following information does not include fees and expenses that you may incur at the separate account level.&#160;&#160;If fees and expenses incurred at the separate account level were included, your costs would be higher.</font></font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="FONT-STYLE: italic; DISPLAY: inline">Annual Fund Operating Expenses</font> (expenses that you pay each year as a percentage of the value of your investment)</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="30%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td valign="top" width="34%">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Management Fees</font></div>
+</td>
+<td align="right" valign="top" width="10%">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">0.50%</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td valign="top" width="34%">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Total Annual Fund Operating Expenses</font></div>
+</td>
+<td align="right" valign="top" width="10%">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">0.50%</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Example</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">This Example is intended to help you compare the cost of investing in the Dual Strategy Fund with the cost of investing in other mutual funds.&#160;&#160;The Example assumes that you invest $10,000 in the Dual Strategy Fund for the time periods indicated and that your investment has a 5% return each year.&#160;&#160;The Example also assumes that the Fund&#8217;s operating expenses remain the same.&#160;&#160;Because the Fund does not charge you a fee when you redeem shares, the costs shown below would remain the same regardless of whether or not you redeemed your shares at the end of each period.&#160;&#160;Although your actual costs may be higher or lower than the costs in the Example, based on these assumptions, your costs would be:</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div>&#160;</div>
+
+<div align="left">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="70%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="8%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="22%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<font style="FONT-WEIGHT: bold">1 Year</font></font></td>
+<td width="24%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<font style="FONT-WEIGHT: bold">3 Years</font></font></td>
+<td width="26%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<font style="FONT-WEIGHT: bold">5 Years</font></font></td>
+<td width="20%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<font style="FONT-WEIGHT: bold">10 Years</font></font></td>
+</tr><tr>
+<td width="8%" style="TEXT-ALIGN: left">
+<div><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div>&#160;</div>
+</td>
+<td width="22%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;$51</font></td>
+<td width="24%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;$160</font></td>
+<td width="26%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">$279&#160;</font></td>
+<td width="20%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">$627&#160;</font></td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">This Example does not include fees and expenses that you may incur at the separate account level. If fees and expenses incurred at the separate account level were included, your costs would be higher.</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">1</font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Portfolio Turnover</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Fund pays transaction costs, such as commissions, when it buys and sells securities (or &#8220;turns over&#8221; its portfolio).&#160;&#160;A higher portfolio turnover rate may indicate higher transaction costs.&#160;&#160;These costs, which are not reflected in annual fund operating expenses or in the example, affect the Fund&#8217;s performance.&#160;&#160;During the most recent fiscal year, the Fund&#8217;s portfolio turnover rate was 66.24%<font style="DISPLAY: inline; FONT-WEIGHT: bold">&#160;</font>of the average value of its portfolio.</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 15.95pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold"><a name="InvestStrategyRisks"><!--EFPlaceholder--></a>Investment Strategy, Risks and Performance</font></div>
+
+<div style="LINE-HEIGHT: 15.95pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Principal Investment Strategy</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Fund has a &#8220;dual investment strategy&#8221; and invests primarily in common stocks of U.S. companies, the majority of which are income producing.&#160;&#160;The Fund also may invest in American Depository Receipts, which represent shares of stock of foreign companies.</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Fund has four sub-advisors that independently manage a portion of the Fund&#8217;s portfolio using different investment strategies.&#160;&#160;The approach of two of the sub-advisors (Boston Advisors, LLC (&#8220;Boston Advisors&#8221;) and The Renaissance Group LLC (&#8220;Renaissance&#8221;)) is growth oriented and generally focuses on purchasing stock of companies that exhibit above average earnings and capital growth.&#160;&#160;The other two sub-advisors (Beck, Mack &amp; Oliver LLC (&#8220;BM&amp;O&#8221;) and WEDGE Capital Management L.L.P. (&#8220;Wedge&#8221;)) are &#8220;value&#8221; sub-advisors, generally focusing on undervalued equity securities with large capitalizations.</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">To facilitate the Fund achieving its investment objectives, the Fund retains sub-advisors with different principal investment strategies.&#160;&#160;Each of the Fund&#8217;s sub-advisors follows its own particular strategy with regard to the portion of the Fund&#8217;s assets under its management, as described below.&#160;&#160;In addition, the sub-advisors are contractually obligated to adhere to the Fund&#8217;s fundamental and non-fundamental investment policies.</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Growth Sub-Advisors</font></font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Boston Advisors&#8217; primary objective is to generate growth of capital, and it invests in stocks of companies with a market capitalization of greater than $1 billion and earnings expected to grow faster than the market average.&#160;&#160;Boston Advisors uses a proprietary process to compare and rank companies, with the primary objective of generating growth of capital.</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Renaissance focuses on stocks that have and are expected to continue experiencing above average earnings growth.&#160;&#160;Using the Renaissance financial models, Renaissance&#8217;s buy discipline requires (1) an analysis of the profitability and financial strength of a company, (2) scoring and ranking of other factors, and (3) overall assessment of the company and its opportunity for growth.&#160;&#160;Renaissance&#8217;s sell discipline is a function of its quantitative scoring and ranking process, and any security falling below the 40<font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">th</font> percentile is reviewed for sale to be potentially replaced with a more highly ranked security chosen from the top 20<font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">th</font> percentile of the strategy&#8217;s universe.</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Value Sub-Advisors</font></font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">BM&amp;O relies primarily on fundamental analysis to identify companies that, in its judgment, are undervalued, financially strong and possess high quality assets and above average appreciation potential.&#160;&#160;In this manner, BM&amp;O aims to purchase portfolio securities at low price levels relative to earnings and valuations.</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>WEDGE employs a series of models to analyze the largest 1,000 companies traded in the U.S. and identify undervalued stocks that are beginning to show visible signs of life.&#160;&#160;All buy, hold and sell decisions are reviewed for accuracy of data and current developments that might alter the quantitative analysis, but WEDGE will not over-ride the model with subjective judgment.</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Principal Risks of Investing</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Depending on changes in the value of the Fund&#8217;s investments, the Fund&#8217;s shares will rise and fall in value, affecting the Fund&#8217;s total return to investors.&#160;&#160;You may lose money on your investment in the Fund.&#160;&#160;Below is a summary of the principal risks of investing in the Fund, including the risks to which the Fund&#8217;s portfolio as a whole is subject and the circumstances reasonably likely to adversely affect the Fund&#8217;s net asset value and total return.</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>The Fund&#8217;s stock holdings may decline in value because of changes in price of a particular stock or a broad stock market decline.&#160;&#160;The value of a security may decline, and common stocks in general are subject to the risk of an issuer liquidating or declaring bankruptcy.&#160;&#160;Additionally, any investment by the Fund in American Depository Receipts is subject to currency, political, economic and social risks that are more often associated with direct investments in foreign securities than with investments in common stocks of U.S. companies.</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Different types of stocks (such as growth stocks and value stocks) may shift in and out of favor, depending on market and economic conditions.&#160;&#160;The Fund&#8217;s &#8220;dual strategy&#8221; approach may potentially limit the downside risk of the Fund, but it may also produce more modest gains over the long run than a single investment strategy would.</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>The Fund&#8217;s success depends on the success of its portfolio holdings.&#160;&#160;There is a risk that a stock selected for its growth potential will not perform as expected and its price will decline or not increase.&#160;&#160;Likewise, a value stock may never reach its perceived full value or it may not have been undervalued when purchased, and large company value stocks may react more slowly to change than small cap stocks.&#160;&#160;Additionally, if earnings of companies in which the Fund invests are not achieved, and dividends are reduced or discontinued, it will negatively impact the ability of the Fund&#8217;s equity securities to generate income.</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">2</font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Risk/Return Bar Chart and Table</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="80%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="38%">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>The bar chart below shows how the Fund&#8217;s performance has varied from year to year over a ten-year period.&#160;&#160;This information illustrates the variability of the Fund&#8217;s returns and provides some indication of the risks of investing in the Fund.&#160;&#160;The Average Annual Total Returns table shows the Fund&#8217;s performance over time compared with that of the Standard and Poor&#8217;s 500 Composite Stock Price Index, a widely recognized, unmanaged index of common stock prices, and the Russell 1000<font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">&#174; </font>Index, another widely recognized common stock index.</font></div>
+</td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="43%">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">_________________________________________________</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Average annual total returns as of December 31, 2013</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: -57.6pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72.5pt"></font>1 Year&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;5 Years&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;10 Years</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">_________________________________________________</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Fund&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;32.51%&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;18.03%&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6.65%</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">S&amp;P 500&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;32.39%&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1.66%&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;7.10%</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Russell 1000<font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">&#174;</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;33.11%&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;18.59%&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font id="TAB1" style="MARGIN-LEFT: 12pt"></font>7.78%</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+</td>
+</tr><tr>
+<td align="left" colspan="3" valign="top" width="83%">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Please note that the performance information presented here does not reflect insurance, sales, administrative or other charges at the separate account level.&#160;&#160;Performance would be lower if charges assessed by participating separate accounts were reflected.&#160;&#160;Additionally, although the performance information on this page may help you evaluate the Fund&#8217;s risks and potential rewards, the Fund&#8217;s past performance is not necessarily an indication of how the Fund will perform in the future.&#160;&#160;Current performance may be lower or higher than the performance presented here.&#160;&#160;Performance data current to the most recent month-end and quarter-end may be obtained at 1.800.662.1106 or at www.americanfidelity.com.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div align="left">&#160;</div>
+
+<div align="left">&#160;</div>
+
+<div align="left"><img src="investmentresult2014.jpg" alt=""></div>
+
+<div align="left">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="LINE-HEIGHT: 10.25pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Highest Quarterly Return:&#160;&#160;15.24%, 3rd Quarter 2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Lowest Quarterly Return:&#160;&#160;-22.74%, 4<font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">th</font> Quarter 2008</font></div>
+
+<div style="LINE-HEIGHT: 10.25pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">3</font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 15.95pt;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Investment Advisors and Portfolio Managers</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">American Fidelity Assurance Company is the Fund&#8217;s investment advisor, and the Fund&#8217;s current sub-advisors are Beck, Mack &amp; Oliver LLC (&#8220;BM&amp;O&#8221;), Boston Advisors, LLC (&#8220;Boston Advisors&#8221;), The Renaissance Group LLC (&#8220;Renaissance&#8221;), and WEDGE Capital Management L.L.P. (&#8220;WEDGE&#8221;).&#160;&#160;The following table contains information about the Sub-Advisors&#8217; portfolio managers, who are primarily responsible for the day-to-day management of the Fund&#8217;s portfolio (each, a &#8220;Portfolio Manager&#8221;):</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="90%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 1.5pt solid; BORDER-TOP: black 1.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Sub-Advisor</font></div>
+</td>
+<td valign="top" width="22%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 1.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Portfolio Manager</font></div>
+</td>
+<td valign="top" width="19%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 1.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Title</font></div>
+</td>
+<td valign="top" width="18%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 0.5pt solid; BORDER-TOP: black 1.5pt solid; BORDER-RIGHT: black 1.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Length of Service</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">with Sub-Advisor</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 1.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">BM&amp;O</font></div>
+</td>
+<td valign="top" width="22%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 0.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Zachary A. Wydra</font></div>
+</td>
+<td valign="top" width="19%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 0.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Partner/Portfolio Manager</font></div>
+</td>
+<td valign="top" width="18%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 1.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">9 years</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 1.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Boston Advisors</font></div>
+</td>
+<td align="left" valign="top" width="22%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 0.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Michael J. Vogelzang, CFA</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Douglas Riley, CFA</font></div>
+</td>
+<td valign="top" width="19%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 0.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">President and CIO</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Vice President and Portfolio Manager</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+</td>
+<td valign="top" width="18%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 1.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">18 years</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">13 years</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="15%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 1.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Renaissance</font></div>
+</td>
+<td valign="top" width="22%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 0.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Michael E. Schroer</font></div>
+</td>
+<td valign="top" width="19%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 0.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Managing Partner and Chief Investment Officer</font></div>
+</td>
+<td valign="top" width="18%" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 1.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">30 years</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="15%" style="BORDER-BOTTOM: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">WEDGE</font></div>
+</td>
+<td valign="top" width="22%" style="BORDER-BOTTOM: black 1.5pt solid; BORDER-LEFT: black 0.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Andrei Bolshakov, CFA</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">John Norman</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Richard Wells</font></div>
+</td>
+<td align="left" valign="top" width="19%" style="BORDER-BOTTOM: black 1.5pt solid; BORDER-LEFT: black 0.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Director of Quantitative Research and General Partner</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: -9pt; DISPLAY: block; MARGIN-LEFT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: -9pt; DISPLAY: block; MARGIN-LEFT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Portfolio Manager and General Partner</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: -9pt; DISPLAY: block; MARGIN-LEFT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: -9pt; DISPLAY: block; MARGIN-LEFT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Portfolio Manager and Executive Vice President</font></div>
+</td>
+<td valign="top" width="18%" style="BORDER-BOTTOM: black 1.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-RIGHT: black 1.5pt solid">
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">8 years</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">9 years</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">2 years</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="LINE-HEIGHT: 15.95pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 15.95pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold"><a name="PurchaseSale"><!--EFPlaceholder--></a>Purchase and Sale of Fund Shares</font></div>
+
+<div style="LINE-HEIGHT: 15.95pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Only separate accounts of insurance companies may purchase shares of the Fund. You may invest indirectly in the Fund through your purchase of a variable annuity contract issued by a separate account or by participating in a contract available through your employer&#8217;s retirement plan.&#160;&#160;Any minimum initial or subsequent investment requirements and redemption procedures are governed by the applicable separate account through which you invest.</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 15.95pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold"><a name="TaxInfo"><!--EFPlaceholder--></a>Tax Information</font></div>
+
+<div style="LINE-HEIGHT: 15.95pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Because the Fund&#8217;s shareholders are the separate accounts of one or more insurance companies through which you purchased your variable annuity contract, the tax treatment of dividends and distributions will depend on the tax status of the participating insurance company.&#160;&#160;Accordingly, no discussion is included about the federal personal income tax consequences to you, the policyholder.&#160;&#160;For this information, you should consult the prospectus of the appropriate separate account and read the discussion of the federal income tax consequences to variable annuity contract owners.<a name="PmtsBrokerDealers"><!--EFPlaceholder--></a></font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 15.95pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Payments to Broker-Dealers and Other Financial Intermediaries</font></div>
+
+<div style="LINE-HEIGHT: 15.95pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">American Fidelity Securities, Inc. (&#8220;AFS&#8221;) is the broker-dealer for the separate accounts that offer the Fund as an investment option.&#160;&#160;The separate accounts pay a fee to AFS for its services as broker-dealer.&#160;&#160;These payments may create a conflict of interest by influencing the broker-dealer and your salesperson to recommend the Fund over another investment.&#160;&#160;Ask your salesperson for more information.</font></div>
+
+<div style="LINE-HEIGHT: 11.4pt; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="LINE-HEIGHT: 13.7pt; TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">4</font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>investmentresult2014.jpg
+<TEXT>
+begin 644 investmentresult2014.jpg
+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
+A**`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@#__9
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

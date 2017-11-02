@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html class="win">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <title>Canadian Securities Administrators</title>
+    <meta content="blendTrans(Duration=0.05)" http-equiv="Page-Enter">
+    <link href=
+    "http://www.securities-administrators.ca/WorkArea/FrameworkUI/css/ektron.stylesheet.ashx?id=-1759591071+-845549574+-1619052588"
+    rel="stylesheet" type="text/css">
+    <script src=
+    "/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=-569449246+-1939951303+-1080527330+-1687560804+-1388997516+2009761168+27274999+1979897163+-422906301+-1818005853+-1008700845"
+    type="text/javascript">
+    </script><!-- August 2015 : New font used - Google Open Sans font -->
+    <link href=
+    "http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
+    rel="stylesheet" type="text/css">
+    <link href="http://www.securities-administrators.ca/css/main.css" rel=
+    "stylesheet" type="text/css">
+    <link href="http://www.securities-administrators.ca/css/nrd_print.css"
+    media="print" rel="stylesheet" type="text/css">
+    <link href="http://www.securities-administrators.ca/css/nrdsearch.css" rel=
+    "stylesheet" type="text/css">
+    <script src="/scripts/gssi.base.js" type="text/javascript">
+    </script>
+    <script src="/scripts/gssi.environment.js" type="text/javascript">
+    </script>
+    <script src="/scripts/gssi.events.js" type="text/javascript">
+    </script>
+    <script src="/scripts/gssi.dom.js" type="text/javascript">
+    </script>
+    <script src="/scripts/csa.js" type="text/javascript">
+    </script>
+    <script src="/nifti/nifti.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+        NIFTI.init("/nifti/nifti.ashx", ".section-title", ".about h1", ".tools h1", ".enforcement h1", ".enforcement-list h1", ".orders h1", ".resources h1", ".resources-fr h1", ".registration h1", ".inscription h1", "#overview-intro");
+    //        NIFTI.init("/nifti/nifti.ashx", ".section-title", ".about h1", ".tools h1", ".enforcement h1", ".enforcement-list h1", ".orders h1", ".registration h1", ".resources h1", ".about-french h1", ".tools-french h1", ".enforcement-french h1", ".enforcement-list-french h1", ".orders-french h1", "registration-french h1", ".resources-french h1", "#overview-intro");
+    </script>
+    <script type="text/javascript">
+        function gotopage(language) {
+            //alert(document.location.href);
+            if (language == "french") {
+                var url = document.location.href;
+                if (url.indexOf("LangType=1033") > -1)
+                    url = url.replace("LangType=1033", "LangType=1036");
+                else if (url.indexOf("?") > -1)
+                    url = url + "&LangType=1036";
+                else
+                    url = url + "?LangType=1036";
+                url = url.replace("bcsecurities.gssiwebs.com", "bcsecurities-fr.gssiwebs.com");
+            }
+            else {
+                var url = document.location.href;
+                if (url.indexOf("LangType=1036") > -1)
+                    url = url.replace("LangType=1036", "LangType=1033");
+                else if (url.indexOf("?") > -1)
+                    url = url + "&LangType=1033";
+                else
+                    url = url + "?LangType=1033";
+
+                url = url.replace("bcsecurities-fr.gssiwebs.com", "bcsecurities.gssiwebs.com");
+            }
+            document.location.href = url;
+        }
+    </script>
+    <script type="text/javascript">
+
+    <!--
+    function MM_swapImgRestore() { //v3.0
+     var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+    }
+    function MM_preloadImages() { //v3.0
+     var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+     if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+    }
+
+    function MM_findObj(n, d) { //v4.01
+     var p,i,x; if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+     d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+     if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+     for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+     if(!x && d.getElementById) x=d.getElementById(n); return x;
+    }
+
+    function MM_swapImage() { //v3.0
+     var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+     if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+    }
+
+    function redirectURL()
+    {
+     //alert(document.getElementById("categorylist").value);
+     window.location.href = document.getElementById("categorylist").value;
+    }
+    //-->
+
+
+
+    </script>
+    <script src="/scripts/jquery-1.11.4.js" type="text/javascript">
+    </script>
+    <meta content=
+    "The Canadian Securities Administrators CSA has investor resources to prevent securities fraud. We also offer securities compliance, cease trade order, securities passport, investor protection and more."
+    name="description">
+    <meta content=
+    "cease trade order, securities fraud, securities regulator, investment securities, investment regulations canada, canadian public companies"
+    name="keywords">
+    <title>CSA | Industry Resources | Overview</title>
+    <script type="text/javascript">
+    Sys.Application.add_init(function() {
+
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+
+    });
+
+    </script>
+    <script type="text/javascript">
+    Sys.Application.add_init(function() {
+
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+
+    });
+
+    </script>
+    <script type="text/javascript">
+    Sys.Application.add_init(function() {
+
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+
+    });
+
+    </script>
+    <script type="text/javascript">
+    Sys.Application.add_init(function() {
+
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+
+    });
+
+    </script>
+    <script type="text/javascript">
+    Sys.Application.add_init(function() {
+
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+
+    });
+
+    </script>
+    <script type="text/javascript">
+    Sys.Application.add_init(function() {
+
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+
+    });
+
+    </script>
+    <script type="text/javascript">
+    Sys.Application.add_init(function() {
+
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+
+    });
+
+    </script>
+    <script type="text/javascript">
+    Sys.Application.add_init(function() {
+
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+
+    });
+
+    </script>
+    <script type="text/javascript">
+    Sys.Application.add_init(function() {
+
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+
+    });
+
+    </script>
+    <script type="text/javascript">
+    Sys.Application.add_init(function() {
+
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_bodyContent_UpPnlSearchResults","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_bodyContent_UpdateProgress2"));
+
+    });
+
+    </script>
+</head>
+<body class="gecko" style="cursor: default;">
+    <div class="csaAccordion" id="ctl00_bodyContent_divFirmDetailsAccordion"
+    style="padding-top:15px">
+        <div class="csaAccordionCurrent">
+            <div class="registrationConstantText">
+                <strong>CURRENT REGISTRATION</strong>
+            </div>
+            <div class="imgRegistrationCollapse" onclick=
+            "javascript:toggleCurrentRegistration(this);" style=
+            "outline: 1px solid blue;"></div>
+            <div class="current-content">
+                <input id="hdnRegistrationType" type="hidden" value="C"><br>
+                <br>
+                <table style="width:100%">
+                    <tbody>
+                        <tr>
+                            <td style="vertical-align:top;width:30%">Firm:</td>
+                            <td style="vertical-align:top;width:70%"><b>1832
+                            ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832
+                            S.E.C.</b></td>
+                        </tr>
+                        <tr>
+                            <td style="vertical-align:top;width:30%">Head
+                            Office:</td>
+                            <td style=
+                            "vertical-align:top;width:70%;white-space: nowrap">
+                            1 Adelaide Street East<br>
+                            Suite 2700<br>
+                            Toronto ON M5C 2V9 CAN<br>
+                            Phone: (416)933-1937</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="province" style="display: block;">
+                <div class="imgRegistrationCollapse" onclick=
+                "javascript:toggleProvince(this);" style=
+                "outline: 1px solid blue;"></div>
+                <div class="province-name">
+                    Alberta
+                </div>
+                <div class="province-content" style="display: block;">
+                    <div style="padding-top:7px;padding-bottom:15px">
+                        <a href="#" onclick=
+                        "javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;AB &quot;,&quot; Alberta&quot;);">
+                        Registered Individuals</a>
+                    </div>Categories&nbsp;&nbsp;&nbsp;<a href="#" onclick=
+                    "javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img border="0"
+                    src="/images/b_help_swap.gif" style=
+                    "border-width: 0px;"></a>
+                    <ul>
+                        <li style="margin-top:15px">Exempt Market Dealer</li>
+                        <li style="margin-top:15px">Portfolio Manager</li>
+                    </ul><br>
+                    Terms &amp; Conditions<br>
+                    <br>
+                    There are no terms or conditions for this registrant.<br>
+                    <br>
+                </div>
+            </div>
+            <div class="province" style="display: block;">
+                <div class="imgProvinceExpand" onclick=
+                "javascript:toggleProvince(this);"></div>
+                <div class="province-name">
+                    British Columbia
+                </div>
+                <div class="province-content" style="display:none">
+                    <div style="padding-top:7px;padding-bottom:15px">
+                        <a href="#" onclick=
+                        "javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;BC &quot;,&quot; British Columbia&quot;);">
+                        Registered Individuals</a>
+                    </div>Categories&nbsp;&nbsp;&nbsp;<a href="#" onclick=
+                    "javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img border="0"
+                    src="/images/b_help_swap.gif" style=
+                    "border-width: 0px;"></a>
+                    <ul>
+                        <li style="margin-top:15px">Exempt Market Dealer</li>
+                        <li style="margin-top:15px">Portfolio Manager</li>
+                    </ul><br>
+                    Terms &amp; Conditions<br>
+                    <br>
+                    There are no terms or conditions for this registrant.<br>
+                    <br>
+                </div>
+            </div>
+            <div class="province" style="display: block;">
+                <div class="imgProvinceExpand" onclick=
+                "javascript:toggleProvince(this);"></div>
+                <div class="province-name">
+                    Manitoba
+                </div>
+                <div class="province-content" style="display:none">
+                    <div style="padding-top:7px;padding-bottom:15px">
+                        <a href="#" onclick=
+                        "javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;MB &quot;,&quot; Manitoba&quot;);">
+                        Registered Individuals</a>
+                    </div>Categories&nbsp;&nbsp;&nbsp;<a href="#" onclick=
+                    "javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img border="0"
+                    src="/images/b_help_swap.gif" style=
+                    "border-width: 0px;"></a>
+                    <ul>
+                        <li style="margin-top:15px">Exempt Market Dealer</li>
+                        <li style="margin-top:15px">Portfolio Manager</li>
+                    </ul><br>
+                    Terms &amp; Conditions<br>
+                    <br>
+                    There are no terms or conditions for this registrant.<br>
+                    <br>
+                </div>
+            </div>
+            <div class="province" style="display: block;">
+                <div class="imgProvinceExpand" onclick=
+                "javascript:toggleProvince(this);"></div>
+                <div class="province-name">
+                    New Brunswick
+                </div>
+                <div class="province-content" style="display:none">
+                    <div style="padding-top:7px;padding-bottom:15px">
+                        <a href="#" onclick=
+                        "javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;NB &quot;,&quot; New Brunswick&quot;);">
+                        Registered Individuals</a>
+                    </div>Categories&nbsp;&nbsp;&nbsp;<a href="#" onclick=
+                    "javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img border="0"
+                    src="/images/b_help_swap.gif" style=
+                    "border-width: 0px;"></a>
+                    <ul>
+                        <li style="margin-top:15px">Exempt Market Dealer</li>
+                        <li style="margin-top:15px">Portfolio Manager</li>
+                    </ul><br>
+                    Terms &amp; Conditions<br>
+                    <br>
+                    There are no terms or conditions for this registrant.<br>
+                    <br>
+                </div>
+            </div>
+            <div class="province" style="display: block;">
+                <div class="imgProvinceExpand" onclick=
+                "javascript:toggleProvince(this);"></div>
+                <div class="province-name">
+                    Newfoundland and Labrador
+                </div>
+                <div class="province-content" style="display:none">
+                    <div style="padding-top:7px;padding-bottom:15px">
+                        <a href="#" onclick=
+                        "javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;NF &quot;,&quot; Newfoundland and Labrador&quot;);">
+                        Registered Individuals</a>
+                    </div>Categories&nbsp;&nbsp;&nbsp;<a href="#" onclick=
+                    "javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img border="0"
+                    src="/images/b_help_swap.gif" style=
+                    "border-width: 0px;"></a>
+                    <ul>
+                        <li style="margin-top:15px">Investment Fund
+                        Manager</li>
+                        <li style="margin-top:15px">Exempt Market Dealer</li>
+                        <li style="margin-top:15px">Portfolio Manager</li>
+                    </ul><br>
+                    Terms &amp; Conditions<br>
+                    <br>
+                    <ul>
+                        <li style="margin-top:10px">This dealer operates
+                        outside the jurisdiction of its Principal Regulator.
+                        <a href="#" onclick=
+                        "javascript:return OpenTermsAndConditions('1832 ASSET MANAGEMENT L.P./GESTION D\'ACTIFS 1832 S.E.C.','Newfoundland and Labrador','Terms &amp; Conditions related to: Extra-Provincial Dealer','Scotia Asset Management L.P. is exempt from the requirement under subsection 101(5) and 101(6) of the Regulations that it must maintain books and records in Newfoundland and Labrador, provided that:&lt;BR/&gt;&lt;BR/&gt;1. Scotia Asset Management L.P. shall maintain the books and records which would otherwise be required to be maintained in Newfoundland and Labrador pursuant to subsection 101(6) of the Regulations at its head office in Ontario;&lt;BR/&gt;&lt;BR/&gt;2. Scotia Asset Management L.P. shall file with the Superintendent a written undertaking that:&lt;BR/&gt;&lt;BR/&gt;(i) the Superintendent or his staff or agent may inspect and examine, from time to time, the books and records maintained by Scotia Asset Management L.P. in respect of Newfoundland and Labrador clients at its business office in Ontario.&lt;BR/&gt;&lt;BR/&gt;(ii) Scotia Asset Management L.P. will reimburse the Superintendent for all reasonable costs and expenses incurred in conducting such inspection and examination which would not have been incurred by the Superintendent had the books and records been maintained in Newfoundland and Labrador; and&lt;BR/&gt;&lt;BR/&gt;(iii) any books and records shall, upon request by the Superintendent, be made available, for review at the address for service of Scotia Asset Management L.P. in Newfoundland and Labrador.','The%20CSA%20presents%20this%20information%20as%20a%20plain%20language%20summary%20of%20information%20found%20in%20publicly%20available%20documents.%20You%20should%20review%20the%20supporting%20documents%20for%20the%20full%20conditions%20and%20context%20of%20all%20decisions%2C%20orders%2C%20and%20sanctions.%20Please%20forward%20any%20questions%20or%20reports%20of%20errors%20and%20omissions%20to%20%3Ca%20href%3D%22mailto%3Acsa-acvm-secretariat%40acvm-csa.ca%22%3Ecsa-acvm-secretariat%40acvm-csa.ca%3C%2Fa%3E.');">
+                        (Click for Details)</a><br></li>
+                    </ul><br>
+                    <br>
+                </div>
+            </div>
+            <div class="province" style="display: block;">
+                <div class="imgProvinceExpand" onclick=
+                "javascript:toggleProvince(this);"></div>
+                <div class="province-name">
+                    Northwest Territories
+                </div>
+                <div class="province-content" style="display:none">
+                    <div style="padding-top:7px;padding-bottom:15px">
+                        <a href="#" onclick=
+                        "javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;NT &quot;,&quot; Northwest Territories&quot;);">
+                        Registered Individuals</a>
+                    </div>Categories&nbsp;&nbsp;&nbsp;<a href="#" onclick=
+                    "javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img border="0"
+                    src="/images/b_help_swap.gif" style=
+                    "border-width: 0px;"></a>
+                    <ul>
+                        <li style="margin-top:15px">Portfolio Manager</li>
+                        <li style="margin-top:15px">Investment Fund
+                        Manager</li>
+                    </ul><br>
+                    Terms &amp; Conditions<br>
+                    <br>
+                    There are no terms or conditions for this registrant.<br>
+                    <br>
+                </div>
+            </div>
+            <div class="province" style="display: block;">
+                <div class="imgProvinceExpand" onclick=
+                "javascript:toggleProvince(this);"></div>
+                <div class="province-name">
+                    Nova Scotia
+                </div>
+                <div class="province-content" style="display:none">
+                    <div style="padding-top:7px;padding-bottom:15px">
+                        <a href="#" onclick=
+                        "javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;NS &quot;,&quot; Nova Scotia&quot;);">
+                        Registered Individuals</a>
+                    </div>Categories&nbsp;&nbsp;&nbsp;<a href="#" onclick=
+                    "javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img border="0"
+                    src="/images/b_help_swap.gif" style=
+                    "border-width: 0px;"></a>
+                    <ul>
+                        <li style="margin-top:15px">Exempt Market Dealer</li>
+                        <li style="margin-top:15px">Portfolio Manager</li>
+                    </ul><br>
+                    Terms &amp; Conditions<br>
+                    <br>
+                    There are no terms or conditions for this registrant.<br>
+                    <br>
+                </div>
+            </div>
+            <div class="province" style="display: block;">
+                <div class="imgProvinceExpand" onclick=
+                "javascript:toggleProvince(this);"></div>
+                <div class="province-name">
+                    Ontario
+                </div>
+                <div class="province-content" style="display:none">
+                    <div style="padding-top:7px;padding-bottom:15px">
+                        <a href="#" onclick=
+                        "javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;ON &quot;,&quot; Ontario&quot;);">
+                        Registered Individuals</a>
+                    </div>Categories&nbsp;&nbsp;&nbsp;<a href="#" onclick=
+                    "javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img border="0"
+                    src="/images/b_help_swap.gif" style=
+                    "border-width: 0px;"></a>
+                    <ul>
+                        <li style="margin-top:15px">Investment Fund
+                        Manager</li>
+                        <li style="margin-top:15px">Exempt Market Dealer</li>
+                        <li style="margin-top:15px">Portfolio Manager</li>
+                        <li style="margin-top:15px">Commodity Trading
+                        Manager</li>
+                    </ul><br>
+                    Terms &amp; Conditions<br>
+                    <br>
+                    <ul>
+                        <li style="margin-top:10px">This firm is subject to
+                        custom terms and conditions that address a unique
+                        situation. Please see specific terms and conditions.
+                        <a href="#" onclick=
+                        "javascript:return OpenTermsAndConditions('1832 ASSET MANAGEMENT L.P./GESTION D\'ACTIFS 1832 S.E.C.','Ontario','Terms &amp; Conditions related to: Other','The Partnership will ensure that the general partner of the Partnership, identified in the limited partnership agreement governing the affairs of the Partnership, and any other general partner of the Partnership, will not carry on any activities other than as general partner of the Partnership and that any activities they do carry on will be for or on behalf of the Partnership','The%20CSA%20presents%20this%20information%20as%20a%20plain%20language%20summary%20of%20information%20found%20in%20publicly%20available%20documents.%20You%20should%20review%20the%20supporting%20documents%20for%20the%20full%20conditions%20and%20context%20of%20all%20decisions%2C%20orders%2C%20and%20sanctions.%20Please%20forward%20any%20questions%20or%20reports%20of%20errors%20and%20omissions%20to%20%3Ca%20href%3D%22mailto%3Acsa-acvm-secretariat%40acvm-csa.ca%22%3Ecsa-acvm-secretariat%40acvm-csa.ca%3C%2Fa%3E.');">
+                        (Click for Details)</a><br></li>
+                    </ul><br>
+                    <br>
+                </div>
+            </div>
+            <div class="province" style="display: block;">
+                <div class="imgProvinceExpand" onclick=
+                "javascript:toggleProvince(this);"></div>
+                <div class="province-name">
+                    Prince Edward Island
+                </div>
+                <div class="province-content" style="display:none">
+                    <div style="padding-top:7px;padding-bottom:15px">
+                        <a href="#" onclick=
+                        "javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;PE &quot;,&quot; Prince Edward Island&quot;);">
+                        Registered Individuals</a>
+                    </div>Categories&nbsp;&nbsp;&nbsp;<a href="#" onclick=
+                    "javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img border="0"
+                    src="/images/b_help_swap.gif" style=
+                    "border-width: 0px;"></a>
+                    <ul>
+                        <li style="margin-top:15px">Portfolio Manager</li>
+                    </ul><br>
+                    Terms &amp; Conditions<br>
+                    <br>
+                    There are no terms or conditions for this registrant.<br>
+                    <br>
+                </div>
+            </div>
+            <div class="province" style="display: block;">
+                <div class="imgProvinceExpand" onclick=
+                "javascript:toggleProvince(this);"></div>
+                <div class="province-name">
+                    Québec
+                </div>
+                <div class="province-content" style="display:none">
+                    <div style="padding-top:7px;padding-bottom:15px">
+                        <a href="#" onclick=
+                        "javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;QC &quot;,&quot; Québec&quot;);">
+                        Registered Individuals</a>
+                    </div>Categories&nbsp;&nbsp;&nbsp;<a href="#" onclick=
+                    "javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img border="0"
+                    src="/images/b_help_swap.gif" style=
+                    "border-width: 0px;"></a>
+                    <ul>
+                        <li style="margin-top:15px">Investment Fund
+                        Manager</li>
+                        <li style="margin-top:15px">Exempt Market Dealer</li>
+                        <li style="margin-top:15px">Portfolio Manager</li>
+                    </ul><br>
+                    Terms &amp; Conditions<br>
+                    <br>
+                    There are no terms or conditions for this registrant.<br>
+                    <br>
+                </div>
+            </div>
+            <div class="province" style="display: block;">
+                <div class="imgProvinceExpand" onclick=
+                "javascript:toggleProvince(this);"></div>
+                <div class="province-name">
+                    Saskatchewan
+                </div>
+                <div class="province-content" style="display:none">
+                    <div style="padding-top:7px;padding-bottom:15px">
+                        <a href="#" onclick=
+                        "javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;SK &quot;,&quot; Saskatchewan&quot;);">
+                        Registered Individuals</a>
+                    </div>Categories&nbsp;&nbsp;&nbsp;<a href="#" onclick=
+                    "javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img border="0"
+                    src="/images/b_help_swap.gif" style=
+                    "border-width: 0px;"></a>
+                    <ul>
+                        <li style="margin-top:15px">Portfolio Manager</li>
+                    </ul><br>
+                    Terms &amp; Conditions<br>
+                    <br>
+                    There are no terms or conditions for this registrant.<br>
+                    <br>
+                </div>
+            </div>
+            <div class="province" style="display: block;">
+                <div class="imgProvinceExpand" onclick=
+                "javascript:toggleProvince(this);"></div>
+                <div class="province-name">
+                    Yukon
+                </div>
+                <div class="province-content" style="display:none">
+                    <div style="padding-top:7px;padding-bottom:15px">
+                        <a href="#" onclick=
+                        "javascript:return OpenRegisteredPermittedIndividuals(&quot;20090629155541948596000000&quot;,&quot;1832 ASSET MANAGEMENT L.P./GESTION D'ACTIFS 1832 S.E.C.&quot;,&quot;YT &quot;,&quot; Yukon&quot;);">
+                        Registered Individuals</a>
+                    </div>Categories&nbsp;&nbsp;&nbsp;<a href="#" onclick=
+                    "javascript:window.open('/docs/registration_categories_en.pdf','popup','height=420,width=570,location=no, resize=0,scrollbars=yes,menubars=no,toolbars=no,resizable=yes'); return false;"><img border="0"
+                    src="/images/b_help_swap.gif" style=
+                    "border-width: 0px;"></a>
+                    <ul>
+                        <li style="margin-top:15px">Portfolio Manager</li>
+                    </ul><br>
+                    Terms &amp; Conditions<br>
+                    <br>
+                    There are no terms or conditions for this registrant.<br>
+                    <br>
+                </div>
+            </div>
+        </div><br>
+    </div>
+</body>
+</html>

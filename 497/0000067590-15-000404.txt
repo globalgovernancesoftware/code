@@ -1,0 +1,1239 @@
+<SEC-DOCUMENT>0000067590-15-000404.txt : 20150424
+<SEC-HEADER>0000067590-15-000404.hdr.sgml : 20150424
+<ACCEPTANCE-DATETIME>20150424171036
+ACCESSION NUMBER:		0000067590-15-000404
+CONFORMED SUBMISSION TYPE:	497K
+PUBLIC DOCUMENT COUNT:		4
+FILED AS OF DATE:		20150424
+DATE AS OF CHANGE:		20150424
+EFFECTIVENESS DATE:		20150424
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED SERIES TRUST
+		CENTRAL INDEX KEY:			0000814679
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		497K
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	033-24962
+		FILM NUMBER:		15792541
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 MULBERRY STREET
+		STREET 2:		GATEWAY CENTER THREE, 4TH FLOOR
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102
+		BUSINESS PHONE:		9738026469
+
+	MAIL ADDRESS:	
+		STREET 1:		100 MULBERRY STREET
+		STREET 2:		GATEWAY CENTER THREE, 4TH FLOOR
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICAN SKANDIA TRUST
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HENDERSON INTERNATIONAL GROWTH FUND
+		DATE OF NAME CHANGE:	19920506
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HENDERSON GLOBAL ASSET TRUST
+		DATE OF NAME CHANGE:	19900302
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0000814679
+<SERIES-ID>S000031887
+<SERIES-NAME>AST BlackRock Global Strategies Portfolio
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000099307
+<CLASS-CONTRACT-NAME>AST BlackRock Global Strategies Portfolio
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>497K
+<SEQUENCE>1
+<FILENAME>ast_blackrockglobal497k.htm
+<TEXT>
+<HTML>
+<HEAD></HEAD>
+<BODY bgcolor="white">
+<DIV
+style="width:100%;"><DIV
+style="width:100%;">
+<DIV
+style="position:relative;text-align:Left;width:540pt;">
+<IMG src="img9ac8b3f21.gif">
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:Normal;left:10pt;line-height:11pt;position:absolute;text-decoration:none;text-transform:none;top:9pt;">ADVANCED SERIES
+TRUST</DIV><DIV
+style="color:#000000;font-family:Arial;font-size:15pt;font-style:Normal;font-weight:bold;left:10pt;line-height:16pt;position:absolute;text-decoration:none;text-transform:uppercase;top:27pt;">AST Blackrock
+Global Strategies Portfolio</DIV><DIV
+style="color:#FFFFFF;font-family:Arial Narrow;font-size:10pt;font-style:Normal;font-weight:bold;left:10pt;line-height:11pt;position:absolute;text-decoration:none;text-transform:uppercase;top:69pt;">SUMMARY
+PROSPECTUS &#8226; April 27, 2015</DIV></DIV>
+
+</DIV>
+<DIV
+style="margin-top:8pt;width:91.35%;">
+<DIV
+style="color:#000000;font-family:Arial Narrow;font-size:10pt;font-style:italic;font-weight:Normal;line-height:13pt;margin-top:11pt;text-align:left;text-decoration:none;text-transform:none;">Before you invest, you may
+want to review the Portfolio&#8217;s Prospectus, which contains more information about the Portfolio and its risks. You can &#64257;nd the Portfolio's Prospectus, Statement of Additional Information (SAI), Annual
+Report and other information about the Portfolio online at www.prudential.com/variableinsuranceportfolios. You can also get this information at no cost by calling 1-800-346-3778 or by sending an e-mail to:
+service@prudential.com. The Portfolio&#8217;s Prospectus and SAI, both dated April 27, 2015, as supplemented and amended from time to time, and the Portfolio&#8217;s most recent shareholder report, dated December 31,
+2014 are all hereby incorporated by reference into (legally made a part of) this Summary Prospectus.</DIV>
+<HR
+noshade="noshade" style="background-color:#808080;border-bottom:0pt;border-left:0pt;border-right:0pt;border-top:1pt solid #808080;height:1pt;width:100%;" align="Left">
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:12pt;text-align:left;text-decoration:none;text-transform:uppercase;">INVESTMENT OBJECTIVE</DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:Normal;line-height:13pt;text-align:left;text-decoration:none;text-transform:none;">The investment objective of the Portfolio is to
+seek a high total return consistent with a moderate level of risk.</DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:6pt;text-align:left;text-decoration:none;text-transform:uppercase;">PORTFOLIO FEES AND EXPENSES</DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:Normal;line-height:13pt;text-align:left;text-decoration:none;text-transform:none;">The table below shows the fees and expenses that
+you may pay if you invest in shares of the Portfolio. The table does not include Contract charges. Because Contract charges are not included, the total fees and expenses that you will incur will be higher than the
+fees and expenses set forth in the table. See your Contract prospectus for more information about Contract charges.</DIV>
+<DIV
+style="text-align:left;">
+<TABLE
+style="border-collapse:collapse;border-left:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;border-top:0.5pt solid #E6E6E6;empty-cells:show;margin-top:5pt;width:99.05%;" cellpadding="0" cellspacing="0">
+<TR><TD
+style="border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:4pt;padding-right:6pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:93.91%;">Annual Portfolio Operating Expenses (expenses that you pay each year as a percentage of the value of your investment)
+</TD><TD
+style="padding-bottom:3.5pt;padding-right:4pt;padding-top:3pt;text-align:right;vertical-align:bottom;width:5.89%;">&#160;
+</TD></TR>
+<TR><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:2pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:93.91%;">Management Fees
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;padding-top:2pt;
+text-align:right;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:5.89%;">0.97%
+</TD></TR>
+<TR
+bgcolor="#DEE9F6"><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:93.91%;">Distribution and/or Service Fees (12b-1 Fees)
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;padding-top:3pt;
+text-align:right;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:5.89%;">0.10%
+</TD></TR>
+<TR><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:93.91%;">Other Expenses
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;
+padding-top:3.5pt;text-align:right;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:5.89%;">0.04%
+</TD></TR>
+<TR
+bgcolor="#DEE9F6"><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:93.91%;">Acquired Fund Fees &amp; Expenses
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;padding-top:3pt;
+text-align:right;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:5.89%;">0.02%
+</TD></TR>
+<TR><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:93.91%;">Total Annual Portfolio Operating Expenses
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;
+padding-top:3.5pt;text-align:right;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:5.89%;">1.13%
+</TD></TR></TABLE>
+</DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">Example.<FONT
+style="font-weight:Normal;"> The following example is intended to help you compare the cost of investing in the Portfolio with the cost of investing in other mutual funds. The table does not include Contract charges.
+Because Contract charges are not included, the total fees and expenses that you will incur will be higher than the fees and expenses set forth in the example. See your Contract prospectus for more information about
+Contract charges.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:Normal;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">The example assumes that you invest
+$10,000 in the Portfolio for the time periods indicated and then redeem all of your shares at the end of those periods. The example also assumes that your investment has a 5% return each year and that the
+Portfolio&#8217;s operating expenses remain the same. Although your actual costs may be higher or lower, based on these assumptions, your costs would be:</DIV>
+<DIV
+style="text-align:left;">
+<TABLE
+style="border-collapse:collapse;border-left:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;border-top:0.5pt solid #E6E6E6;empty-cells:show;margin-top:5pt;width:99.62%;" cellpadding="0" cellspacing="0">
+<TR><TD
+style="border-right:0.60pt solid #E6E6E6;padding-bottom:3.5pt;padding-right:6pt;padding-top:3pt;text-align:left;vertical-align:bottom;width:74.02%;">&#160;
+</TD><TD
+style="border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:6pt;padding-right:6pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:5.83%;">1 Year
+</TD><TD
+style="border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:6pt;padding-right:6pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:6.43%;">3 Years
+</TD><TD
+style="border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:6pt;padding-right:6pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:6.43%;">5 Years
+</TD><TD
+style="color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:6pt;padding-right:4pt;padding-top:3pt;text-align:left;
+text-decoration:none;text-transform:none;vertical-align:bottom;width:7.11%;">10 Years
+</TD></TR>
+<TR><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.60pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:74.02%;">AST BlackRock Global Strategies
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:5.83%;">$115
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:6.43%;">$359
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:6.43%;">$622
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;
+padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:7.11%;">$1,375
+</TD></TR></TABLE>
+</DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">Portfolio Turnover.<FONT
+style="font-weight:Normal;"> The Portfolio pays transaction costs, such as commissions, when it buys and sells securities (or &#8220;turns over&#8221; its portfolio). A higher portfolio turnover rate may indicate
+higher transaction costs. These costs, which are not reflected in annual portfolio operating expenses or in the example, affect the Portfolio's performance. During the most recent fiscal year ended December 31, the
+Portfolio's turnover rate was 266% of the average value of its portfolio.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:6pt;text-align:left;text-decoration:none;text-transform:uppercase;">INVESTMENTS, RISKS AND
+PERFORMANCE</DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;text-align:left;text-decoration:none;text-transform:none;">Principal Investment Strategies.<FONT
+style="font-weight:Normal;"> The Portfolio is a global, multi asset-class fund that invests directly in, among other things, equity and equity-related securities, investment grade debt securities (including, without
+limitation, US Treasuries and US government securities), junk bonds, real estate investment trusts (REITs), exchange traded funds (ETFs), and derivative instruments, including commodity-linked derivative
+instruments.&#160; In seeking to achieve the Portfolio&#8217;s investment objective, the Portfolio&#8217;s Subadviser may cause the Portfolio&#8217;s assets to be allocated across 14 separate investment strategies.
+The Portfolio has several strategies that invest primarily in equity securities, several strategies that invest primarily in fixed income securities, and a global tactical asset allocation strategy (the GTAA strategy)
+that, under normal circumstances, provides exposure to the equity and fixed income asset classes along with real estate-related and commodity-related investments.&#160; The GTAA strategy is used: (i)&#160;as a
+completion strategy to access and adjust exposures to various asset classes and underlying strategy allocations and (ii)&#160;an overlay strategy to enhance the total return and manage portfolio risk at the aggregate
+level. Derivatives, ETFs, and cash securities may be used within the GTAA strategy.&#160; The Portfolio allocates its assets among various regions and countries, including the US (but in no less than three countries).
+The Portfolio&#8217;s minimum, neutral, and maximum exposures to the relevant asset classes are set forth below.</FONT></DIV>
+<DIV
+style="text-align:left;">
+<TABLE
+style="border-collapse:collapse;border-left:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;border-top:0.5pt solid #E6E6E6;empty-cells:show;margin-top:5pt;width:99.62%;" cellpadding="0" cellspacing="0">
+<TR><TD
+style="border-right:0.60pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:4pt;padding-right:6pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:62.28%;">Asset Class
+</TD><TD
+style="border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:6pt;padding-right:6pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:12.74%;">Minimum Exposure
+</TD><TD
+style="border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:6pt;padding-right:6pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:11.80%;">Neutral Exposure
+</TD><TD
+style="color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:6pt;padding-right:4pt;padding-top:3pt;text-align:left;
+text-decoration:none;text-transform:none;vertical-align:bottom;width:12.99%;">Maximum Exposure
+</TD></TR>
+<TR><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3pt;padding-left:4pt;padding-right:4pt;padding-top:3.5pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:99.81%;" colspan="4">Equities
+</TD></TR>
+<TR
+bgcolor="#DEE9F6"><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.60pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:62.28%;">US Mid-Cap &amp; Large-Cap Equity
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.74%;">5%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:11.80%;">20%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.99%;">35%
+</TD></TR></TABLE>
+</DIV>
+</DIV>
+<DIV
+style="margin-top:27pt;width:91.35%;">
+<DIV
+style="color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;text-align:left;text-decoration:none;text-transform:none;">534SUMPROS</DIV>
+</DIV>
+</DIV><DIV
+style="clear:both;font-size:12pt;height:0pt;"></DIV>
+<HR>
+<!--PAGE BREAK-->
+<DIV
+style="width:100%;"><DIV
+style="width:100%;">
+<DIV
+style="text-align:left;">
+<TABLE
+style="border-collapse:collapse;border-left:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;border-top:0.5pt solid #E6E6E6;empty-cells:show;margin-top:0pt;width:99.62%;" cellpadding="0" cellspacing="0">
+<TR><TD
+style="border-right:0.60pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:4pt;padding-right:6pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:62.28%;">Asset Class
+</TD><TD
+style="border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:6pt;padding-right:6pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:12.74%;">Minimum Exposure
+</TD><TD
+style="border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:6pt;padding-right:6pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:11.80%;">Neutral Exposure
+</TD><TD
+style="color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:6pt;padding-right:4pt;padding-top:3pt;text-align:left;
+text-decoration:none;text-transform:none;vertical-align:bottom;width:12.99%;">Maximum Exposure
+</TD></TR>
+<TR><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.60pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:2pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:62.28%;">Non-US Equity
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:2pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.74%;">5%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:2pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:11.80%;">20%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;padding-top:2pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.99%;">30%
+</TD></TR>
+<TR
+bgcolor="#DEE9F6"><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.60pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:62.28%;">US Small-Cap Equity
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.74%;">0%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:11.80%;">0%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.99%;">10%
+</TD></TR>
+<TR><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.60pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:62.28%;">Total Equities
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.74%;">30%*
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:11.80%;">40%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;
+padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.99%;">50%**
+</TD></TR>
+<TR
+bgcolor="#DEE9F6"><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.60pt solid #E6E6E6;padding-bottom:3pt;padding-right:6pt;padding-top:4.75pt;text-align:left;vertical-align:bottom;width:62.28%;">&#160;
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;padding-bottom:3pt;padding-right:6pt;padding-top:4.75pt;text-align:left;vertical-align:bottom;width:12.74%;">&#160;
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;padding-bottom:3pt;padding-right:6pt;padding-top:4.75pt;text-align:left;vertical-align:bottom;width:11.80%;">&#160;
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;padding-bottom:3pt;padding-right:4pt;padding-top:4.75pt;text-align:left;vertical-align:bottom;width:12.99%;">&#160;
+</TD></TR>
+<TR><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3pt;padding-left:4pt;padding-right:4pt;padding-top:4.75pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:99.81%;" colspan="4">Fixed Income
+</TD></TR>
+<TR
+bgcolor="#DEE9F6"><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.60pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:62.28%;">Investment Grade Bonds
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.74%;">20%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:11.80%;">30%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.99%;">40%
+</TD></TR>
+<TR><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.60pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:62.28%;">&#8220;Junk&#8221; Bonds<SUP
+style="font-size:85%;vertical-align:text-top;">+</SUP>
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.74%;">5%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:11.80%;">15%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;
+padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.99%;">25%
+</TD></TR>
+<TR
+bgcolor="#DEE9F6"><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.60pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:62.28%;">Total Fixed Income
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.74%;">25%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:11.80%;">45%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.99%;">55%***
+</TD></TR>
+<TR><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.60pt solid #E6E6E6;padding-bottom:3pt;padding-right:6pt;padding-top:4.75pt;text-align:left;vertical-align:bottom;width:62.28%;">&#160;
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;padding-bottom:3pt;padding-right:6pt;padding-top:4.75pt;text-align:left;vertical-align:bottom;width:12.74%;">&#160;
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;padding-bottom:3pt;padding-right:6pt;padding-top:4.75pt;text-align:left;vertical-align:bottom;width:11.80%;">&#160;
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;padding-bottom:3pt;padding-right:4pt;padding-top:4.75pt;text-align:left;vertical-align:bottom;width:12.99%;">&#160;
+</TD></TR>
+<TR
+bgcolor="#DEE9F6"><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.60pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:62.28%;">REITs
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.74%;">0%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:11.80%;">10%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.99%;">20%
+</TD></TR>
+<TR><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.60pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:62.28%;">Commodities
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.74%;">0%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:11.80%;">5%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;
+padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.99%;">15%
+</TD></TR>
+<TR
+bgcolor="#DEE9F6"><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.60pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:62.28%;">Total REITs + Commodities
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.74%;">0%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:11.80%;">15%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.99%;">30%****
+</TD></TR></TABLE>
+</DIV>
+<DIV
+style="color:#000000;font-family:Arial Narrow;font-size:7pt;font-style:Normal;font-weight:Normal;line-height:10pt;margin-top:8pt;text-align:left;text-decoration:none;text-transform:none;"><SUP
+style="font-size:85%;vertical-align:text-top;">+</SUP><FONT
+style="font-size:8pt;line-height:11pt;"> Fixed income securities rated below investment grade and unrated securities of similar credit quality are commonly referred to as &#8220;junk&#8221; bonds. Junk bonds are
+considered predominantly speculative with respect to the issuer&#8217;s continuing ability to make principal and interest payments.<BR>
+*&#160;Notwithstanding the individual minimum exposures for the US Mid-Cap &amp; Large-Cap Equity (i.e., 5%), Non-US Equity (i.e., 5%), and US Small-Cap Equity (i.e., 0%) asset classes, the minimum combined exposure
+to equity investments is 30% of the Portfolio&#8217;s net assets.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;text-align:left;text-decoration:none;text-transform:none;">**&#160;Notwithstanding the individual
+maximum exposures for the US Mid-Cap &amp; Large-Cap Equity (i.e., 35%), Non-US Equity (i.e., 30%), and US Small-Cap Equity (i.e., 10%) asset classes, the maximum combined exposure to equity investments is 50% of the
+Portfolio&#8217;s net assets.</DIV>
+<DIV
+style="color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;text-align:left;text-decoration:none;text-transform:none;">***&#160;Notwithstanding the individual
+maximum exposures for the Investment Grade Bond (i.e., 40%) and Junk Bond (i.e., 25%) asset classes, the maximum combined exposure to fixed income investments is 55% of the Portfolio&#8217;s net assets.</DIV>
+<DIV
+style="color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;text-align:left;text-decoration:none;text-transform:none;">****&#160;Notwithstanding the individual
+maximum exposures for the REIT (i.e., 20%) and Commodities (i.e., 15%) asset classes, the maximum combined exposure to the alternative investments is 30% of the Portfolio&#8217;s net assets</DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:Normal;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">The Portfolio&#8217;s expected
+minimum, neutral, and maximum exposures to the GTAA strategy is also set forth below.</DIV>
+<DIV
+style="text-align:left;">
+<TABLE
+style="border-collapse:collapse;border-left:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;border-top:0.5pt solid #E6E6E6;empty-cells:show;margin-top:5pt;width:99.62%;" cellpadding="0" cellspacing="0">
+<TR><TD
+style="border-right:0.60pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:4pt;padding-right:6pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:62.28%;">Investment Strategy
+</TD><TD
+style="border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:6pt;padding-right:6pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:12.74%;">Minimum Exposure
+</TD><TD
+style="border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:6pt;padding-right:6pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:11.80%;">Neutral Exposure
+</TD><TD
+style="color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:6pt;padding-right:4pt;padding-top:3pt;text-align:left;
+text-decoration:none;text-transform:none;vertical-align:bottom;width:12.99%;">Maximum Exposure
+</TD></TR>
+<TR><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.60pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:2pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:62.28%;">GTAA*
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:2pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.74%;">15%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:2pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:11.80%;">30%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;padding-top:2pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:12.99%;">40%
+</TD></TR></TABLE>
+</DIV>
+<DIV
+style="color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:italic;font-weight:Normal;line-height:11pt;margin-top:8pt;text-align:left;text-decoration:none;text-transform:none;">*As set forth above, the GTAA
+investment strategy is used to provide exposure to the equity and fixed income asset classes as well as providing exposure to REITs and Commodities.</DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">Principal Risks of Investing in the
+Portfolio.<FONT
+style="font-weight:Normal;"> The risks summarized below are the principal risks of investing in the Portfolio. All investments have risks to some degree and it is possible that you could lose money by investing in the
+Portfolio. An investment in the Portfolio is not a deposit with a bank and is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency. While the Portfolio makes every
+effort to achieve its objectives, the Portfolio cannot guarantee success.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">Asset-Backed and/or Mortgage-Backed
+Securities Risk<FONT
+style="font-weight:Normal;">. Asset-backed and mortgage-backed securities are fixed income securities that represent an interest in an underlying pool of assets, such as credit card receivables or, in the case of
+mortgage-backed securities, mortgage loans. Like fixed income securities, asset-backed and mortgage-backed securities are subject to interest rate risk, liquidity risk, and credit risk, which may be heightened in
+connection with investments in loans to &#8220;subprime&#8221; borrowers. Certain asset-backed and mortgage-backed securities are subject to the risk that those obligations will be repaid sooner than expected or later
+than expected, either of which may result in lower than expected returns. Mortgage-backed securities, because they are backed by mortgage loans, are also subject to risks related to real estate, and securities backed
+by private-issued mortgages may experience higher rates of default on the underlying mortgages than securities backed by government-issued mortgages.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">Asset Transfer Program Risk<FONT
+style="font-weight:Normal;">. Pre-determined, non-discretionary mathematical formulas used by the Participating Insurance Companies to manage the guarantees offered in connection with certain benefit programs under
+the Contracts may result in systematic transfers of assets among the investment options under the Contracts, including the Portfolio. These formulas may result in large-scale asset flows into and out of the Portfolio,
+which, in certain instances, could adversely affect the Portfolio, including its risk profile, expenses and performance. For example, the asset flows may adversely affect performance by requiring the Portfolio to
+purchase or sell securities at inopportune times, by otherwise limiting the subadviser&#8217;s ability to fully implement the Portfolio&#8217;s investment strategies, or by requiring the Portfolio to hold a larger
+portion of its assets in highly liquid securities than it otherwise would hold. The asset flows may also result in relatively low asset levels and relatively high operating expense ratios for the Portfolio. The
+efficient operation of the asset flows depends on active and liquid markets, and if market liquidity is strained the assets flows may not operate as intended which in turn could adversely affect performance.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">Commodity Risk<FONT
+style="font-weight:Normal;">. The value of a commodity-linked investment is affected by, among other things, overall market movements and changes in interest and exchange rates and may be more volatile than
+traditional equity and debt securities.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">Derivatives Risk<FONT
+style="font-weight:Normal;">. A derivative is a financial contract, the value of which depends upon, or is derived from, the value of an underlying asset, reference rate, or index. The use of derivatives involves a
+variety of risks, including the risk that: the party on the other side of a derivative transaction will be unable to honor its financial obligation; leverage created by investing in derivatives may result in losses to
+the Portfolio; derivatives may be difficult or impossible for the Portfolio to buy or sell at an opportune time or price, and may be difficult to terminate or otherwise offset; derivatives used for hedging may reduce
+or magnify losses but also may reduce or eliminate gains; and the price of commodity-linked derivatives may be more volatile than the prices of traditional equity and debt securities.</FONT></DIV>
+</DIV>
+</DIV><DIV
+style="clear:both;font-size:12pt;height:0pt;"></DIV>
+<HR>
+<!--PAGE BREAK-->
+<DIV
+style="width:100%;"><DIV
+style="width:100%;">
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">Equity Securities Risk<FONT
+style="font-weight:Normal;">. The value of a particular stock or equity-related security held by the Portfolio could fluctuate, perhaps greatly, in response to a number of factors, such as changes in the
+issuer&#8217;s financial condition or the value of the equity markets or a sector of those markets. Such events may result in losses to the Portfolio.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">Exchange-Traded Funds (ETF)
+Risk<FONT
+style="font-weight:Normal;">. An investment in an ETF generally presents the same primary risks as an investment in a mutual fund that has the same investment objectives, strategies and policies. In addition, the
+market price of an ETF&#8217;s shares may trade above or below their net asset value and there may not be an active trading market for an ETF&#8217;s shares. The Portfolio could lose money investing in an ETF if the
+prices of the securities owned by the ETF go down.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">Expense Risk<FONT
+style="font-weight:Normal;">. The actual cost of investing in the Portfolio may be higher than the expenses shown in the &#8220;Annual Portfolio Operating Expenses&#8221; table above for a variety of reasons,
+including, for example, if the Portfolio&#8217;s average net assets decrease.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">Fixed Income Securities Risk<FONT
+style="font-weight:Normal;">. Investment in fixed income securities involves a variety of risks, including that: an issuer or guarantor of a security will be unable to pay obligations when due; the Portfolio may be
+unable to sell its securities holdings at the price it values the security or at any price; the income generated by and the market price of a fixed income security may decline due to a decrease in interest rates; and
+the price of a fixed income security may decline due to an increase in interest rates.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">Foreign Investment Risk<FONT
+style="font-weight:Normal;">. Investments in foreign securities generally involve more risk than investing in securities of US issuers, including: changes in currency exchange rates may affect the value of foreign
+securities held by the Portfolio; foreign markets generally are more volatile than, and generally are not subject to regulatory requirements comparable to, US markets; foreign financial reporting standards usually
+differ from those in the US; foreign exchanges are often less liquid than US markets; political developments may adversely affect the value of foreign securities; and foreign holdings may be subject to special
+taxation and limitations on repatriating investment proceeds.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">High-Yield Risk<FONT
+style="font-weight:Normal;">. Investments in fixed income securities rated below investment grade and unrated securities of similar credit quality (i.e., high yield securities or junk bonds) may be more sensitive to
+interest rate, credit and liquidity risks than investments in investment grade securities, and have predominantly speculative characteristics.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">Liquidity and Valuation Risk<FONT
+style="font-weight:Normal;">. The Portfolio may hold one or more securities for which there are no or few buyers and sellers or the securities are subject to limitations on transfer. The Portfolio may be unable to
+sell those portfolio holdings at the desired time or price, and may have difficulty determining the value of such securities for the purpose of determining the Portfolio&#8217;s net asset value. In such cases,
+investments owned by the Portfolio may be valued at fair value pursuant to guidelines established by the Portfolio&#8217;s Board of Trustees. No assurance can be given that the fair value prices accurately reflect the
+value of security.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">Market and Management Risk<FONT
+style="font-weight:Normal;">. Markets in which the Portfolio invests may experience volatility and go down in value, and possibly sharply and unpredictably. The investment techniques, risk analysis and investment
+strategies used by a subadviser in making investment decisions for the Portfolio may not produce the intended or desired results.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">Real Estate Risk<FONT
+style="font-weight:Normal;">. Investments in real estate investment trusts (REITs) and real estate-linked derivative instruments are subject to risks similar to those associated with direct ownership of real estate.
+Poor performance by the manager of the REIT and adverse changes to or inability to qualify with favorable tax laws will adversely affect the Portfolio. In addition, some REITs have limited diversification because they
+invest in a limited number of properties, a narrow geographic area, or a single type of property.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">Recent Events Risk<FONT
+style="font-weight:Normal;">. Events in the financial markets have caused, and may continue to cause, increased volatility and a significant decline in the value and liquidity of many securities. As a result,
+identifying investment risks and opportunities may be especially difficult. There is no assurance that steps taken by governments, and their agencies and instrumentalities, to support financial markets will continue,
+and the impact of regulatory changes on the markets may not be known for some time.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">Regulatory Risk<FONT
+style="font-weight:Normal;">. The Portfolio is subject to a variety of laws and regulations which govern its operations. Similarly, the businesses and other issuers of the securities and other instruments in which the
+Portfolio invests are also subject to considerable regulation. A change in laws and regulations may materially impact the Portfolio, a security, business, sector or market.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">Past Performance.<FONT
+style="font-weight:Normal;"> The bar chart and table provides some indication of the risks of investing in the Portfolio by showing changes in the Portfolio's performance from year to year and by showing how the
+Portfolio's average annual returns for 1 year and since inception of the Portfolio compare with those of a broad measure of market performance. Past performance does not mean that the Portfolio will achieve similar
+results in the future.</FONT></DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:Normal;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">The annual returns and average
+annual returns shown in the chart and table are after deduction of expenses and do not include Contract charges. If Contract charges were included, the returns shown would have been lower than those shown. Consult
+your Contract prospectus for information about Contract charges.</DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:Normal;line-height:13pt;margin-top:3pt;text-align:left;text-decoration:none;text-transform:none;">The table also demonstrates how the
+Portfolio's average annual returns compare to the returns of a custom blended stock index which includes companies with similar investment objectives. The Portfolio's custom blended stock index consists of the MSCI
+All Country World Index (40%), Barclays Aggregate Bond Index (30%), Barclays US High Yield (2% Issuer Capped) Index (15%), Wilshire US REIT Index (10%) and the Bloomberg Commodity Index (5%). Prudential Investments
+LLC and AST Investment Services, Inc. determined the weight of each index comprising the blended index.</DIV>
+</DIV>
+</DIV><DIV
+style="clear:both;font-size:12pt;height:0pt;"></DIV>
+<HR>
+<!--PAGE BREAK-->
+<DIV
+style="width:100%;"><DIV
+style="float:left;overflow:hidden;position:relative;width:50%;">
+<DIV
+style="text-align:center;">
+<TABLE
+style="border-collapse:collapse;empty-cells:show;margin-left:auto;margin-right:auto;margin-top:0pt;width:96.77%;" cellpadding="0" cellspacing="0">
+<TR><TD
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:Normal;line-height:13pt;padding-left:0pt;padding-top:4pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:top;
+width:96.47%;"><!-- 60 graphic image start -->
+<IMG src="s000031887.jpg" style="display:block;text-align:Left;">
+<!-- 61 graphic image end -->
+<!-- 40 graphic description start:
+<TABLE Style="plotpoint">
+	<TR>
+		<TD>Annual Total Returns</TD>
+		<TD>Class A Shares</TD>
+	</TR>
+	<TR>
+		<TD>2012</TD>
+		<TD>11.9</TD>
+	</TR>
+	<TR>
+		<TD>2013</TD>
+		<TD>10.85</TD>
+	</TR>
+	<TR>
+		<TD>2014</TD>
+		<TD>4.9</TD>
+	</TR>
+</TABLE>
+41 graphic description end -->
+</TD></TR></TABLE>
+</DIV>
+</DIV>
+<DIV
+style="float:right;overflow:hidden;position:relative;width:49%;">
+<DIV
+style="color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:Normal;line-height:13pt;padding-top:34pt;text-align:left;text-decoration:none;text-transform:none;">&nbsp;&nbsp;<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;</DIV>
+<DIV
+style="text-align:center;">
+<TABLE
+style="border-bottom:0.60pt solid #000000;border-collapse:collapse;border-left:0.60pt solid #000000;border-right:0.60pt solid #000000;border-top:0.60pt solid #000000;empty-cells:show;margin-left:auto;margin-right:auto;margin-top:5pt;width:88.70%;" cellpadding="0" cellspacing="0">
+<TR
+style="height:25.60pt;"><TD
+style="border-bottom:0.5pt solid #000000;border-right:0.5pt solid #000000;color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;padding-bottom:9pt;padding-left:6pt;
+padding-right:6pt;padding-top:9pt;text-align:center;text-decoration:none;text-transform:none;vertical-align:top;width:38.47%;" colspan="2">Best Quarter:
+</TD><TD
+style="border-bottom:0.5pt solid #000000;color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;padding-bottom:9pt;padding-left:6pt;padding-right:6pt;padding-top:9pt;
+text-align:center;text-decoration:none;text-transform:none;vertical-align:top;width:41.05%;" colspan="2">Worst Quarter:
+</TD></TR>
+<TR><TD
+style="border-bottom:0.5pt solid #000000;border-right:0.5pt solid #000000;color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:Normal;line-height:13pt;padding-bottom:9pt;padding-left:6pt;
+padding-right:6pt;padding-top:7.5pt;text-align:center;text-decoration:none;text-transform:none;vertical-align:top;white-space:nowrap;width:17.94%;">7.66%
+</TD><TD
+style="border-bottom:0.5pt solid #000000;border-right:0.5pt solid #000000;color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:Normal;line-height:13pt;padding-bottom:9pt;padding-left:6pt;
+padding-right:6pt;padding-top:7.5pt;text-align:center;text-decoration:none;text-transform:none;vertical-align:top;width:20.52%;">1st Quarter of 2012
+</TD><TD
+style="border-bottom:0.5pt solid #000000;border-right:0.5pt solid #000000;color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:Normal;line-height:13pt;padding-bottom:9pt;padding-left:6pt;
+padding-right:6pt;padding-top:7.5pt;text-align:center;text-decoration:none;text-transform:none;vertical-align:top;white-space:nowrap;width:20.52%;">-2.01%
+</TD><TD
+style="border-bottom:0.5pt solid #000000;color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:Normal;line-height:13pt;padding-bottom:9pt;padding-left:6pt;padding-right:6pt;padding-top:7.5pt;
+text-align:center;text-decoration:none;text-transform:none;vertical-align:top;width:20.52%;">2nd<FONT
+style="font-size:6.5pt;line-height:9.5pt;"> </FONT>Quarter of 2012
+</TD></TR></TABLE>
+</DIV>
+<DIV
+style="color:#000000;font-family:Arial;font-size:6pt;font-style:Normal;font-weight:Normal;line-height:9pt;text-align:center;text-decoration:none;text-transform:none;">&nbsp;&nbsp;<BR>
+</DIV>
+</DIV>
+<DIV
+style="clear:both;font-size:12pt;">
+<DIV
+style="clear:both;width:100%;">
+<DIV
+style="text-align:left;">
+<TABLE
+style="border-collapse:collapse;border-left:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;border-top:0.5pt solid #E6E6E6;empty-cells:show;margin-top:0pt;width:99.62%;" cellpadding="0" cellspacing="0">
+<TR><TD
+style="border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:4pt;padding-right:6pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:73.42%;">Average Annual Total Returns (For the periods ended December 31, 2014)
+</TD><TD
+style="border-right:0.5pt solid #E6E6E6;padding-bottom:3.5pt;padding-right:6pt;padding-top:3pt;text-align:right;vertical-align:bottom;width:10.33%;">&#160;
+</TD><TD
+style="padding-bottom:3.5pt;padding-right:4pt;padding-top:3pt;text-align:right;vertical-align:bottom;width:16.06%;">&#160;
+</TD></TR>
+<TR><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;padding-bottom:3pt;padding-right:6pt;padding-top:2pt;text-align:left;vertical-align:bottom;width:73.42%;">&#160;
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:2pt;text-align:right;text-decoration:none;text-transform:none;vertical-align:bottom;width:10.33%;">1 Year
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;padding-top:2pt;
+text-align:right;text-decoration:none;text-transform:none;vertical-align:bottom;width:16.06%;">Since Inception<BR>
+(4/29/11)
+</TD></TR>
+<TR><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:4.75pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:73.42%;">Portfolio
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:4.75pt;text-align:right;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:10.33%;">4.90%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;
+padding-top:4.75pt;text-align:right;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:16.06%;">5.23%
+</TD></TR></TABLE>
+</DIV>
+<DIV
+style="clear:both;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;text-align:right;text-decoration:none;text-transform:none;">&nbsp;&nbsp;&nbsp;&nbsp;</DIV>
+<DIV
+style="text-align:left;">
+<TABLE
+style="border-collapse:collapse;border-left:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;border-top:0.5pt solid #E6E6E6;empty-cells:show;margin-top:5pt;width:99.62%;" cellpadding="0" cellspacing="0">
+<TR><TD
+style="border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:4pt;padding-right:6pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:73.42%;">Index
+</TD><TD
+style="border-right:0.5pt solid #E6E6E6;padding-bottom:3.5pt;padding-right:6pt;padding-top:3pt;text-align:right;vertical-align:bottom;width:10.33%;">&#160;
+</TD><TD
+style="padding-bottom:3.5pt;padding-right:4pt;padding-top:3pt;text-align:right;vertical-align:bottom;width:16.06%;">&#160;
+</TD></TR>
+<TR><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:3.5pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:73.42%;">Standard &amp; Poor&#8217;s 500 Index (reflects no deduction for fees, expenses or
+taxes)
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3.5pt;text-align:right;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:10.33%;">13.66%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;
+padding-top:3.5pt;text-align:right;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:16.06%;">14.32%
+</TD></TR>
+<TR
+bgcolor="#DEE9F6"><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:4.75pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;width:73.42%;">Blended Index (reflects no deduction for fees, expenses or taxes)
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:4.75pt;text-align:right;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:10.33%;">6.12%
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;
+padding-top:4.75pt;text-align:right;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:16.06%;">5.77%
+</TD></TR></TABLE>
+</DIV>
+<DIV
+style="clear:both;color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:6pt;text-align:left;text-decoration:none;text-transform:uppercase;">MANAGEMENT OF THE
+PORTFOLIO</DIV>
+<DIV
+style="text-align:left;">
+<TABLE
+style="border-collapse:collapse;border-left:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;border-top:0.5pt solid #E6E6E6;empty-cells:show;margin-top:0pt;width:99.62%;" cellpadding="0" cellspacing="0">
+<TR><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:top;width:26.72%;">Investment Managers
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:top;white-space:nowrap;width:27.86%;">Subadviser
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:top;width:15.08%;">Portfolio Manager
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:3pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:top;white-space:nowrap;width:15.08%;">Title
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;padding-top:3pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:top;width:15.08%;">Service Date
+</TD></TR>
+<TR><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:5.25pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:top;width:26.72%;">Prudential Investments LLC
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:5.25pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:top;width:27.86%;">BlackRock Financial Management, Inc., BlackRock International Limited
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:5.25pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:top;width:15.08%;">Philip Green
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;
+padding-right:6pt;padding-top:5.25pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:top;width:15.08%;">Managing Director
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:6pt;padding-right:4pt;
+padding-top:5.25pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:top;width:15.08%;">May 2011
+</TD></TR>
+<TR
+bgcolor="#DEE9F6"><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3pt;padding-left:4pt;
+padding-right:6pt;padding-top:4.75pt;text-align:left;text-decoration:none;text-transform:none;vertical-align:top;width:26.72%;">AST Investment Services, Inc.
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;padding-bottom:3pt;padding-right:6pt;padding-top:4.75pt;text-align:left;vertical-align:top;width:27.86%;">&#160;
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;padding-bottom:3pt;padding-right:6pt;padding-top:4.75pt;text-align:left;vertical-align:top;width:15.08%;">&#160;
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;padding-bottom:3pt;padding-right:6pt;padding-top:4.75pt;text-align:left;vertical-align:top;width:15.08%;">&#160;
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;padding-bottom:3pt;padding-right:4pt;padding-top:4.75pt;text-align:left;vertical-align:top;width:15.08%;">&#160;
+</TD></TR></TABLE>
+</DIV>
+<DIV
+style="clear:both;color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:6pt;text-align:left;text-decoration:none;text-transform:uppercase;">TAX INFORMATION</DIV>
+<DIV
+style="clear:both;color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:Normal;line-height:13pt;text-align:left;text-decoration:none;text-transform:none;">Contract owners should consult their
+Contract prospectus for information on the federal tax consequences to them. In addition, Contract owners may wish to consult with their own tax advisors as to the tax consequences of investments in the Contracts and
+the Portfolio, including the application of state and local taxes. The Portfolio currently intends to be treated as a partnership for federal income tax purposes. As a result, the Portfolio's income, gains, losses,
+deductions, and credits are &#8220;passed through&#8221; pro rata directly to the Participating Insurance Companies and retain the same character for federal income tax purposes.</DIV>
+<DIV
+style="clear:both;color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:bold;line-height:13pt;margin-top:6pt;text-align:left;text-decoration:none;text-transform:uppercase;">FINANCIAL
+INTERMEDIARY COMPENSATION</DIV>
+<DIV
+style="clear:both;color:#000000;font-family:Arial;font-size:10pt;font-style:Normal;font-weight:Normal;line-height:13pt;text-align:left;text-decoration:none;text-transform:none;">If you purchase your Contract through a
+broker-dealer or other financial intermediary (such as a bank), the Participating Insurance Company, the Portfolio or their related companies may pay the intermediary for the sale of the Contract, the selection of the
+Portfolio and related services. These payments may create a conflict of interest by influencing the broker-dealer or other intermediary and your salesperson to recommend the Contract over another investment or
+insurance product, or to recommend the Portfolio over another investment option under the Contract. Ask your salesperson or visit your financial intermediary's website for more information.</DIV>
+<DIV
+style="text-align:left;">
+<TABLE
+style="border-bottom:0.5pt solid #E6E6E6;border-collapse:collapse;border-left:0.5pt solid #E6E6E6;border-right:0.5pt solid #E6E6E6;border-top:0.5pt solid #E6E6E6;empty-cells:show;margin-top:5pt;width:100%;" cellpadding="0" cellspacing="0">
+<TR><TD
+style="padding-bottom:5pt;padding-right:3pt;padding-top:3pt;text-align:left;vertical-align:bottom;width:15.43%;">&#160;
+</TD><TD
+style="padding-bottom:5pt;padding-right:22.5pt;padding-top:3pt;text-align:left;vertical-align:bottom;width:55.14%;">&#160;
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:5pt;padding-left:22.5pt;padding-top:3pt;text-align:left;
+text-decoration:none;text-transform:none;vertical-align:bottom;width:28.86%;" rowspan="4"><IMG src="img409eaa832.jpg" style="display:block;text-align:Left;">
+
+</TD></TR>
+<TR
+bgcolor="#DEE9F6"><TD
+style="color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:5pt;padding-left:4pt;padding-right:22.5pt;padding-top:5pt;text-align:left;
+text-decoration:none;text-transform:none;vertical-align:bottom;width:15.43%;">By Mail:
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:5pt;padding-left:22.5pt;padding-top:5pt;text-align:left;
+text-decoration:none;text-transform:none;vertical-align:bottom;width:55.14%;">Advanced Series Trust, 100 Mulberry Street, Gateway Center Three, Newark, NJ 07102
+</TD></TR>
+<TR><TD
+style="color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:3.5pt;padding-left:4pt;padding-right:3pt;padding-top:3.5pt;text-align:left;
+text-decoration:none;text-transform:none;vertical-align:bottom;width:15.43%;">By Telephone:
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:3.5pt;padding-left:3pt;padding-top:3.5pt;
+text-align:left;text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:55.14%;">1-800-346-3778
+</TD></TR>
+<TR
+bgcolor="#DEE9F6"><TD
+style="color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:bold;line-height:11pt;padding-bottom:4pt;padding-left:4pt;padding-right:3pt;padding-top:3.5pt;text-align:left;
+text-decoration:none;text-transform:none;vertical-align:bottom;width:15.43%;">On the Internet:
+</TD><TD
+style="border-bottom:0.5pt solid #E6E6E6;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;padding-bottom:4pt;padding-left:3pt;padding-top:3.5pt;text-align:left;
+text-decoration:none;text-transform:none;vertical-align:bottom;white-space:nowrap;width:55.14%;">www.prudential.com/variableinsuranceportfolios
+</TD></TR></TABLE>
+</DIV>
+</DIV>
+<DIV
+style="clear:both;padding-top:4pt;width:100%;">
+<DIV
+style="clear:both;color:#000000;font-family:Arial Narrow;font-size:8pt;font-style:Normal;font-weight:Normal;line-height:11pt;text-align:right;text-decoration:none;text-transform:none;">534SUMPROS</DIV>
+</DIV>
+</DIV>
+</DIV><DIV
+style="clear:both;font-size:12pt;height:0pt;"></DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>img9ac8b3f21.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 img9ac8b3f21.gif
+M1TE&.#EA[@)N`/$``']_?^;FY@```````"'Y!`$```(`+`````#N`FX```+^
+ME!6IR^T/HYRTVHNSWKS[#X;B2);FB:;JRK;!<;CR3-?VC>?ZSO?^#TS$@L2B
+M\8A,*I?,II-C>$JGU*KUBLUJ48BM]PL.B\?DLOF,3JO7[+;[#8_+Y_1OM([/
+MZ_?\/@0&&"CH1UAH>(B8)+C(&)CX"!DI.9G1B,%(F:FYR5FW&/+9*3I*6DHU
+M>.)HNLK:ZCJCNA+[2EMK>QLQZP*(V^O[6\J+(PQ<;'S<1YRCC-SL_'P&`R0-
+M76U]745-I(W=[?W-PWUQ)SL$?HZ>SF5^&6HBKAXO/S_!7MFU``]*3M_O/V^O
+M'3X'_$0$_(<P8;6#XPHV8-@!HL*)%&])I*#OH4/^#Q<K>OPHJF,]D4(V0C$)
+M,J5*221S9?R#\M[`E31K&GII@1G&F`)M^ORYIR5,G3MG;A`*-*E2.SQ'NNO)
+ML>G2J52M(-5HZ:A4ET:K>OWZ!*?31EL)EL4*-JU:)E<9H!I!U.G:N71_M,WW
+MU&!<F'7[^K5Q5T'6$GD?G/V+.+',J(/?%<ZG.+)D$(%+DBU7N.ODS9P-'S9+
+M5K/CMYU+FP;-.+3H=:1/NYY<V;+JU2KVOKY=-_9LVRUHX_X-]C/6W;J`&S_>
+MT/=8XHV1.W]N.35SYM"KXQ;N=KKVXM:[^ZV\/?QE[^37WA6/?G;Y]5/;IG^O
+MFKU\G^[AV\<T/W]*X??^^_/6#R`]]?FG78`&VC0@@=0=R.!^GZFBX'@-3EC1
+M5<)$*&%T%&XH#U+$8-@<=QR.N-!A']X!HCB/D<CB,1Y2`V.*1JW88HV^"'4B
+M.3(.ITUL-OX8"8X]FK-C=CGZ"&22A;1T)%X8@L9.:TI.R0F30_*3(I18BDAE
+MET&6U:1@('JVY7]>GKGD5D<.E"6/3O:(9IR/J'GE3&-"^6:4<NYYDW(O%*3B
+MDWB*J8R??![:1D?V,',G6GFR:2BBDJ*A**`!"8H:H=Q@-VFG3-%V::@*)K=H
+MI)Z>^JD$I:XZ:DZ%<HIJK-G$Y!"CF"YG)ZRR[NH$1*+.&"&IP)K*:[%AH53^
+M:Z#!NIJLKL8^:\1!OT)ZJQ!D#NLLM-K:M=&TC_;GJ)%:;DON%=)B2RV!GF5J
+M))+EOGO#JL-]:Q^9\[;K+KSZRE#JH'^J:V^>6F:[;\$L;(HMO>D-E6Y7-!H,
+M<3@Z.EQFG0M>B^_`!$?,,0DQAONOQ<1Q53'%4G:,\C!1A/HHONJI&J4^S:5,
+M,V#P6,KJ;F-ES*.9-?^<2J`\:_HRS#&?*V/22B_-=--./PUUU%)/37755E^-
+M==9:;\UUUUY_#7;88H]-=MEFGXUVVFJOS7;;;K\-=]QRSTUWW7;?C7?>>N_-
+M=]]^_PUXX((/3GCAAA^.>.**+\YXXXX_#GGDDD_H3GGEE@,"0.::;\YYYYY_
+M#GKHHH].>NFFGXYZZJJOSGKKKK\.>^RRSTY[[;;?CGONNN_.>^^^_PY\\,(/
+M3WSQQA^/?/+*+\]\\\X_#WWTTD]/??767X]]]MIOSWWWWG\/?OCBCT]^^>:?
+MCW[ZZJ_/?OONOP]__/+/3W_]]M^/?_[Z[\]___[_#\``"G"`!"R@`0^(P`0J
+M<($,;*`#'PC!"$IP@A2LH`4OB,$,:G"#'.R@!S\(PA"*<(0D+*$)3XC"%*IP
+GA2QLH0M?",,8RG"&-*RA#6^(PQSJ<(<\[*$/?PC$(`IQB!$L```[
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>s000031887.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 s000031887.jpg
+M_]C_X``02D9)1@`!`0$`9`!D``#_X@H@24-#7U!23T9)3$4``0$```H0````
+M``(0``!M;G1R4D="(%A96B````````````````!A8W-P05!03```````````
+M````````````````````````]M4``0````#3+```````````````````````
+M``````````````````````````````````````````````ID97-C````_```
+M`'QC<')T```!>````"AW='!T```!H````!1B:W!T```!M````!1R6%E:```!
+MR````!1G6%E:```!W````!1B6%E:```!\````!1R5%)#```"!```"`QG5%)#
+M```"!```"`QB5%)#```"!```"`QD97-C`````````")!<G1I9F5X(%-O9G1W
+M87)E('-21T(@24-#(%!R;V9I;&4``````````````")!<G1I9F5X(%-O9G1W
+M87)E('-21T(@24-#(%!R;V9I;&4`````````````````````````````````
+M````````````=&5X=`````!#;W!Y<FEG:'0@07)T:69E>"!3;V9T=V%R92`R
+M,#$Q`%A96B````````#S40`!`````1;,6%E:(`````````````````````!8
+M65H@````````;Z(``#CU```#D%A96B````````!BF0``MX4``!C:6%E:(```
+M`````"2@```/A```ML]C=7)V````````!``````%``H`#P`4`!D`'@`C`"@`
+M+0`R`#<`.P!``$4`2@!/`%0`60!>`&,`:`!M`'(`=P!\`($`A@"+`)``E0":
+M`)\`I`"I`*X`L@"W`+P`P0#&`,L`T`#5`-L`X`#E`.L`\`#V`/L!`0$'`0T!
+M$P$9`1\!)0$K`3(!.`$^`44!3`%2`5D!8`%G`6X!=0%\`8,!BP&2`9H!H0&I
+M`;$!N0'!`<D!T0'9`>$!Z0'R`?H"`P(,`A0"'0(F`B\".`)!`DL"5`)=`F<"
+M<0)Z`H0"C@*8`J("K`*V`L$"RP+5`N`"ZP+U`P`#"P,6`R$#+0,X`T,#3P-:
+M`V8#<@-^`XH#E@.B`ZX#N@/'`],#X`/L`_D$!@03!"`$+00[!$@$501C!'$$
+M?@2,!)H$J`2V!,0$TP3A!/`$_@4-!1P%*P4Z!4D%6`5G!7<%A@66!:8%M07%
+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
+&HHHH`__9
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>img409eaa832.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 img409eaa832.jpg
+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
+%**`/_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
