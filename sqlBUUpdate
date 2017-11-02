@@ -1,0 +1,24 @@
+//Query to update tickers
+
+
+
+
+
+
+//Query to add new tickers USA
+
+SELECT * FROM (
+SELECT cik,tick FROM nsMine.extraTickerCIK 
+left join nsMine.quoteMediaTickers ON symbol=tick
+where symbol is null) as t
+LEFT JOIN (select lpad(cikE,10,"0") as myCik,compNameE from edgarDb.edgarTb where dateFiledE>20160101 and formTypeE like '%def%' group by cikE) as t2 on cik=myCik
+where myCik is not null;
+
+
+//Query to add new tickers Canada
+
+SELECT * FROM (SELECT idsS FROM sedarf.sedarfilings where typeS like '%management%' and dateS>20160101 group by idsS) as t2
+LEFT JOIN (SELECT sedarId FROM nsMine.quoteMediaTickers) t3 ON sedarId=idsS
+LEFT JOIN (select compName, id FROM sedarf.listCompanies) t4 on idsS=id
+where sedarId is null;
+

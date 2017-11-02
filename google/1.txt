@@ -1,0 +1,1990 @@
+<!DOCTYPE html><html lang="fr">
+<head>
+
+<script type="text/javascript">
+  var FOGLIO=window.FOGLIO||{};FOGLIO.queue=FOGLIO.queue||{};FOGLIO.tag_s=new Date().getTime();FOGLIO.app_id="27";FOGLIO.cr=1;FOGLIO.sr=0.1;FOGLIO.ft="bd4e1e9aff057dd1c8d32330099d06ce12a8f309";FOGLIO.q=function(a,b){FOGLIO.queue[a]=FOGLIO.queue[a]||[];FOGLIO.queue[a].push(b)};
+</script>
+
+<script type="text/javascript">FOGLIO.q('segment', {name: 'pagetype', value: 'homepage'})</script>
+
+<link rel="dns-prefetch" href="//medias.lequipe.fr">
+<link rel="dns-prefetch" href="//static.lequipe.fr">
+
+
+
+
+
+
+<meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>L'ÉQUIPE - L'actualité du sport en continu.</title><meta name="Description" content="Le sport en direct sur L'EQUIPE.fr. Les informations, résultats et classements de tous les sports. Directs commentés, images et vidéos à regarder et à partager !" /><meta name="news_keywords" content="sport, parions sport, football, psg, om, ol, mercato, match en direct, tennis, tour de france" />
+
+<meta http-equiv="refresh" content="300" /><link rel="canonical" href="http://www.lequipe.fr/" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.lequipe.fr/" /><link rel="alternate" href="android-app://lequipe.fr/home/general" /><meta name="application-name" content="L'Equipe.fr" /><meta name="msapplication-TileColor" content="#ffffff" /><meta name="msapplication-TileImage" content="http://static.lequipe.fr/v6/img/tile-win8.png" /><meta name="msapplication-tooltip" content="L'Equipe.fr" /><meta name="msapplication-window" content="width=1024;height=768" /><meta name="msapplication-navbutton-color" content="#fffffff" /><meta name="msapplication-starturl" content="/home.html" />
+<!--[if IE 9]><div style="display:none"><script src="http://static.lequipe.fr/v6/js/ie9.js?2013"></script><![endif]--><meta content="name=Football;action-uri=/redir.php?TYPE=IE9&URL=http://www.lequipe.fr/Football;icon-uri=/v6/img/Football.ico" name="msapplication-task" /><meta content="name=Tennis;action-uri=/redir.php?TYPE=IE9&URL=http://www.lequipe.fr/Tennis;icon-uri=/v6/img/Tennis.ico" name="msapplication-task" /><meta content="name=Rugby;action-uri=/redir.php?TYPE=IE9&URL=http://www.lequipe.fr/Rugby;icon-uri=/v6/img/Rugby.ico" name="msapplication-task" /><!--[if IE 9]></div><![endif]--><meta property="fb:page_id" content="76283417065" />
+<meta property="fb:admins" content="607767138" />
+<meta property="fb:admins" content="682217508" />
+<meta property="twitter:account_id" content="18936161" />
+<link href="https://plus.google.com/115671695822593249805" rel="publisher" /><link rel="alternate" type="application/rss+xml" title="L&#039;Equipe.fr, toute l&#039;actualit&eacute; sportive" href="http://www.lequipe.fr/Xml/actu_rss.xml" /><link rel="alternate" type="application/rss+xml" title="L&#039;Equipe.fr, toute l&#039;actualit&eacute; du football" href="http://www.lequipe.fr/Xml/Football/Titres/actu_rss.xml" /><link rel="alternate" type="application/rss+xml" title="L&#039;Equipe.fr, toute l&#039;actualit&eacute; de la formule 1 et des sports m&eacute;caniques" href="http://www.lequipe.fr/Xml/Formule1/Titres/actu_rss.xml" /><link rel="alternate" type="application/rss+xml" title="L&#039;Equipe.fr, toute l&#039;actualit&eacute; du tennis et du golf" href="http://www.lequipe.fr/Xml/Tennis/Titres/actu_rss.xml" /><link rel="alternate" type="application/rss+xml" title="L&#039;Equipe.fr, toute l&#039;actualit&eacute; du rugby" href="http://www.lequipe.fr/Xml/Rugby/Titres/actu_rss.xml" /><link rel="alternate" type="application/rss+xml" title="L&#039;Equipe.fr, toute l&#039;actualit&eacute; du cyclisme" href="http://www.lequipe.fr/Xml/Cyclisme/Titres/actu_rss.xml" /><link rel="alternate" type="application/rss+xml" title="L&#039;Equipe.fr, toute l&#039;actualit&eacute; du basket, hand et volley" href="http://www.lequipe.fr/Xml/Basket/Titres/actu_rss.xml" /><link rel="alternate" type="application/rss+xml" title="L&#039;Equipe.fr, les vid&eacute;os les plus r&eacute;centes" href="http://www.lequipe.fr/Xml/videos_rss.xml" />
+
+
+
+
+
+
+
+
+
+
+<!-- IDS : 3 -->
+<!-- TYPEPAGE : chrono -->
+<!-- TAG_EDITO_LIB : general -->
+<!-- www.lequipe.fr --> 
+
+  
+
+
+
+				<script type="text/javascript">
+
+				codeweb = '';
+				idtag = '1';
+				sas_pageid='2368/17155';
+																																																																																
+
+				xtn2 = "23"; /* (General) */
+				xtpage = "General::home";
+
+				</script>
+ 
+
+
+
+<!-- pas free -->
+
+<!-- pas abo -->
+
+
+
+<meta name="apple-itunes-app" content="app-id=318133983" />
+<script>
+//** SOURCE : http://detectmobilebrowsers.com/about**/
+xtref = document.referrer.replace(/[<>]/g, '').replace(/&/g, '$');
+if (document.location.search.indexOf("xtor=") > 0){
+    xtquery = document.location.search.substring(1, document.location.search.length);
+    monquery = xtquery.substring(xtquery.indexOf("xtor="), xtquery.length);
+    pos3 = monquery.indexOf("&");
+    if (pos3 == -1) pos3 = monquery.indexOf("%26");
+    if (pos3 == -1) pos3 = monquery.length;
+    xtor = "&xtor=" + monquery.substring(monquery.indexOf("=")+1, pos3);
+    }else{xtor = ""; }
+ function isMobile(checkTablet){
+    //Pour les tablette, rajouter '|android|ipad|playbook|silk' dans la 1ère regexp (sans les quote)
+    checkTablet = (checkTablet) ? '|android|ipad|playbook|silk' : '';
+    var a = (navigator.userAgent || navigator.vendor || window.opera);
+    var b = new RegExp("(android|bb\\d+|meego).+mobile|avantgo|bada/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)/|plucker|pocket|psp|series(4|6)0|symbian|treo|up.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino", "i");
+
+    var b2 = new RegExp("android|ipad|playbook|silk", "i");
+
+    var isMobile =  (b.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0, 4)));
+
+    var isTablet =  (b2.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0, 4)));
+
+    if(checkTablet){
+        return isTablet;
+    }else{
+        return isMobile;
+    }
+}
+function init_mobile(){
+    var waWidth = screen.width;
+    var hash = window.location.hash;
+    var wanavagent = navigator.userAgent;
+    //var waIsMobile = (isMobile() || isMobile(true));
+    var waIsMobile = isMobile();
+    var waIsTablet = isMobile(true);
+    var cookie     = (getCookie("waIgnoreMobile") && getCookie("waIgnoreMobile")==1);
+    var waRedirect = true;
+    var excludeLink = /.fr(\/explore\/|\/Quotidien\/|\/club\/compte\/formulaire_newpass|\/premium\/|\/eStore\/|\/[a-z]+\/Article\/|\/concours\/|\/rss\/|\/infogs\/|\/Infog\/|\/hors-normes\/|\/special\/|\/connect\/|\/cdm2014\/pronos\/|\/.*-2ndecran|\/.*native.html)/i;
+
+    var parts = window.location.search.substr(1).split("&");
+    var isGoogleMobile = /Googlebot-Mobile/i;
+    var isSocialNetwork = /twitter|fbios/i;
+    var $_GET = {};
+    for (var i = 0; i < parts.length; i++) {
+        var temp = parts[i].split("=");
+        $_GET[decodeURIComponent(temp[0])] = decodeURIComponent(temp[1]);
+    }
+    if(cookie || ($_GET['M'] && $_GET['M']==1) || ((excludeLink.test(window.location.href)) && (window.location.href.substr(-9) !='/explore/') ) || (isSocialNetwork.test(wanavagent) && waIsTablet) || !waIsMobile){waRedirect = false;}
+
+    if((isGoogleMobile.test(wanavagent) || (isSocialNetwork.test(wanavagent) && !waIsTablet && waIsMobile)) && !excludeLink.test(window.location.href) && (window.location.href.indexOf('/Infog') == -1)) {waRedirect = true;}
+
+    if(waRedirect && /free.lequipe.fr/i.test(window.location.host)){
+        waRedirect = false;
+    }
+    // redirection vers la sortie webapp pour les relives
+    if((waIsMobile || waIsTablet) && /\/Compte-rendu\/[^/]+\/\d+/i.test(window.location.href)){
+        waRedirect = true;
+    }
+    //if(cookie || ($_GET['M'] && $_GET['M']==1) || (excludeLink.test(window.location.href)) || !waIsMobile){waRedirect = false;}
+    //if((isGoogleMobile.test(wanavagent) || (isSocialNetwork.test(wanavagent) && waIsMobile)) && !excludeLink.test(window.location.href)) {waRedirect = true;}
+    if(hash == '#modemobile'){
+        var res = "";
+        res = '<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>######################<br>MOBILE MODE<br>#################<br>';
+        res += 'Navigator agent : '+wanavagent; 
+        res += '<br>Cookie to site version :  '+cookie;
+        res += '<br>IsMobile : '+waIsMobile;
+        res += '<br>Redirection to mobile version :  '+waRedirect;
+        document.write(res);
+        return false;
+    }
+    if (xtref !='' ) { xtref='?xtref='+xtref.replace(/\?/gi,"¤").replace(/=/gi,"§")+'&'+xtor; }
+    //console.log(window.location.href.replace(window.location.host,'m.lequipe.fr')+xtref);
+    if (waRedirect){
+        var newLocationHref=window.location.href.replace(window.location.host,'m.lequipe.fr')+xtref;
+        window.location.href = newLocationHref;
+    }
+    else if( window.location.href.indexOf('/infogs/Football/statistiques-coupe-du-monde') >0 && waIsMobile)
+        {
+        
+         var newLocationHref=window.location.href.replace(window.location.host,'m.lequipe.fr')+xtref;
+         window.location.href = newLocationHref;
+        
+        }
+
+}
+function getCookie(c_name){
+    var c_value = document.cookie;
+    var c_start = c_value.indexOf(" " + c_name + "=");
+    if (c_start == -1){
+        c_start = c_value.indexOf(c_name + "=");
+    }
+    if (c_start == -1){
+        c_value = null;
+    }else{
+        c_start = c_value.indexOf("=", c_start) + 1;
+        var c_end = c_value.indexOf(";", c_start);
+        if (c_end == -1){
+            c_end = c_value.length;
+        }
+        c_value = unescape(c_value.substring(c_start,c_end));
+    }
+    return c_value;
+}
+init_mobile();
+</script>
+
+    <!-- kameleoon toutes les homes -->
+        <script src="/kameleoon/kameleoon.js"></script>
+    <!-- end kameleoon -->
+
+
+
+
+
+<meta property="fb:app_id" content="261959740493169" />
+<link rel="shortcut icon" type="image/x-icon" href="http://static.lequipe.fr/v6/favycon.ico" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+
+
+
+
+
+
+
+<!--
+<link href="/v6/css/style_v65.css?V834" rel="stylesheet" type="text/css" />
+<link href="/v6/css/style_v66.css?V88474" rel="stylesheet" type="text/css" />
+-->
+<link href="/v6/css/style_v66-full.css?V152809" rel="stylesheet" type="text/css" />
+
+<!--[if IE]><link rel="stylesheet" type="text/css" href="/v6/css/ie.css?V66" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/v6/css/ie7.css?V66" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="/v6/css/ie8.css?V66" /><![endif]-->
+<!--[if lt IE 9]>
+    <script src="//css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <script src="/v6/js/selectivizr-min.js"></script>
+<![endif]-->
+<!--[if IE]><script  type="text/javascript" src="/v6/js/html5shiv.js"></script><![endif]-->
+<link href="/premium/css/premium.css?issue-d38" rel="stylesheet" type="text/css" />
+<!-- <link href="/vel/css/vel.css?201501131520" rel="stylesheet" type="text/css" /> -->
+
+
+
+
+
+<!-- BEGIN Krux Control Tag for "AMA_LEquipe" -->
+<!-- Source: /snippet/controltag?confid=JJ8luyXM&site=AMA_LEquipe&edit=1 -->
+<script class="kxct" data-id="JJ8luyXM" data-timing="async" data-version="1.9" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+    k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JJ8luyXM"
+  ;
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+  
+</script>
+<!-- END Krux Controltag -->
+
+
+<script>var _sf_startpt=(new Date()).getTime()</script>
+<script src="/v6/js/modernizr.js"></script>
+
+<meta itemprop="name" content="L'Equipe.fr">
+<meta itemprop="description" content="Retrouvez tout le sport en direct sur le site de L'EQUIPE et suivez l'actualit&eacute; du football, rugby, basket, cyclisme, f1, volley, hand, tous les r&eacute;sultats sportifs...">
+<meta itemprop="image" content="http://static.lequipe.fr/v6/img/lequipe.gif">
+ 
+<script>sas_formatids = "2077,2078,2163,630,12340,632,1075,1446,651,646,17532";</script>
+
+	<script>
+        /* AudienceScience - v2 - 20131205 */
+        //name: Amaury Prequal Tag, created: 12/03/2013 06:01
+        var cb = new Date().getTime();
+        var asiPqTag = false;
+        try {
+            document.write("<sc" + "ript type='text/javascript' language='JavaScript' src='//pq-direct.revsci.net/pql?placementIdList=fUMLTX,OsJ5KK,H28C8Q,NOgPLg,Jrc61P&cb=" + cb + "'></sc" + "ript>");
+        } catch(err) { }
+        document.write("<sc" + "ript type='text/javascript' language='JavaScript' src='//js.revsci.net/gateway/gw.js?csid=F09828&auto=t&bpid=amaury'></sc" + "ript>");
+		/* Nugg.ad - v1 - 20130327 */
+		var nugg4Rubicon ="";
+		var nuggrid= encodeURIComponent(top.location.href);
+		document.write('<scr'+'ipt type=\"text/javascript\" src=\"http://lpm-amaury.nuggad.net/rc?nuggn=1218387167&nuggsid=977061605&nuggrid='+nuggrid+'"><\/scr'+'ipt>');
+    </script>
+    <script src="http://abs.proxistore.com/abe/psversion.jsp" type="text/javascript"></script>
+    <script type="text/javascript">
+    bw_ps_adspot_id = "12374016";
+    if(typeof ps_version!='undefined'){document.write('<script language=\"JavaScript\" src=\"http:\/\/abs.proxistore.com\/abe\/js\/psuniversaltag.js?v='+ps_version+'\"><\/script>');}
+    </script>
+
+    <script type="text/javascript" src="http://ww84.smartadserver.com/config.js?nwid=84"></script>
+    <script type="text/javascript" src="/v6/js/ads-v12.js?2015c"></script>
+
+
+</head><body class="index  General   homegdleader" sport="General" tag="1" an="" ac="">
+
+ 
+
+
+
+<div class="block">
+<div id="Ads_2077" class="ads">
+<script type="text/javascript">
+//sas_manager.render(2077);
+if (typeof Ads != "undefined"){Ads.display(sas_pageid, "2077", sas_target)}
+</script>
+</div>
+</div>
+
+<div class="block">
+<div id="Ads_2078" class="ads">
+<script type="text/javascript">
+//sas_manager.render(2078);
+if (typeof Ads != "undefined"){Ads.display(sas_pageid, "2078", sas_target)}
+</script>
+</div>
+</div>
+<header>  <div id="wraper">    <span>      
+    <div class="galaxie">
+        <ul id="galaxie">
+            <li class="active"><a href="http://www.lequipe.fr/" rel="nofollow">L'&Eacute;quipe.fr</a></li>
+            <li><a href="http://www.lequipe21.fr/" target="_blank" rel="nofollow">L'&Eacute;quipe 21</a></li>
+            <li><a href="http://www.e-adrenaline.fr/" target="_blank" rel="nofollow">Adr&eacute;naline</a></li>
+            <li><a href="http://www.ilosport.fr/" target="_blank" rel="nofollow">Ilosport</a></li>
+            <li><a href="http://www.sportetstyle.fr/" target="_blank" rel="nofollow">Sport&Style</a></li>
+            <li><a href="http://blog.lequipe.fr/" target="_blank" rel="nofollow">Blog</a></li>
+            <li class="last-G"><a href="http://roustantv.lequipe.fr/" target="_blank" rel="nofollow">Roustan TV</a></li>
+            <li><a href="http://logc215.xiti.com/go.click?xts=492987&s2=bandeau_header&p=bandeau_header&clic=N&type=click&url=http://www.lequipe.fr/eStore/Offres/Abonnement/12681">L'&Eacute;quipe Premium : <span>1 mois</span> d’essai gratuit </a></li>
+            <!--<li><a href="http://logc215.xiti.com/go.click?xts=492987&s2=bandeau_header&p=bandeau_header&clic=N&type=click&url=http://www.lequipe.fr/eStore/Offres/Abonnement/12587">Offre spéciale <span>f&ecirc;te des p&egrave;res</span> : abonnez-vous !</a></li>-->
+        </ul>
+        <div class="clear"></div>
+    </div>      <div id="top-content">
+    <a id="MeaE21" href="http://www.lequipe21.fr/direct/" target="_blank"><span></span><p><span class="chevron"></span><span>20:45 : </span>Coupe du monde 2011. Finale. France / Nouvelle-Zélande. A Auckland (Nouvelle-Zélande)</p></a>
+    <div id="brand2" data-class="ererrer"><a href="/">Sport : Match en direct, Football, Rugby, Tennis, Nba, F1</a></div>
+    
+        <a id="MeaPremium" href="http://logc215.xiti.com/go.click?xts=492987&s2=Bloc_Premium_header_HPGene&p=Bloc_Premium_header_HPGene&clic=N&type=click&url=http://www.lequipe.fr/eStore/Offres/Abonnement/12681" style="font-size:12px;"><span></span><div>L'&Eacute;quipe Premium : <br>1 mois d’essai gratuit <br><u style="color:#e30117;">J'en profite !</u></div></a>       
+        <!--<a class="newsletter" href="http://logc215.xiti.com/go.click?xts=492987&s2=HPNL&p=HPNL&clic=N&type=click&url=http://www.lequipe.fr/club/compte/formulaire.html">Newsletter</a>-->
+    
+</div>            <div id="nav-content" class="NavSport">        <ul id="menu">          <li class="home"><a href="/"></a></li>                                    <li class="Football"><a href="/Football/">FOOTBALL</a><span></span></li>                                               <li class="Tennis"><a href="/Tennis/">TENNIS</a><span></span></li>                                               <li class="Rugby"><a href="/Rugby/">RUGBY</a><span></span></li>                                               <li class="Basket"><a href="/Basket/">BASKET</a><span></span></li>                                               <li class="Cyclisme"><a href="/Cyclisme/">CYCLISME</a><span></span></li>                                               <li class="Formule1"><a href="/Formule-1/">F1</a><span></span></li>                                               <li class="Golf"><a href="/Golf/">GOLF</a><span></span></li>                                               <li class="Handball"><a href="/Handball/">HAND</a><span></span></li>                                               <li class="Auto-moto"><a href="/Auto-moto/">AUTO-MOTO</a><span></span></li>                                               <li class="Athletisme"><a href="/Athletisme/">ATHLéTISME</a><span></span></li>                                               <li class="Sports-us"><a href="/Sports-us/">SPORTS US</a><span></span></li>                                               <li class="Voile"><a href="/Voile/">VOILE</a><span></span></li>                               </ul>        <div id="brand3">
+    <a href="/">Sport : Match en direct, Football, Rugby, Tennis, Nba, F1</a>
+    
+</div>
+
+
+                <ul id="menuGrey">          <li class="menuSportPlus">            <a>SPORTS<span class="triangle-down"></span></a>            <div class="drop-menu-content">              <ul class="BigOne">
+    <div class="filet"></div>
+    <div>
+        <li class="Aussi"><a href="/Aussi/Aviron/">Aviron</a><span></span></li>
+        <li class="Aussi"><a href="/Aussi/Badminton/">Badminton</a><span></span></li>
+        <li class="Aussi"><a href="/Aussi/Baseball/">Baseball</a><span></span></li>
+        <li class="Aussi"><a href="/Aussi/Canoe-kayak/">Cano&eacute; Kayak</a><span></span></li>
+        <li class="Aussi"><a href="/Aussi/Equitation/">&Eacute;quitation</a><span></span></li>
+        <li class="Aussi"><a href="/Aussi/Escrime/">Escrime</a><span></span></li>
+        <li class="Aussi"><a href="/Aussi/Football-americain/">Foot US</a><span></span></li>
+    </div>
+    <div>
+        <li class="Aussi"><a href="/Aussi/Gymnastique/">Gymnastique</a><span></span></li>
+        <li class="Hippisme"><a href="/Aussi/Halterophilie/">Halt&eacute;rophilie</a><span></span></li>
+        <li class="Hippisme"><a href="/Hippisme/">Hippisme</a><span></span></li>
+        <li class="Aussi"><a href="/Aussi/Hockey-sur-gazon/">H. sur gazon</a><span></span></li>
+        <li class="Aussi"><a href="/Aussi/Jo-2016-rio/">JO &eacute;t&eacute;</a><span></span></li>
+        <li class="Aussi"><a href="/Aussi/Jo-2014-sotchi/">JO Hiver</a><span></span></li>
+        <li class="Natation"><a href="/Natation/">Natation</a><span></span></li>
+    </div>
+    <div>
+        <li class="Natation"><a href="/Aussi/Pentathlon-moderne/">Pentathlon M.</a><span></span></li>
+        <li class="Aussi"><a href="/Aussi/Ski-glace/">Ski-Glace</a><span></span></li>
+        <li class="Aussi"><a href="/Sports-de-combat/">Sports de combat</a><span></span></li>
+        <li class="Aussi"><a href="/Aussi/Squash/">Squash</a><span></span></li>
+        <li class="Aussi"><a href="/Sports-us/">Sports US</a><span></span></li>
+        <li class="Aussi"><a href="/Aussi/Surf/">Surf</a><span></span></li>
+        <li class="Aussi"><a href="/Aussi/Tennis-de-table/">Tennis de Table</a><span></span></li>
+    </div>
+    <div>
+        <li class="Aussi"><a href="/Aussi/Tir/">Tir</a><span></span></li>
+        <li class="Aussi"><a href="/Aussi/Tir-a-l-arc/">Tir &agrave; l'arc</a><span></span></li>
+        <li class="Aussi"><a href="/Aussi/Triathlon/">Triathlon</a><span></span></li>
+        <li class="Aussi"><a href="/Voile/">Voile</a><span></span></li>
+        <li class="Aussi"><a href="/Aussi/Volley-ball/">Volley-ball</a><span></span></li>
+        <li class="Aussi"><a href="/Natation/Water-polo/">Water-polo</a><span></span></li>
+        <li class="Aussi"><a href="/Tous-sports/">Tous sports</a><span></span></li>
+    </div>
+</ul>            </div>          </li>           <li><a href="/explore/">EXPLORE</a><span></span></li> 
+<li><a href="/Wtf/">#WTF</a><span></span></li> 
+<li><a href="http://video.lequipe.fr/" target="_blank">VID&Eacute;O</a><span></span></li>
+<li><a href="/programme-tv/agenda.html">AGENDA TV</a><span></span></li> 
+<li><a href="http://www.lequipe.fr/premium/offres">PREMIUM</a><span></span></li>              </ul>        <a href="/Football/" id="OngletNavSport"><span></span></a>        <ul id="menuRight" style=" float:right">
+    
+    <li class="menuDirects"><a href="/Directs/">Directs</a><span id="NbDirect" data-nb="1"  class="mutliple">1</span><span></span></li>
+    <li class="resultatsSportPlus"><a href="/Resultats/">R&eacute;sultats</a><span></span></li>    
+    <li id="search-b"><a href="/recherche/search.php"></a><span></span></li>
+    <li id="newsletter-b"><a href="http://logc215.xiti.com/go.click?xts=492987&s2=HPNLsticky&p=HPNLsticky&clic=N&type=click&url=http://www.lequipe.fr/club/compte/formulaire.html"></a><span></span></li>
+    <li class="connectMenu"><a class="profil"></a>
+        <div class="drop-menu-content lienInterne lienConnect">
+            <div class="filet"></div>
+            <span style=" width:100%; height:10px; background:#E9EEF5; display:block"></span>
+            <ul>
+               <li class="lienTete">User login</li>
+               <li><a href="/compte/le-profil/">Mon profil</a></li>
+               <li><a href="/premium/editions/">Le quotidien</a></li>
+               <li><a href="/mes-editions/velomagazine">Vélo Magazine</a></li>
+               <li><a href="/compte/le-profil/#les-newsletters">Mes newsletters</a></li>
+               <li><a href="/compte/le-profil/#alertes">Mes alertes</a></li>
+               <li><a href="/compte/le-profil/">Mes abonnements</a></li>
+               <li><a>Se d&eacute;connecter</a></li>
+            </ul>
+            <span style=" width:100%; height:20px; display:block" class="clear"></span>
+        </div>
+        <span></span>
+    </li> 
+    <li class="hamburger" id="nav-toggle">
+        <span></span>           
+        <div class="drop-menu-content lienInterne">
+            <div class="filet"></div>
+            <span style=" width:100%; height:10px; background:#E9EEF5; display:block"></span>
+            <ul class="liensRub">
+                <li class="lienTete">Rubriques</li> 
+                <li><a href="/explore/?">Explore</a></li>
+                <li><a href="/Wtf/">#WTF</a></li>
+                <li><a href="http://video.lequipe.fr/">Vid&eacute;o</a></li>
+                <li><a href="/programme-tv/agenda.html">Agenda TV</a></li>
+                <li><a href="http://www.lequipe.fr/premium/offres">Premium</a></li> 
+            </ul>
+            <ul>
+               <li class="lienTete">R&eacute;seaux Sociaux</li>
+               <li><a href="https://www.facebook.com/lequipe.fr" target="_blank">Facebook</a></li>
+               <li><a href="https://twitter.com/lequipe" target="_blank">Twitter</a></li>
+               <li><a href="https://plus.google.com/+lequipe/" target="_blank">Google Plus</a></li>
+               <li>&nbsp;</li>
+               <li class="lienTete"><a href="/blogs/">Blogs</a></li>
+               <li class="lienTete noUp"><a href="/concours/">Jeux concours</a></li>
+               <li class="lienTete noUp"><a href="/agenda-sports/">Agenda sports</a></li>
+            </ul>
+            <ul>
+                <li class="lienTete">Multim&eacute;dia</li>
+                <li><a href="/explore/?">L'&Eacute;quipe Explore</a></li>
+                <li><a href="/webdocs.html">Web docs</a></li>
+                <li><a href="/infogs/#sport=All_infogs">Infographies</a></li>
+                <li><a href="/Jeux-video/">Jeux vid&eacute;os</a></li>
+               <li class="lienTete">Actu des m&eacute;dias</li>
+               <li><a href="/facebook/">Facebook</a></li>
+               <li><a href="/twitter/">Twitter</a></li>
+               <li><a href="/Medias/">M&eacute;dias </a></li>
+            </ul>
+            <ul>
+               <li class="lienTete">Services</li>
+               <li><a href="/editions/" target="_blank">Éditions L'Équipe</a></li>
+               <li><a href="http://ebar.lequipe.fr/" target="_blank">E-bar</a></li>
+               <li><a href="http://evoyages.groupe-couleur.com/" target="_blank">E-voyage</a></li>
+               <li><a href="http://ebillet.lequipe.fr/" target="_blank">E-billet</a></li>
+               <li><a href="http://formations.lequipe.fr/" target="_blank">Formations</a></li>
+               <li><a href="http://shopping.lequipe.fr/" target="_blank">Shopping</a></li>
+               <li><a href="/club/e-boutique/unes-photos/" target="_blank">Boutique Photos</a></li>
+               <li><a href="/reduction-shopping/les-bons-plans-shopping.php" target="_blank">Codes promo</a></li>
+            </ul>
+            <span style="width:100%;height:20px;display:block" class="clear"></span>
+        </div>
+    </li> 
+</ul>      </div>       <div class="clear"></div>     </span>  </div></header><div id="outer-edito-content" data-nav="no">
+
+ <div class="block pb_630">
+    <div id="Ads_630" class="ads">
+		<script>
+        //sas_manager.render(630);
+        if (typeof Ads != "undefined"){Ads.display(sas_pageid, "630", sas_target)}
+        </script>
+    </div>
+</div>
+<div id="edito-content" role="main">
+
+
+
+
+
+
+<div id="oreillettes" data-vr-zone="LiensImages">
+	<div class="oreillettes or150 Tennis" TYPE="OREILLETTE_V65" rub="Tennis" sport="39" home="home-" data-vr-contentbox="">
+        <a href="/Tennis/Directs"     double='0' date="" onglet="1" target="_blank">
+        <div class="les-blocs">
+        <span class="lespor-t"    >TENNIS</span>        <span class="letitr-e"    >US OPEN</span>                </div>
+        <img src="http://medias.lequipe.fr/img-photo-jpg/oreillette-v-6-5-tennis/1500000000288545/0:0,150:90-150-0-70/c0beb.jpg" width="150" height="90" alt=""    ></a>
+</div><div class="oreillettes or150 Basket" TYPE="OREILLETTE_V65" rub="Basket" sport="37" home="home-" data-vr-contentbox="">
+        <a href="/Basket/Euro/"     double='0' date="" onglet="0">
+        <div class="les-blocs">
+        <span class="lespor-t"    >BASKET</span>        <span class="letitr-e"    >EURO (H)</span>                </div>
+        <img src="http://medias.lequipe.fr/img-photo-jpg/parker-tony/1500000000606389/307:161,1422:1074-150-90-90/30622.jpg" width="150" height="90" alt=""    ></a>
+</div><div class="oreillettes or150 Rugby" TYPE="OREILLETTE_V65" rub="Rugby" sport="101" home="home-" data-vr-contentbox="">
+        <a href="http://www.lequipe.fr/special/Rugby/guide/coupe-du-monde/england-2015/"     double='0' date="" onglet="1" target="_blank">
+        <div class="les-blocs">
+        <span class="lespor-t"    >RUGBY</span>        <span class="letitr-e"    >COUPE DU MONDE</span>        <span class="sta-tut"    >LE GUIDE</span>        </div>
+        <img src="http://medias.lequipe.fr/img-photo-jpg/1er-rang-toeava-isaia-muliaina-mils-weepu-piri-nonu-ma-a-jane-cory-dagg-israel/1500000000607151/453:407,1554:1308-150-90-90/17aad.jpg" width="150" height="90" alt=""    ></a>
+</div>
+	
+			
+			<div class="oreillettes or150 vide" type="OREILLETTE_V65" rub="vide" sport="vide" home="home-" data-vr-contentbox="">      <a href="http://toprecherches.lequipe.fr/#!basketball/">#TOPRECHERCHES EURO 🏀</a>      <a href="http://www.lequipe.fr/explore/basejump-les-pieds-sur-terre/">Explore base-jump</a>      <a href="http://roustantv.lequipe.fr/">Roustan TV</a>  </div>
+		
+	</div><div class="clear"></div><div id="edito-gauche" class="colsort" data-tag="1" data-vr-zone="Actualites"><div class="Basket titrelong big-Leader  clearfix" TYPE="UNEGDLEADER" rub="Basket" sport="37" data-vr-zone="TitrePrincipal"><div data-vr-contentbox="" data-abonne="0"     data-bandeau_match="" ><h1>                <a  href="/Basket/Actualites/Israel-france-61-86/589375"      infog="false" onglet="0 "  >Les Bleus gagnent un choc tronqué
+</a></h1><div class="EditoLeader" id=""><div class="les-blocs">
+<span class="lespor-t"    >BASKET</span>
+<span class="letitr-e" json="surtitre[].texte"  >EURO</span><span class="letitr-e" json="surtitre[].texte"  >GROUPE A</span></div><a href="/Basket/Actualites/Israel-france-61-86/589375">
+<img   alt="Les Bleus gagnent un choc tronqué"   src="http://medias.lequipe.fr/img-photo-jpg/gobert-rudy/1500000000607465/0:225,2048:1258-640-322-75/08010.jpg" width="640" height="322"  />
+</a></div><p    >
+Israël ayant laissé au repos ses trois meilleurs joueurs pour ce choc du groupe A, l'équipe de France n'a pu se tester avant les 8es de finale (86-61). Les Bleus, invaincus après cinq matches, affronteront la Turquie, samedi à Lille. <span>14</span></p></div><ul class="UnePlus" data-vr-contentbox=""><li>
+<a href="/Basket/match/49396" json="lien[0].href;lien[0].texte;lien[0].onglet"   onglet="1" icon="" target="_blank">
+Le film du match</a></li><li>
+<a href="/Basket/BasketResultatGroupe1570.html" json="lien[1].href;lien[1].texte;lien[1].onglet"   onglet="0" icon="">
+Le groupe A</a></li><li>
+<a href="/Basket/Actualites/Collet-c-est-dommage/589390" json="lien[2].href;lien[2].texte;lien[2].onglet"   onglet="0" icon="">
+Collet: «C'est dommage»</a></li><li>
+<a href="/Basket/Actualites/Boris-diaw-de-bon-augure-pour-la-suite/589389" json="lien[3].href;lien[3].texte;lien[3].onglet"   onglet="0" icon="">
+Diaw: «De bon augure pour la suite»</a></li><li>
+<a href="/Basket/Actualites/-on-a-tres-vite-compris/589384" json="lien[4].href;lien[4].texte;lien[4].onglet"   onglet="0" icon="">
+Kahudi: «On a très vite compris...»</a></li><li>
+<a href="/Basket/Euro/Saison-2015/calendrier-resultats.html" json="lien[5].href;lien[5].texte;lien[5].onglet"   onglet="0" icon="">
+Le programme des 8es de finale</a></li><li>
+<a href="/Basket/Actualites/On-y-voir-un-peu-plus-clair-pour-les-8es-de-finale/589341" json="lien[6].href;lien[6].texte;lien[6].onglet"   onglet="0" icon="">
+Ce sera France - Turquie</a></li><li>
+<a href="/Basket/Actualites/Pau-gasol-rend-hommage-a-dirk-nowitzki-elimine-de-l-euro/589376" json="lien[7].href;lien[7].texte;lien[7].onglet"   onglet="0" icon="">
+Pau Gasol rend hommage à Nowitzki</a></li></ul></div><div class="mea-Premium2" type="MEA_PREMIUM">
+<article id="lastpremium"><h2>Les derni&egrave;res <span>exclus premium</span></h2>
+<a class="prev disabled liprev" href="#"></a>
+<a class="next linext" href="#"></a><div class="wrap"><ul class="wrapGlobal"><li class="wrapPetit">
+<a href="/Football/Article/Le-fergie-time-explique-par-l-economie/588992"  json="el[].url;el[].sport"   class="Football"><div class="les-blocs">
+<span  json="el[].surtitre"   >Foot</span></div>
+<img class="lazy"  json="el[].image"   src="http://medias.lequipe.fr/img-photo-jpg/sous-les-ordres-de-sir-alex-ferguson-manchester-united-s-it-fait-une-habitude-de-gagner-des-matc/1500000000607126/0:152,2048:1185-200-145-70/39a33.jpg" data-original="http://medias.lequipe.fr/img-photo-jpg/sous-les-ordres-de-sir-alex-ferguson-manchester-united-s-it-fait-une-habitude-de-gagner-des-matc/1500000000607126/0:152,2048:1185-200-145-70/39a33.jpg" width="150" height="89" style="display: inline;"><h3  json="el[].titre"   >Le «Fergie time» expliqué par l'économie</h3>
+</a>
+<a href="/Football/Article/Michel-nbsp-parfois-l-equipe-est-suicidaire/57832"  json="el[].url;el[].sport"   class="Football"><div class="les-blocs">
+<span  json="el[].surtitre"   >Football</span></div>
+<img class="lazy"  json="el[].image"   src="http://medias.lequipe.fr/img-paywall-jpg/michel-a-une-id-de-plus-en-plus-pr-se-de-la-fa-dont-il-veut-faire-jouer-l-om-photo-st-ane/1500000000607250/0-200-145-70/c54ea.jpg" data-original="http://medias.lequipe.fr/img-paywall-jpg/michel-a-une-id-de-plus-en-plus-pr-se-de-la-fa-dont-il-veut-faire-jouer-l-om-photo-st-ane/1500000000607250/0-200-145-70/c54ea.jpg" width="150" height="89" style="display: inline;"><h3  json="el[].titre"   >Michel : « Parfois, l'équipe est suicidaire »</h3>
+</a>
+<a href="/Football/Article/Doria-nbsp-je-n-ai-rien-a-prouver-a-personne/57838"  json="el[].url;el[].sport"   class="Football"><div class="les-blocs">
+<span  json="el[].surtitre"   >Football</span></div>
+<img class="lazy"  json="el[].image"   src="http://medias.lequipe.fr/img-paywall-jpg/matheus-doria-au-marquage-de-l-attaquant-s-stien-haller-auteur-du-deuxi-but-de-la-victoire-fra/1500000000607252/0-200-145-70/d2c36.jpg" data-original="http://medias.lequipe.fr/img-paywall-jpg/matheus-doria-au-marquage-de-l-attaquant-s-stien-haller-auteur-du-deuxi-but-de-la-victoire-fra/1500000000607252/0-200-145-70/d2c36.jpg" width="150" height="89" style="display: inline;"><h3  json="el[].titre"   >Doria : « Je n'ai rien à prouver, à personne »</h3>
+</a></li><li class="wrapPetit">
+<a href="/Football/Article/Psg-nbsp-une-treve-quelle-treve-nbsp/57839"  json="el[].url;el[].sport"   class="Football"><div class="les-blocs">
+<span  json="el[].surtitre"   >Football</span></div>
+<img class="lazy"  json="el[].image"   src="http://medias.lequipe.fr/img-paywall-jpg/thiago-silva-s-applique-entra-ment-devant-thiago-motta-lavezzi-et-pastore-de-son-propre-aveu/1500000000607253/0-200-145-70/52b0c.jpg" data-original="http://medias.lequipe.fr/img-paywall-jpg/thiago-silva-s-applique-entra-ment-devant-thiago-motta-lavezzi-et-pastore-de-son-propre-aveu/1500000000607253/0-200-145-70/52b0c.jpg" width="150" height="89" style="display: inline;"><h3  json="el[].titre"   >PSG : Une trêve, quelle trêve  ?</h3>
+</a>
+<a href="/Football/Article/Ndoye-le-tard-systeme/57844"  json="el[].url;el[].sport"   class="Football"><div class="les-blocs">
+<span  json="el[].surtitre"   >Football</span></div>
+<img class="lazy"  json="el[].image"   src="http://medias.lequipe.fr/img-paywall-jpg/pour-ses-d-ts-en-l-1-l-angevin-cheikh-ndoye-prend-le-meilleur-sur-le-d-nseur-h-ultais-daniel/1500000000607255/0-200-145-70/67591.jpg" data-original="http://medias.lequipe.fr/img-paywall-jpg/pour-ses-d-ts-en-l-1-l-angevin-cheikh-ndoye-prend-le-meilleur-sur-le-d-nseur-h-ultais-daniel/1500000000607255/0-200-145-70/67591.jpg" width="150" height="89" style="display: inline;"><h3  json="el[].titre"   >Ndoye, le « tard système »</h3>
+</a>
+<a href="/Football/Article/Romeyer-nbsp-nbsp-le-club-est-redevenu-tres-attractif-nbsp/57846"  json="el[].url;el[].sport"   class="Football"><div class="les-blocs">
+<span  json="el[].surtitre"   >Football</span></div>
+<img class="lazy"  json="el[].image"   src="http://medias.lequipe.fr/img-paywall-jpg/roland-romeyer-soixante-dix-ans-a-d-t-hez-les-verts-en-prenant-la-direction-de-l-ipe-r-rv/1500000000607257/0-200-145-70/806f6.jpg" data-original="http://medias.lequipe.fr/img-paywall-jpg/roland-romeyer-soixante-dix-ans-a-d-t-hez-les-verts-en-prenant-la-direction-de-l-ipe-r-rv/1500000000607257/0-200-145-70/806f6.jpg" width="150" height="89" style="display: inline;"><h3  json="el[].titre"   >Romeyer : « Le club est redevenu très attractif »</h3>
+</a></li><li class="wrapPetit">
+<a href="/Football/Article/Riga-la-mauvaise-histoire-belge/57849"  json="el[].url;el[].sport"   class="Football"><div class="les-blocs">
+<span  json="el[].surtitre"   >Football</span></div>
+<img class="lazy"  json="el[].image"   src="http://medias.lequipe.fr/img-paywall-jpg/jos-iga-lors-de-la-r-ption-par-le-fc-metz-de-l-ian-tg-2-1-photo-fr-ric-porcu-l-uipe/1500000000607259/0-200-145-70/e6eb4.jpg" data-original="http://medias.lequipe.fr/img-paywall-jpg/jos-iga-lors-de-la-r-ption-par-le-fc-metz-de-l-ian-tg-2-1-photo-fr-ric-porcu-l-uipe/1500000000607259/0-200-145-70/e6eb4.jpg" width="150" height="89" style="display: inline;"><h3  json="el[].titre"   >Riga, la mauvaise histoire belge</h3>
+</a>
+<a href="/Basket/Article/Montpellier-terre-de-conquete/57858"  json="el[].url;el[].sport"   class="Basket"><div class="les-blocs">
+<span  json="el[].surtitre"   >Basket</span></div>
+<img class="lazy"  json="el[].image"   src="http://medias.lequipe.fr/img-paywall-jpg/a-montpellier-les-supporters-fran-s-r-ndent-pr-nt-pendant-ce-premier-tour-photo-richard-mar/1500000000607263/0-200-145-70/19112.jpg" data-original="http://medias.lequipe.fr/img-paywall-jpg/a-montpellier-les-supporters-fran-s-r-ndent-pr-nt-pendant-ce-premier-tour-photo-richard-mar/1500000000607263/0-200-145-70/19112.jpg" width="150" height="89" style="display: inline;"><h3  json="el[].titre"   >Montpellier, terre de conquête</h3>
+</a>
+<a href="/Basket/Article/A-la-chasse-au-casspi/57860"  json="el[].url;el[].sport"   class="Basket"><div class="les-blocs">
+<span  json="el[].surtitre"   >Basket</span></div>
+<img class="lazy"  json="el[].image"   src="http://medias.lequipe.fr/img-paywall-jpg/l-isra-en-omri-casspi-tente-de-se-d-ire-du-marquage-du-finlandais-erik-murphy-photo-richard-ma/1500000000607264/0-200-145-70/a80a5.jpg" data-original="http://medias.lequipe.fr/img-paywall-jpg/l-isra-en-omri-casspi-tente-de-se-d-ire-du-marquage-du-finlandais-erik-murphy-photo-richard-ma/1500000000607264/0-200-145-70/a80a5.jpg" width="150" height="89" style="display: inline;"><h3  json="el[].titre"   >À la chasse au Casspi</h3>
+</a></li></ul></div>
+</article><p class="txtr"><a href="/premium/"><span class=""></span>Voir tous les articles premium</a></p></div><div class="Dossier Football clearfix" TYPE="DOSSIER" rub="Football" sport="36" data-vr-zone="Dossier-Football">
+<a href="/Football/Ligue-1/" class="LienTouteActu"    >TOUTE L'ACTU DE LA L1</a><div class="les-blocs">
+<span class="lespor-t"    >FOOT</span>
+<span class="letitr-e" json="titre[].texte"  >Ligue 1</span><span class="letitr-e" json="titre[].texte"  >5e journée</span></div><div class="DosInside colsort"><div class="Football WithImage Coleader BigImage    clearfix" rub="Football" sport="36" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="letitr-e" json="surtitre[].texte"  >LYON</span></div>
+<a href="/Football/Actualites/Hubert-fournier-lyon-la-meilleure-equipe-contre-lille/589209" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/fournier-hubert/1500000000557368/0:0,1884:1366-300-218-75/2cc39.jpg" src="http://static.lequipe.fr/v6/img/png_300-218.png" alt="«La meilleure équipe contre Lille»" width="300" height="218"     taille="1">
+</a><div class="me-dia video" icon="video"    ></div></div><div class="ZoneEdito"><h2><a href="/Football/Actualites/Hubert-fournier-lyon-la-meilleure-equipe-contre-lille/589209"     infog="false" onglet="0"   >«La meilleure équipe contre Lille»</a></h2><p    >L'entraîneur de Lyon, Hubert Fournier, a donné des nouvelles de Nabil Fekir et d'Alexandre Lacazette, ce jeudi en conférence de presse. Si l'OL a toujours des problèmes d'effectif, il fera avec face à Lille, samedi (17h00). <span>105</span></p></div></div><ul class="UnePlus"><li><a href="/Football/ligue-1-resultats.html" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Calendrier/Résultats</a></li><li><a href="/Football/ligue-1-classement.html" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Classement</a></li></ul></div><div class="Football WithImage Coleader FullImage    clearfix" rub="Football" sport="36" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="letitr-e" json="surtitre[].texte"  >PSG</span></div>
+<a href="/Football/Actualites/Laurent-blanc-psg-ibra-sera-en-forme-pour-malmo/589286" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/blanc-laurent/1500000000607398/140:88,1826:936-640-322-75/e7823.jpg" src="http://static.lequipe.fr/v6/img/png_640-322.png" alt="«Ibra sera en forme pour Malmö»" width="640" height="322"     taille="2">
+</a><div class="me-dia video" icon="video"    ></div></div><div class="ZoneEdito"><h2><a href="/Football/Actualites/Laurent-blanc-psg-ibra-sera-en-forme-pour-malmo/589286"     infog="false" onglet="0"   >«Ibra sera en forme pour Malmö»</a></h2><p    >L'entraîneur parisien Laurent Blanc a annoncé le forfait de Zlatan Ibrahimovic pour la réception de Bordeaux, vendredi (20h30). Mais il a assuré que le Suédois serait prêt pour la Ligue des champions contre Malmö, mardi soir. <span>86</span></p></div></div><ul class="UnePlus"><li class="premium"><a title="article issu du Quotidien" href="/Football/Article/Psg-nbsp-une-treve-quelle-treve-nbsp/57839?xtatc=INT-21-[Psg-nbsp-une-treve-quelle-treve-nbsp]" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Une trêve, quelle trêve?<span></span></a></li><li><a href="/Football/Actualites/-plus-de-douleur-pour-zlatan-ibrahimovic-psg/589170" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">«Plus de douleur» pour Zlatan</a></li><li><a href="/Football/ligue-1-resultats.html" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">La 5e journée</a></li><li><a href="/Football/ligue-1-classement.html" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Le classement</a></li></ul></div><div class="Coleader WithImage SurUneLigne clearfix" type="TRICOL"><div class="ZoneClick" TYPE="MINICOL" data-vr-contentbox=""><div>
+<a href="/Football/Article/Michel-nbsp-parfois-l-equipe-est-suicidaire/57832?xtatc=INT-21-[Michel-nbsp-parfois-l-equipe-est-suicidaire]"><img class="lazy" data-original="http://medias.lequipe.fr/img-paywall-jpg/michel-a-une-id-de-plus-en-plus-pr-se-de-la-fa-dont-il-veut-faire-jouer-l-om-photo-st-ane/1500000000607250/0-200-145-70/c54ea.jpg" src="http://www.lequipe.fr/v6/img/png_200-145.png" alt="Michel: «Parfois, l'équipe est suicidaire»" width="190" height="138"     ></a><div class="les-blocs">
+<span class="letitr-e"    >Marseille</span></div></div><div class="ZoneEdito"><h2>
+<a title="article issu du Quotidien" href="/Football/Article/Michel-nbsp-parfois-l-equipe-est-suicidaire/57832?xtatc=INT-21-[Michel-nbsp-parfois-l-equipe-est-suicidaire]"    >Michel: «Parfois, l'équipe est suicidaire»</a>
+<span class="iconPremium" icon="iconPremium"    >&nbsp;</span></h2></div></div><div class="ZoneClick" TYPE="MINICOL" data-vr-contentbox=""><div>
+<a href="/Football/Actualites/Retour-d-alexandre-lacazette-lyon-contre-lille/589204"><img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/lacazette-alexandre/1500000000598663/0-200-145-70/96cad.jpg" src="http://www.lequipe.fr/v6/img/png_200-145.png" alt="Lacazette de retour" width="190" height="138"     ></a><div class="les-blocs">
+<span class="letitr-e"    >OL</span></div></div><div class="ZoneEdito"><h2>
+<a href="/Football/Actualites/Retour-d-alexandre-lacazette-lyon-contre-lille/589204"    >Lacazette de retour</a></h2></div></div><div class="ZoneClick" TYPE="MINICOL" data-vr-contentbox=""><div>
+<a href="/Football/Article/Romeyer-nbsp-nbsp-le-club-est-redevenu-tres-attractif-nbsp/57846?xtatc=INT-21-[Romeyer-nbsp-nbsp-le-club-est-redevenu-tres-attractif-nbsp]"><img class="lazy" data-original="http://medias.lequipe.fr/img-paywall-jpg/roland-romeyer-soixante-dix-ans-a-d-t-hez-les-verts-en-prenant-la-direction-de-l-ipe-r-rv/1500000000607257/0-200-145-70/806f6.jpg" src="http://www.lequipe.fr/v6/img/png_200-145.png" alt="Romeyer : «Le club est redevenu très attractif»" width="190" height="138"     ></a><div class="les-blocs">
+<span class="letitr-e"    >ASSE</span></div></div><div class="ZoneEdito"><h2>
+<a title="article issu du Quotidien" href="/Football/Article/Romeyer-nbsp-nbsp-le-club-est-redevenu-tres-attractif-nbsp/57846?xtatc=INT-21-[Romeyer-nbsp-nbsp-le-club-est-redevenu-tres-attractif-nbsp]"    >Romeyer : «Le club est redevenu très attractif»</a>
+<span class="iconPremium" icon="iconPremium"    >&nbsp;</span></h2></div></div></div><div id="question-du-jour" class="clearfix" type="QJOUR" data-vr-zone="Question"><div       class="hiddenn"></div>
+    <a href="/qdj/3843" class="voirTous">VOIR LES RÉSULTATS</a>    <span class="rond Football"><b></b></span>    <div class="questdujour" data-vr-contentbox="">        <h3>LA QUESTION DU JOUR</h3>        <div class="question">Le système de jeu prôné par Michel permettra-t-il à l'OM de rejouer les premiers rôles en Ligue 1 ?</div>         <form>          <input name="sondquot" type="radio" onclick="qdjVoteHome('3843','O')" id="jqourrep1">&nbsp;<label for="jqourrep1">Oui</label>           <input name="sondquot" type="radio" onclick="qdjVoteHome('3843','N')" id="jqourrep2">&nbsp;<label for="jqourrep2">Non</label>         <input name="sondquot" type="radio" onclick="qdjVoteHome('3843','X')" id="jqourrep3">&nbsp;<label for="jqourrep3">Ne se prononce pas</label>       </form>     </div></div></div></div>
+<div class="block pb_646">
+    <div id="Ads_646" class="ads">
+		<script>
+        //sas_manager.render(646);
+        if (typeof Ads != "undefined"){Ads.display(sas_pageid, "646", sas_target)}
+        </script>
+    </div>
+</div><div class="Dossier Tennis clearfix" TYPE="DOSSIER" rub="Tennis" sport="39" data-vr-zone="Dossier-Tennis">
+<a href="/Tennis/" class="LienTouteActu"    >TOUTE L'ACTUALITE TENNIS</a><div class="les-blocs">
+<span class="lespor-t"    >Tennis</span>
+<span class="letitr-e" json="titre[].texte"  >US Open</span></div><div class="DosInside colsort"><div class="Tennis WithImage Coleader FullImage    clearfix" rub="Tennis" sport="39" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="letitr-e" json="surtitre[].texte"  >DOUBLE HOMMES</span></div>
+<a href="/Tennis/Actualites/Us-open-nicolas-mahut-on-a-fait-le-bon-choix/589387" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/mahut-herbert/1500000000607475/140:140,1826:989-640-322-75/c3fd8.jpg" src="http://static.lequipe.fr/v6/img/png_640-322.png" alt="Mahut: «Plus sereins qu'en Australie»" width="640" height="322"     taille="2">
+</a></div><div class="ZoneEdito"><h2><a href="/Tennis/Actualites/Us-open-nicolas-mahut-on-a-fait-le-bon-choix/589387"     infog="false" onglet="0"   >Mahut: «Plus sereins qu'en Australie»</a></h2><p    >Huit mois après s'être inclinés en finale de l'Open d'Australie, Nicolas Mahut et Pierre-Hugues Herbert auront une deuxième chance, à New York. «Là-bas, on jouait très bien mais on n’était peut-être pas prêts à aller au bout», estime l'Angevin. <span>12</span></p></div></div><ul class="UnePlus"><li><a href="/Tennis/Actualites/Us-open-nicolas-mahut-et-pierre-hugues-herbert-en-finale-du-double/589345" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Mahut et Herbert en finale</a></li><li><a href="/Tennis/DH_US.html" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Le tableau</a></li></ul></div><div class="Tennis WithImage Coleader BigImage    clearfix" rub="Tennis" sport="39" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="letitr-e" json="surtitre[].texte"  >FEMMES</span></div>
+<a href="/Tennis/Actualites/Toutes-les-demi-finales-vendredi/589362" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/serena-williams-of-the-u-s-follows-the-ball-with-her-eyes-after-returning-a-shot-to-madison-keys-of/1500000000606460/573:64,1647:843-300-218-75/34d8c.jpg" src="http://static.lequipe.fr/v6/img/png_300-218.png" alt="Les demi-finales reportées à vendredi" width="300" height="218"     taille="1">
+</a></div><div class="ZoneEdito"><h2><a href="/Tennis/Actualites/Toutes-les-demi-finales-vendredi/589362"     infog="false" onglet=""   >Les demi-finales reportées à vendredi</a></h2><p    >Les averses annoncées jeudi soir à New York ont contraint les organisateurs à chambouler leur programme. Les demi-finales femmes Serena Williams - Vinci et Halep - Pennetta auront lieu vendredi dès 17h00 (en France). Et les demi-finales hommes Djokovic - Cilic et Federer - Wawrinka sont décalées à 23h00. <span>13</span></p></div></div><ul class="UnePlus"><li><a href="/Tennis/SH_US.html" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Le tableau (H)</a></li><li><a href="/Tennis/SD_US.html" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Le tableau (F)</a></li></ul></div></div></div><div class="Football WithImage Coleader BigImage    clearfix" rub="Football" sport="36" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="lespor-t"    >FOOT</span>                                    <span class="letitr-e" json="surtitre[].texte"  >LIGUE 2</span><span class="letitr-e" json="surtitre[].texte"  >AUXERRE</span></div>
+<a href="/Football/Actualites/Dix-mois-de-suspension-pour-jean-luc-vannuchi-auxerre/589378" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/vannuchi-jean-luc/1500000000386954/102:0,1624:767-300-218-75/97df0.jpg" src="http://static.lequipe.fr/v6/img/png_300-218.png" alt="Dix mois pour Vannuchi!" width="300" height="218"     taille="1">
+</a></div><div class="ZoneEdito"><h2><a href="/Football/Actualites/Dix-mois-de-suspension-pour-jean-luc-vannuchi-auxerre/589378"     infog="false" onglet="0"   >Dix mois pour Vannuchi!</a></h2><p    >La commission de discipline de la LFP a suspendu 10 mois, dont «5 mois avec sursis de terrain», Jean-Luc Vannuchi, jeudi. L'entraîneur d'Auxerre comparaissait pour avoir violemment poussé une porte battante derrière laquelle se trouvait le quatrième arbitre. <span>57</span></p></div></div><ul class="UnePlus"></ul></div><div class="Dossier Basket clearfix" TYPE="DOSSIER" rub="Basket" sport="37" data-vr-zone="Dossier-Basket">
+<a href="/Basket/" class="LienTouteActu"    >TOUTE L'ACTUALITE BASKET</a><div class="les-blocs">
+<span class="lespor-t"    >Basket</span>
+<span class="letitr-e" json="titre[].texte"  >Euro</span><span class="letitr-e" json="titre[].texte"  >Premier tour</span></div><div class="DosInside colsort"><div class="Basket WithImage Coleader BigImage    clearfix" rub="Basket" sport="37" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="letitr-e" json="surtitre[].texte"  >GROUPE A</span></div>
+<a href="/Basket/Actualites/-on-a-tres-vite-compris/589384" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/rothbart-boris-kahudi-charles/1500000000607474/512:269,1249:805-300-218-75/277a7.jpg" src="http://static.lequipe.fr/v6/img/png_300-218.png" alt="Kahudi: «On a très vite compris...»" width="300" height="218"     taille="1">
+</a></div><div class="ZoneEdito"><h2><a href="/Basket/Actualites/-on-a-tres-vite-compris/589384"     infog="false" onglet="0"   >Kahudi: «On a très vite compris...»</a></h2><p    >Au sortir d'un match où Israël a reposé ses principaux joueurs, les Français ont vite laissé la victoire (86-61) de côté afin de se concentrer sur le huitième de finale où ils affronteront la Turquie, samedi à Lille. <span>0</span></p></div></div><ul class="UnePlus"></ul></div><div class="Basket Dossier statOfTheDay Coleader" type="STATJOUR" sport="37      " rub="Basket"><div class="head clearfix" ><div class="les-deux-blocs clearfix"><div class="les-blocs clearfix"><span class="lespor-t"    >Stat</span></div><div class="les-blocs second clearfix"><span class="letitr-e"     >du jour</span></div></div><div class="le-chiffre"><span     >50</span></div><div class="content-text"><p     >Le pourcentage de réussite à 3 points de l'équipe de France face à Israël en seconde période (soit 6/12). Pour un total de 8/20 sur le match.</p></div></div><div class="logo-action clearfix"     data-logo="0" ><style>.sponso-head-sh{display:none}
+                    .statOfTheDay.Basket .sponso-head-sh {display:block!important}
+                    .statOfTheDay.Basket .logo-action {text-align:right}
+                    .sponso-head-sh {font-size:11px;font-style: italic}
+                    .opta-logo {float:left;font-size:0}</style><a href="http://ww84.smartadserver.com/call/cliccommand/13934777/[timestamp]?" class="sponso-head-sh" target="_blank">
+<span>En partenariat avec</span>&nbsp;
+<img src="http://www.Lequipe.fr/v6/img/hs_logo_global_cmyk-2.png" alt="En partenariat avec Head & Shoulders" class="logoHS" />
+<img src="http://ww84.smartadserver.com/imp?imgid=13934777&tmstp=[timestamp]&tgt=[targeting]" style="display:none" />
+</a><div class="clear"></div></div></div><div class="Basket WithImage Coleader FullImage    clearfix" rub="Basket" sport="37" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="letitr-e" json="surtitre[].texte"  >GROUPE A</span></div>
+<a href="/Basket/Actualites/Boris-diaw-de-bon-augure-pour-la-suite/589389" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/diaw-boris-kadir-elishay/1500000000607479/0:549,1364:1237-640-322-75/8ca9e.jpg" src="http://static.lequipe.fr/v6/img/png_640-322.png" alt="Diaw: «De bon augure pour la suite»" width="640" height="322"     taille="2">
+</a></div><div class="ZoneEdito"><h2><a href="/Basket/Actualites/Boris-diaw-de-bon-augure-pour-la-suite/589389"     infog="false" onglet="0"   >Diaw: «De bon augure pour la suite»</a></h2><p    >S'il était conscient de l'aspect étrange du dernier match des Bleus, gagné jeudi face à Israël (86-61), le capitaine Boris Diaw voulait retenir qu'en équipe de France, «tout le monde peut apporter». <span>0</span></p></div></div><ul class="UnePlus"></ul></div><div class="Basket WithImage Coleader BigImage    clearfix" rub="Basket" sport="37" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="letitr-e" json="surtitre[].texte"  >GROUPE A</span></div>
+<a href="/Basket/Actualites/Collet-c-est-dommage/589390" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/fournier-evan-dawson-shawn/1500000000607480/699:155,1568:784-300-218-75/d7729.jpg" src="http://static.lequipe.fr/v6/img/png_300-218.png" alt="Collet: «C'est dommage»" width="300" height="218"     taille="1">
+</a></div><div class="ZoneEdito"><h2><a href="/Basket/Actualites/Collet-c-est-dommage/589390"     infog="false" onglet="0"   >Collet: «C'est dommage»</a></h2><p    >Vincent Collet n'a pas caché sa déception d'avoir vu l'équipe d'Israël jouer à moitié son dernier match. «Je n'ai pas de prise là-dessus», a regretté le sélectionneur, quand même satisfait qu'Evan Fournier ait «retrouvé de l’adresse». <span>2</span></p></div></div><ul class="UnePlus"></ul></div><div id="cal-euro-basket" class="clearfix Basket" type="CAL_EURO_BASKET" ><div       class="hiddenn"></div>
+
+<div class="blocProgrammeCM Basket">
+	<div class="les-blocs">
+        <span class="lespor-t">BASKET</span>
+		<span class="letitr-e">EURO 2015</span>
+		<span class="letitr-e">LE PROGRAMME</span>  
+    </div>
+	<div class="clear"></div>
+		 
+		<div class="jour nb_4" data-jour="jeudi 10 septembre" data-nbmatchs="4">
+							<div class="infos-match" data-idmatch="49412">
+					<div class="statut termine">terminé</div>
+					<div class="lieu">Berlin</div>
+                    
+                  
+                    
+	<a class="groupe" href="/Basket/BasketResultatGroupe1571.html">Gp. B</a>
+                    
+                    
+
+                    
+					<div class="clear"></div>
+					<a class="Match T" href="/Basket/match/49412">
+					<div class="match" style="position:relative">
+						<div class="infos-equipe" data-idequipe="5000000000000616">
+							<div class="drp-pays"><span class="drapeau SRB drapResDom">&nbsp;</span></div>
+							<div class="nom-pays ">
+	                            	                                SERBIE
+	                            							</div>
+							
+
+
+							
+
+
+
+
+							<div class="score-pays">
+								101							</div>
+						</div>
+						<div class="infos-equipe" data-idequipe="229">
+							<div class="drp-pays"><span class="drapeau ITA drapResExt">&nbsp;</span></div>
+							<div class="nom-pays  perdant"> 
+	                            	                                ITALIE
+	                            							</div>
+														<div class="score-pays">
+								82							</div>
+						</div>
+						<div class="clear"></div>
+													<div class="tv"><span>Canal + Sport</span></div>
+											</div>
+					</a>
+				</div>
+							<div class="infos-match" data-idmatch="49411">
+					<div class="statut termine">terminé</div>
+					<div class="lieu">Berlin</div>
+                    
+                  
+                    
+	<a class="groupe" href="/Basket/BasketResultatGroupe1571.html">Gp. B</a>
+                    
+                    
+
+                    
+					<div class="clear"></div>
+					<a class="Match T" href="/Basket/match/49411">
+					<div class="match" style="position:relative">
+						<div class="infos-equipe" data-idequipe="232">
+							<div class="drp-pays"><span class="drapeau ALL drapResDom">&nbsp;</span></div>
+							<div class="nom-pays  perdant">
+	                            	                                ALLEMAGNE
+	                            							</div>
+							
+
+
+							
+
+
+
+
+							<div class="score-pays">
+								76							</div>
+						</div>
+						<div class="infos-equipe" data-idequipe="223">
+							<div class="drp-pays"><span class="drapeau ESP drapResExt">&nbsp;</span></div>
+							<div class="nom-pays "> 
+	                            	                                ESPAGNE
+	                            							</div>
+														<div class="score-pays">
+								77							</div>
+						</div>
+						<div class="clear"></div>
+													<div class="tv"><span>Multisports1</span></div>
+											</div>
+					</a>
+				</div>
+							<div class="infos-match" data-idmatch="49441">
+					<div class="statut termine">terminé</div>
+					<div class="lieu">Riga</div>
+                    
+                  
+                    
+	<a class="groupe" href="/Basket/BasketResultatGroupe1573.html">Gp. D</a>
+                    
+                    
+
+                    
+					<div class="clear"></div>
+					<a class="Match T PROL" href="/Basket/match/49441">
+					<div class="match" style="position:relative">
+						<div class="infos-equipe" data-idequipe="230">
+							<div class="drp-pays"><span class="drapeau RTC drapResDom">&nbsp;</span></div>
+							<div class="nom-pays  perdant">
+	                            	                                REP.TCHEQUE
+	                            							</div>
+							
+
+
+							<span style="font-size:9px;position:absolute;right:5px;top:28px;background-color:#F5F7FE;padding:1px 2px">ap</span>
+
+
+
+
+							<div class="score-pays">
+								81							</div>
+						</div>
+						<div class="infos-equipe" data-idequipe="231">
+							<div class="drp-pays"><span class="drapeau LIT drapResExt">&nbsp;</span></div>
+							<div class="nom-pays "> 
+	                            	                                LITUANIE
+	                            							</div>
+														<div class="score-pays">
+								85							</div>
+						</div>
+						<div class="clear"></div>
+													<div class="tv"><span>Multisports1</span></div>
+											</div>
+					</a>
+				</div>
+							<div class="infos-match" data-idmatch="49396">
+					<div class="statut termine">terminé</div>
+					<div class="lieu">Montpellier</div>
+                    
+                  
+                    
+	<a class="groupe" href="/Basket/BasketResultatGroupe1570.html">Gp. A</a>
+                    
+                    
+
+                    
+					<div class="clear"></div>
+					<a class="Match T" href="/Basket/match/49396">
+					<div class="match" style="position:relative">
+						<div class="infos-equipe" data-idequipe="220">
+							<div class="drp-pays"><span class="drapeau ISR drapResDom">&nbsp;</span></div>
+							<div class="nom-pays  perdant">
+	                            	                                ISRAËL
+	                            							</div>
+							
+
+
+							
+
+
+
+
+							<div class="score-pays">
+								61							</div>
+						</div>
+						<div class="infos-equipe" data-idequipe="194">
+							<div class="drp-pays"><span class="drapeau FRA drapResExt">&nbsp;</span></div>
+							<div class="nom-pays "> 
+	                            	                                FRANCE
+	                            							</div>
+														<div class="score-pays">
+								86							</div>
+						</div>
+						<div class="clear"></div>
+													<div class="tv"><span>Canal + Sport</span></div>
+											</div>
+					</a>
+				</div>
+						<div class="clear"></div>	
+			<div class="bloc-bottom">
+				<div class="clear"></div>
+				<div class="nav-jour" precedent="1" suivant="1" base-url="/homes_65/Basket/Coupe-du-monde/includes/bloc_cal_cm_13" posJour="6">
+					<a class="precedent"><</a>
+                    <span>Jeudi 10 septembre</span>
+                    <a class="suivant">></a>
+				</div>
+				<div class="prog-complet">
+					<a href="/Basket/Euro/Saison-2015/calendrier-resultats.html"><span>VOIR LE PROGRAMME COMPLET</span></a>
+				</div>	
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="clear"></div>
+</div></div><div class="Coleader WithImage SurUneLigne clearfix" type="TRICOL"><div class="ZoneClick" TYPE="MINICOL" data-vr-contentbox=""><div>
+<a href="/Basket/Actualites/Pau-gasol-rend-hommage-a-dirk-nowitzki-elimine-de-l-euro/589376"><img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/dirk-nowitzki-deutschland-basketball-eurobasket-2015-gruppenphase-serbien-deutschland-68-66/1500000000607467/638:0,2048:1021-200-145-70/24d65.jpg" src="http://www.lequipe.fr/v6/img/png_200-145.png" alt="Pau Gasol rend hommage à Nowitzki" width="190" height="138"     ></a><div class="les-blocs">
+<span class="letitr-e"    >Groupe B</span></div></div><div class="ZoneEdito"><h2>
+<a href="/Basket/Actualites/Pau-gasol-rend-hommage-a-dirk-nowitzki-elimine-de-l-euro/589376"    >Pau Gasol rend hommage à Nowitzki</a></h2></div></div><div class="ZoneClick" TYPE="MINICOL" data-vr-contentbox=""><div>
+<a href="/Basket/Actualites/La-serbie-termine-en-tete/589273"><img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/v-l-dirk-nowitzki-heiko-schaffartzik-deutschland-zoran-erceg-basketball-eurobasket-2015-grupp/1500000000607390/957:0,2048:790-200-145-70/db931.jpg" src="http://www.lequipe.fr/v6/img/png_200-145.png" alt="La Serbie termine en tête" width="190" height="138"     ></a><div class="les-blocs">
+<span class="letitr-e"    >Groupe B</span></div></div><div class="ZoneEdito"><h2>
+<a href="/Basket/Actualites/La-serbie-termine-en-tete/589273"    >La Serbie termine en tête</a></h2></div></div><div class="ZoneClick" TYPE="MINICOL" data-vr-contentbox=""><div>
+<a href="/Basket/Actualites/La-lituanie-finit-en-tete/589373"><img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/czech-vojtech-hruban-r-vies-for-the-ball-with-lithuania-s-arturas-milaknis-during-the-eurobasket-2/1500000000607469/345:0,2048:1235-200-145-70/c0ab4.jpg" src="http://www.lequipe.fr/v6/img/png_200-145.png" alt="La Lituanie accrochée" width="190" height="138"     ></a><div class="les-blocs">
+<span class="letitr-e"    >Groupe D</span></div></div><div class="ZoneEdito"><h2>
+<a href="/Basket/Actualites/La-lituanie-finit-en-tete/589373"    >La Lituanie accrochée</a></h2></div></div></div></div></div><div class="Cyclisme WithImage Coleader BigImage    clearfix" rub="Cyclisme" sport="38" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="lespor-t"    >CYCLISME</span>                                    <span class="letitr-e" json="surtitre[].texte"  >VUELTA</span><span class="letitr-e" json="surtitre[].texte"  >18E ÉTAPE</span></div><div taille="1" sig="1500000000607434"  dmid="k2Fa4Fdje89TLscYhF0" login="" video="1"      id="flash_kplayer_1500000000607434" class="kplayer5 flash_kplayer" name="flash_kplayer" data-sig="1500000000607434" data-playerkey="b7a2e6ce1157" style="width:300px;height:218px">
+<iframe width="100%" height="100%" frameborder="0" scrolling="no" src="//www.dailymotion.com/embed/video/k2Fa4Fdje89TLscYhF0?autoplay=false" allowfullscreen=""></iframe></div></div><div class="ZoneEdito"><h2><a href="/Cyclisme-sur-route/Actualites/Nicolas-roche-a-remporte-la-18e-etape-de-la-vuelta-dumoulin-ne-perd-pas-de-temps-sur-aru/589298"     infog="false" onglet="0"   >Roche brille, Dumoulin résiste</a></h2><p    >L'Irlandais Nicolas Roche (Sky) a devancé au sprint l'Espagnol Haimar Zubeldia (Trek), son compagnon d'échappée, jeudi. Le Néerlandais Tom Dumoulin (Giant-Alpecin), attaqué par l'Italien Fabio Aru (Astana), a bien résisté et conserve son maillot rouge. <span>75</span></p></div></div><ul class="UnePlus"><li><a href="/Cyclisme-sur-route/Actualites/Nicolas-roche-pas-de-temps-pour-tergiverser/589354" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Roche: «Pas de temps pour tergiverser»</a></li><li><a href="/Cyclisme/course/12220/roa-riaza" json="lien[].href;lien[].texte;lien[].onglet"   onglet="1" target="_blank">Le film de l'étape</a></li><li><a href="/Cyclisme/CyclismeResultat3263_12220_ETAPE.html" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Le classement de l'étape</a></li><li><a href="/Cyclisme/CyclismeResultat3263_0_GENERAL.html" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Le classement général</a></li></ul></div><div class="Rugby WithImage Coleader FullImage    clearfix" rub="Rugby" sport="101" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="lespor-t"    >RUGBY</span>                                    <span class="letitr-e" json="surtitre[].texte"  >COUPE DU MONDE</span><span class="letitr-e" json="surtitre[].texte"  >XV DE FRANCE</span></div>
+<a href="/Rugby/Actualites/Philippe-saint-andre-les-joueurs-sont-prets/589265" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/saint-andre-philippe/1500000000607375/0-640-322-75/f2476.jpg" src="http://static.lequipe.fr/v6/img/png_640-322.png" alt="PSA: «Pour marquer l'histoire»" width="640" height="322"     taille="2">
+</a></div><div class="ZoneEdito"><h2><a href="/Rugby/Actualites/Philippe-saint-andre-les-joueurs-sont-prets/589265"     infog="false" onglet="0"   >PSA: «Pour marquer l'histoire»</a></h2><p    >Quarante-huit heures avant le départ des Bleus en Angleterre, où la Coupe du monde démarre le 18 septembre, Philippe Saint-André dévoile ses ambitions: «On y va avec une férocité énorme d’être compétitif et l’envie de ne rentrer en France qu’en novembre.» <span>101</span></p></div></div><ul class="UnePlus"><li><a href="/Rugby/Actualites/La-cotation-des-nations-apres-les-matches-amicaux/588815" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">La cotation des nations</a></li><li><a href="/special/Rugby/guide/coupe-du-monde/england-2015/" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Le guide du Mondial</a></li></ul></div>
+<div class="block pb_17532">
+    <div id="Ads_17532" class="ads">
+		<script>
+        //sas_manager.render(17532);
+        if (typeof Ads != "undefined"){Ads.display(sas_pageid, "17532", sas_target)}
+        </script>
+    </div>
+</div><div id="anchor_actuvideo" class="videos actus inc-orange_big clearfix" TYPE="ACTUVIDEO" rub="" sport="" data-vr-zone="ListeVideos"><div class="actuinside"><h2><a>L'actu <span class="" json='titre' jquery='text' >en vidéo</span></a></h2><div class="list"     editmode="1" style="overflow: hidden"><ul class="clearfix"><li class="video"><div class="big Football" sig="1500000000607382" dmid="x3634qw" id_daily="x3634qw" id_media="1500000000607382"  sport="Football" titre="Foot - L1 - PSG : Blanc «Je n?ai pas d?inquiétude concernant Zlatan»"  json="videos[].sig;videos[].dmid;videos[].id_daily;videos[].id_media;videos[].sport;videos[].titre"   data-vr-contentbox="">
+<a href="http://video.lequipe.fr/video/x3634qw"><div class="les-blocs"><span class="lespor-t">Foot - L1 - PSG </span></div>
+<img src="http://medias.lequipe.fr/img-video-cover/1500000000607382/393/222" width="393" height="222" alt=" Blanc «Je n?ai pas d?inquiétude concernant Zlatan»">
+<span class="picto"></span>
+<span class="title" > Blanc «Je n?ai pas d?inquiétude concernant Zlatan»</span>
+</a></div><div class="small Cyclisme" sig="1500000000607434" dmid="k2Fa4Fdje89TLscYhF0" id_daily="x364g0i" id_media="1500000000607434"  sport="Cyclisme" titre="Cyclisme - Vuelta : Le résumé de la dix-huitième étape"  json="videos[].sig;videos[].dmid;videos[].id_daily;videos[].id_media;videos[].sport;videos[].titre"   data-vr-contentbox="">
+<a href="http://video.lequipe.fr/video/x364g0i"><div class="les-blocs"><span class="lespor-t">Cyclisme - Vuelta </span></div>
+<img src="http://medias.lequipe.fr/img-video-cover/1500000000607434/186/105" width="186" height="105" alt=" Le résumé de la dix-huitième étape">
+<span class="picto"></span>
+<span class="title" > Le résumé de la dix-huitième étape</span>
+</a></div><div class="small Golf" sig="1500000000607440" dmid="x364nqp" id_daily="x364nqp" id_media="1500000000607440"  sport="Golf" titre="Golf - Evian : Nocera limite les dégats"  json="videos[].sig;videos[].dmid;videos[].id_daily;videos[].id_media;videos[].sport;videos[].titre"   data-vr-contentbox="">
+<a href="http://video.lequipe.fr/video/x364nqp"><div class="les-blocs"><span class="lespor-t">Golf - Evian </span></div>
+<img src="http://medias.lequipe.fr/img-video-cover/1500000000607440/186/105" width="186" height="105" alt=" Nocera limite les dégats">
+<span class="picto"></span>
+<span class="title" > Nocera limite les dégats</span>
+</a></div></li><li class="video"><div class="big Football" sig="1500000000607349" dmid="x362c6z" id_daily="x362c6z" id_media="1500000000607349"  sport="Football" titre="Foot - L1 - OL : Fournier donne des nouvelles de Fekir et Lacazette"  json="videos[].sig;videos[].dmid;videos[].id_daily;videos[].id_media;videos[].sport;videos[].titre"   data-vr-contentbox="">
+<a href="http://video.lequipe.fr/video/x362c6z"><div class="les-blocs"><span class="lespor-t">Foot - L1 - OL </span></div>
+<img src="http://medias.lequipe.fr/img-video-cover/1500000000607349/393/222" width="393" height="222" alt=" Fournier donne des nouvelles de Fekir et Lacazette">
+<span class="picto"></span>
+<span class="title" > Fournier donne des nouvelles de Fekir et Lacazette</span>
+</a></div><div class="small Auto-moto" sig="1500000000607446" dmid="x364v7l" id_daily="x364v7l" id_media="1500000000607446"  sport="Auto-moto" titre="Rallye - WRC - Australie : Stéphane Lefebvre «sans trop de pression»"  json="videos[].sig;videos[].dmid;videos[].id_daily;videos[].id_media;videos[].sport;videos[].titre"   data-vr-contentbox="">
+<a href="http://video.lequipe.fr/video/x364v7l"><div class="les-blocs"><span class="lespor-t">Rallye - WRC - Australie </span></div>
+<img src="http://medias.lequipe.fr/img-video-cover/1500000000607446/186/105" width="186" height="105" alt=" Stéphane Lefebvre «sans trop de pression»">
+<span class="picto"></span>
+<span class="title" > Stéphane Lefebvre «sans trop de pression»</span>
+</a></div><div class="small Handball" sig="1500000000607339" dmid="x361kww" id_daily="x361kww" id_media="1500000000607339"  sport="Handball" titre="Handball - D1 : Un PSG très ambitieux"  json="videos[].sig;videos[].dmid;videos[].id_daily;videos[].id_media;videos[].sport;videos[].titre"   data-vr-contentbox="">
+<a href="http://video.lequipe.fr/video/x361kww"><div class="les-blocs"><span class="lespor-t">Handball - D1 </span></div>
+<img src="http://medias.lequipe.fr/img-video-cover/1500000000607339/186/105" width="186" height="105" alt=" Un PSG très ambitieux">
+<span class="picto"></span>
+<span class="title" > Un PSG très ambitieux</span>
+</a></div></li><li class="video"><div class="big Rugby" sig="1500000000607329" dmid="x36122l" id_daily="x36122l" id_media="1500000000607329"  sport="Rugby" titre="Rugby - Top 14 - RCT : Toulon reste serein"  json="videos[].sig;videos[].dmid;videos[].id_daily;videos[].id_media;videos[].sport;videos[].titre"   data-vr-contentbox="">
+<a href="http://video.lequipe.fr/video/x36122l"><div class="les-blocs"><span class="lespor-t">Rugby - Top 14 - RCT </span></div>
+<img src="http://medias.lequipe.fr/img-video-cover/1500000000607329/393/222" width="393" height="222" alt=" Toulon reste serein">
+<span class="picto"></span>
+<span class="title" > Toulon reste serein</span>
+</a></div><div class="small Basket" sig="1500000000607247" dmid="k64rb0zbDOUTSEcWRRN" id_daily="x35x7m3" id_media="1500000000607247"  sport="Basket" titre="Basket - Euro (M) - Bleus : La France reste invaincue"  json="videos[].sig;videos[].dmid;videos[].id_daily;videos[].id_media;videos[].sport;videos[].titre"   data-vr-contentbox="">
+<a href="http://video.lequipe.fr/video/x35x7m3"><div class="les-blocs"><span class="lespor-t">Basket - Euro (M) - Bleus </span></div>
+<img src="http://medias.lequipe.fr/img-video-cover/1500000000607247/186/105" width="186" height="105" alt=" La France reste invaincue">
+<span class="picto"></span>
+<span class="title" > La France reste invaincue</span>
+</a></div></li></ul><div class="pagination">
+<a href="#" title="Précédent" class="liprev disabled">Prec.</a><div class="num">
+<span class="page">1</span>/<span class="nbpage">3</span></div>
+<a href="#" title="Suivant" class="linext">Suiv.</a></div></div>
+		    <a href="http://video.lequipe.fr"  class="LienTouteActu ">Toutes les videos</a></div></div><div class="Rugby WithImage Coleader BigImage    clearfix" rub="Rugby" sport="101" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="lespor-t"    >RUGBY</span>                                    <span class="letitr-e" json="surtitre[].texte"  >PRO D2</span><span class="letitr-e" json="surtitre[].texte"  >BIARRITZ</span></div>
+<a href="/Rugby/Actualites/O-sullivan-et-chadebech-vers-la-sortie/589352" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/chadebech-pierre-august-benoit-o-sullivan-eddie/1500000000607451/237:126,1791:1252-300-218-75/9d43c.jpg" src="http://static.lequipe.fr/v6/img/png_300-218.png" alt="O'Sullivan et Chadebech vers la sortie" width="300" height="218"     taille="1">
+</a></div><div class="ZoneEdito">
+<span class="statut_groupe TRF_EQUIPE"     pastille="TRF_EQUIPE">INFO L'&Eacute;QUIPE</span><h2><a href="/Rugby/Actualites/O-sullivan-et-chadebech-vers-la-sortie/589352"     infog="false" onglet="0"   >O'Sullivan et Chadebech vers la sortie</a></h2><p    >Les deux entraineurs de Biarritz, Eddie O'Sullivan et Pierre Chadebech, ne sont pas à Aix-en-Provence où le BO joue vendredi soir lors de la 4e journée de Pro D2... <span>8</span></p></div></div><ul class="UnePlus"><li><a href="/Rugby/RES_ELIT2.html" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">La 4e journée</a></li><li><a href="/Rugby/CLA_ELIT2.html" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Le classement</a></li></ul></div><div class="Cyclisme WithImage Coleader BigImage    clearfix" rub="Cyclisme" sport="38" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="lespor-t"    >CYCLISME</span>                                    <span class="letitr-e" json="surtitre[].texte"  >EUROPCAR</span></div>
+<a href="/Cyclisme-sur-route/Actualites/Thomas-voeckler-on-aura-une-equipe-l-an-prochain/589363" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/voeckler-thomas-fra/1500000000607458/0-300-218-75/9f458.jpg" src="http://static.lequipe.fr/v6/img/png_300-218.png" alt="Voeckler: «On aura une équipe l'an prochain»" width="300" height="218"     taille="1">
+</a></div><div class="ZoneEdito"><h2><a href="/Cyclisme-sur-route/Actualites/Thomas-voeckler-on-aura-une-equipe-l-an-prochain/589363"     infog="false" onglet="0"   >Voeckler: «On aura une équipe l'an prochain»</a></h2><p    >L'inquiétude est passée, Jean-René Bernaudeau a trouvé un sponsor pour reprendre la formation Europcar. Thomas Voeckler confirme que la signature du contrat est imminente. Même si «le budget sera moins important». <span>22</span></p></div></div><ul class="UnePlus"></ul></div><div class="Ski-Glace WithImage BlocDiaporama Big-Diapo    clearfix" rub="Ski-Glace" sport="63" type="EDITOSPORT" data-vr-contentbox=""><div class="clearfix"><h2><a href="/Ski/Diaporama/Raich-une-sacree-carriere/2980"     infog="false" onglet="0"  >Raich, une sacrée carrière</a></h2><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div  class="EditoLeader"><div class="les-blocs">
+<span class="lespor-t"    >SKI ALPIN</span></div>
+<a href="/Ski/Diaporama/Raich-une-sacree-carriere/2980" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/raich-benjamin/1500000000607424/0:161,2048:1194-640-322-75/61d72.jpg" src="http://static.lequipe.fr/v6/img/png_640-322.png" alt="Raich, une sacrée carrière" width="640" height="322"     taille="2">
+</a><div class="me-dia diapo" icon="photo"    ></div></div><p    >L'Autrichien Benni Raich, sixième skieur de l'histoire en terme de nombre de succès en Coupe du monde, a annoncé sa retraite après 18 saisons au plus haut niveau. L'occasion de revenir sur une carrière remplie de titres mondiaux.</p></div><ul class="UnePlus"><li><a href="/Ski/Actualites/Fin-de-carriere-pour-le-skieur-benjamin-raich/589240" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Fin de carrière pour Beni Raich</a></li></ul></div></div><div class="Dossier Golf clearfix" TYPE="DOSSIER" rub="Golf" sport="9" data-vr-zone="Dossier-Golf">
+<a href="/Golf/" class="LienTouteActu"    >TOUTE L'ACTU DU GOLF</a><div class="les-blocs">
+<span class="lespor-t"    >Golf</span>
+<span class="letitr-e" json="titre[].texte"  >Evian Championship</span></div><div class="DosInside colsort"><div class="Golf WithImage Coleader FullImage    clearfix" rub="Golf" sport="9" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="letitr-e" json="surtitre[].texte"  >1ER TOUR</span></div>
+<a href="/Golf/Actualites/Thompson-et-lee-en-tete/589327" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/jun-14-2015-harrison-ny-usa-lexi-thompson-measures-her-putt-on-the-second-green-during-the-fina/1500000000595164/0:82,2048:1115-640-322-75/e9ee3.jpg" src="http://static.lequipe.fr/v6/img/png_640-322.png" alt="Thompson et Lee en tête" width="640" height="322"     taille="2">
+</a></div><div class="ZoneEdito"><h2><a href="/Golf/Actualites/Thompson-et-lee-en-tete/589327"     infog="false" onglet="0"   >Thompson et Lee en tête</a></h2><p    >Lexi Thompson et Mi Hyang Lee sont en tête de l'Evian Championship à l'issue du premier tour. À -5 les deux femmes devancent 3 joueuses d'une longueur. Karine Icher, première Française, est 26e. <span>2</span></p></div></div><ul class="UnePlus"></ul></div><div class="Golf WithImage Coleader BigImage    clearfix" rub="Golf" sport="9" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="letitr-e" json="surtitre[].texte"  >MAG</span></div>
+<a href="/Golf/Article/Bain-de-jouvence/57868?xtatc=INT-21-[Bain-de-jouvence]" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-paywall-jpg/c-ne-boutier-avait-su-bonifier-sa-wild-card-l-an-dernier-en-passant-le-cut-photo-alain-grosclaud/1500000000607272/0-300-218-75/cc17d.jpg" src="http://static.lequipe.fr/v6/img/png_300-218.png" alt="Bain de jouvence" width="300" height="218"     taille="1">
+</a></div><div class="ZoneEdito"><h2><a title="article issu du Quotidien" href="/Golf/Article/Bain-de-jouvence/57868?xtatc=INT-21-[Bain-de-jouvence]"     infog="false" onglet="0"   >Bain de jouvence<span class="iconPremium" icon="iconPremium"    ></span></a></h2><p    >Invitée à l'Évian Championship grâce à son titre au British Amateur, Céline Boutier est la jeune attraction française du Majeur alpin. Éclairage sur ce phénomène de vingt et un ans exilé aux États-Unis, qui passera pro en 2016.</p></div></div><ul class="UnePlus"></ul></div></div></div><div class="Handball WithImage Coleader BigImage    clearfix" rub="Handball" sport="6" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="lespor-t"    >HAND</span>                                    <span class="letitr-e" json="surtitre[].texte"  >D1 (H)</span><span class="letitr-e" json="surtitre[].texte"  >1RE JOURNÉE</span></div>
+<a href="/Handball/Actualites/Le-psg-bat-nimes-lors-de-la-premiere-journee-de-d1-36-32/589374" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/hallgrimsson-asgeir-orn-hansen-mikkel/1500000000607468/167:143,1568:1159-300-218-75/a7027.jpg" src="http://static.lequipe.fr/v6/img/png_300-218.png" alt="Hansen booste le PSG" width="300" height="218"     taille="1">
+</a></div><div class="ZoneEdito"><h2><a href="/Handball/Actualites/Le-psg-bat-nimes-lors-de-la-premiere-journee-de-d1-36-32/589374"     infog="false" onglet="0"   >Hansen booste le PSG</a></h2><p    >En marquant 14 buts face à Nîmes, pour le coup d'envoi du Championnat (36-32), Mikkel Hansen a compensé l'absence sur blessure de Nikola Karabatic et permis au PSG de s'imposer, jeudi. <span>5</span></p></div></div><ul class="UnePlus"><li><a href="/Handball/RES_HAND.html" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Calendrier/Résultats</a></li><li><a href="/Handball/Division-1-h/Compte-rendu/Paris-va-t-il-tout-ecraser/209" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Paris va-t-il tout écraser?</a></li></ul></div><div class="Football WithImage Coleader BigImage    clearfix" rub="Football" sport="36" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="lespor-t"    >FOOT</span>                                    <span class="letitr-e" json="surtitre[].texte"  >ECO</span></div>
+<a href="/Football/Article/Le-fergie-time-explique-par-l-economie/588992?xtatc=INT-21-[Le-fergie-time-explique-par-l-economie]" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/sous-les-ordres-de-sir-alex-ferguson-manchester-united-s-it-fait-une-habitude-de-gagner-des-matc/1500000000607126/0-300-218-75/9c6ee.jpg" src="http://static.lequipe.fr/v6/img/png_300-218.png" alt="Le «Fergie time» expliqué par l'économie" width="300" height="218"     taille="1">
+</a></div><div class="ZoneEdito"><h2><a title="article issu du Quotidien" href="/Football/Article/Le-fergie-time-explique-par-l-economie/588992?xtatc=INT-21-[Le-fergie-time-explique-par-l-economie]"     infog="false" onglet="0"   >Le «Fergie time» expliqué par l'économie<span class="iconPremium" icon="iconPremium"    ></span></a></h2><p    >Les théories économiques peuvent éclairer notre regard sur le foot, comme le raconte l'Espagnol Ignacio Palacios-Huerta, professeur à la prestigieuse London School of Economics et lauréat de nombreux prix. Son livre, L'Economie expliquée par le foot*, permet une analyse nouvelle du «Fergie Time» ou des résultats décevants du passage de la victoire à trois points.</p></div></div><ul class="UnePlus"></ul></div><div class="Aussi WithImage Coleader FullImage    clearfix" rub="Aussi" sport="14" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="lespor-t"    >FOOT US</span>                                    <span class="letitr-e" json="surtitre[].texte"  >NFL</span></div>
+<a href="/Football-americain/Actualites/Foot-us-saison-de-nfl-cinq-joueurs-en-question/589235" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/aug-29-2015-tampa-fl-usa-tampa-bay-buccaneers-quarterback-jameis-winston-3-drops-back-against/1500000000607347/56:47,2048:1050-640-322-75/fc47b.jpg" src="http://static.lequipe.fr/v6/img/png_640-322.png" alt="Cinq joueurs en question" width="640" height="322"     taille="2">
+</a></div><div class="ZoneEdito"><h2><a href="/Football-americain/Actualites/Foot-us-saison-de-nfl-cinq-joueurs-en-question/589235"     infog="false" onglet="0"   >Cinq joueurs en question</a></h2><p    >Parmi les 53 joueurs de chacune des 32 franchises, certains cas posent plus question que d'autres. Tour d'horizon au moment où débute la saison. <span>15</span></p></div></div><ul class="UnePlus"><li><a href="/Football-americain/Actualites/Foot-us-saison-de-nfl-cinq-questions-pour-une-saison/589194" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Cinq questions pour une saison?</a></li><li><a href="/Football-americain/Actualites/Reprise-du-championnat-nfl-les-5-infos-pas-essentielles-mais/589247" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Cinq infos pas essentielles mais...</a></li><li><a href="/Aussi/RES_NFL.html" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Calendrier</a></li></ul></div><div class="Football WithImage Coleader BigImage    clearfix" rub="Football" sport="36" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="lespor-t"    >FOOT</span>                                    <span class="letitr-e" json="surtitre[].texte"  >QUIZ</span></div>
+<a href="/Football/Quiz/le-naming-ca-vous-parle/738" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/allianz-arena/1500000000606601/170:53,1934:1331-300-218-75/73337.jpg" src="http://static.lequipe.fr/v6/img/png_300-218.png" alt="Le «naming», ça vous parle?" width="300" height="218"     taille="1">
+</a></div><div class="ZoneEdito"><h2><a href="/Football/Quiz/le-naming-ca-vous-parle/738"     infog="false" onglet="0"   >Le «naming», ça vous parle?</a></h2><p    >Le nouveau stade de Bordeaux a désormais un nom : le Matmut Atlantique. Le «naming» est une pratique très courante depuis 15 ans. Êtes-vous incollable sur le sujet?</p></div></div><ul class="UnePlus"></ul></div><div class="Athletisme WithImage Coleader FullImage    clearfix" rub="Athletisme" sport="40" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="lespor-t"    >ATHLÉ</span>                                    <span class="letitr-e" json="surtitre[].texte"  >LIGUE DE DIAMANT</span><span class="letitr-e" json="surtitre[].texte"  >BRUXELLES</span></div>
+<a href="/Athletisme/Actualites/Meeting-de-bruxelles-ligue-de-diamant-ticket-chic-et-derniers-chocs/589332" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/gatlin-justin-usa/1500000000607441/439:328,1398:810-640-322-75/58b11.jpg" src="http://static.lequipe.fr/v6/img/png_640-322.png" alt="Ticket chic et derniers chocs" width="640" height="322"     taille="2">
+</a></div><div class="ZoneEdito"><h2><a href="/Athletisme/Actualites/Meeting-de-bruxelles-ligue-de-diamant-ticket-chic-et-derniers-chocs/589332"     infog="false" onglet="0"   >Ticket chic et derniers chocs</a></h2><p    >Même privé de Bolt, le dernier rendez-vous de la Ligue de diamant (vendredi à partir de 17h55) reste alléchant avec notamment une explication Schippers-Felix-Thompson sur 200m, le doublé de Justin Gatlin ou Renaud Lavillenie en reconquête à la perche. <span>0</span></p></div></div><ul class="UnePlus"></ul></div><div class="Auto-moto WithImage Coleader BigImage    clearfix" rub="Auto-moto" sport="10" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="lespor-t"    >RALLYE</span>                                    <span class="letitr-e" json="surtitre[].texte"  >WRC</span><span class="letitr-e" json="surtitre[].texte"  >RALLYE D'AUSTRALIE</span></div>
+<a href="/Rallye/Actualites/Rallye-d-australie-la-frayeur-de-sebastien-ogier/589155" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/s-stien-ogier-prend-les-commandes-du-rallye-d-allemagne-photo-prise-le-1-ao-015-reuters-lehtiku/1500000000602235/0:0,2048:1033-300-218-75/18c77.jpg" src="http://static.lequipe.fr/v6/img/png_300-218.png" alt="La frayeur d'Ogier" width="300" height="218"     taille="1">
+</a><div class="me-dia video" icon="video"    ></div></div><div class="ZoneEdito"><h2><a href="/Rallye/Actualites/Rallye-d-australie-la-frayeur-de-sebastien-ogier/589155"     infog="false" onglet="0"   >La frayeur d'Ogier</a></h2><p    >Sébastien Ogier et Julien Ingrassia se sont fait peur, ce jeudi matin, lorsque leur Volkswagen Polo WRC s'est retrouvée sur deux roues, à la limite du tonneau, dès le premier virage du shakedown. <span>19</span></p></div></div><ul class="UnePlus"><li class="premium"><a title="article issu du Quotidien" href="/Tous-sports/Article/Ogier-si-loin-si-pres/57904?xtatc=INT-21-[Ogier-si-loin-si-pres]" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Ogier, si loin, si près<span></span></a></li></ul></div><div class="Rugby WithImage Coleader FullImage    clearfix" rub="Rugby" sport="101" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="lespor-t"    >RUGBY</span>                                    <span class="letitr-e" json="surtitre[].texte"  >COUPE DU MONDE</span></div>
+<a href="/special/Rugby/guide/coupe-du-monde/england-2015/" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/1er-rang-toeava-isaia-muliaina-mils-weepu-piri-nonu-ma-a-jane-cory-dagg-israel/1500000000607151/0-640-322-75/9a485.jpg" src="http://static.lequipe.fr/v6/img/png_640-322.png" alt="Suivez le guide !" width="640" height="322"     taille="2">
+</a></div><div class="ZoneEdito"><h2><a href="/special/Rugby/guide/coupe-du-monde/england-2015/"     infog="false" onglet="0"   >Suivez le guide !</a></h2><p    >La Coupe du monde débutera le 18 septembre en Angleterre. Qui succédera à la Nouvelle-Zélande? Voici notre guide complet.</p></div></div><ul class="UnePlus"><li><a href="/Rugby/Actualites/Rabah-slimani-xv-de-france-avec-ou-sans-parisse-une-tres-grosse-italie/589040" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Slimani : «Une très grosse Italie»</a></li><li><a href="/Rugby/France-fra/" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">L'actu du XV de France</a></li></ul></div><div id="anchor_blogs" class="blogs large clearfix" type="BLOG" data-vr-zone="Blogs">
+<div class="blog Football" data-vr-contentbox="">  <img class="lazy" data-original="http://static.lequipe.fr/v6/img/blogs/big/roustan.png" src="http://static.lequipe.fr/v6/img/png_blog-big.png" width="184" height="216" alt="Roustan Tv">    <div class="content">    <span class="infos">il y a 2 jours </span>    <h2>    <a href="http://roustantv.lequipe.fr/video-12-815.html" target="_blank">         LA FRANCE À DOUBLE FACE..ET..          </a>    </h2>        <p>    ..et THE MATCH entre Nathan et Yoann !! Incroyable la différence de niveau de nos Bleus d'une période à l'autre non ? Cependant, il y a de quoi, enfin je trouve, nourrir de sérieux espoirs de jeu pour (...)         </p>       </div>  <div class="blog_title">  <a href="http://roustantv.lequipe.fr/video-12-815.html" target="_blank">Roustan Tv</a>     <span class="autor">    Blog Vidéo de Didier Roustan    </span>    </div></div><div json="blogs[].nom"   nom="Roustan" class="hiddenn"></div></div><div class="Dossier Basket clearfix" TYPE="DOSSIER" rub="Basket" sport="37" data-vr-zone="Dossier-Basket">
+<a href="/Basket/Euro/" class="LienTouteActu"    >TOUTE L'ACTU DE L'EURO</a><div class="les-blocs">
+<span class="lespor-t"    >Basket</span></div><div class="DosInside colsort"><div class="Basket WithImage Coleader FullImage    clearfix" rub="Basket" sport="37" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="lespor-t"    >EXPLORE</span>                                    <span class="letitr-e" json="surtitre[].texte"  >DOCUMENTAIRE VIDÉO</span></div>
+<a href="/explore-video/basket-les-enfants-de-zadar/" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/visuel-les-enfants-de-zadar-play/1500000000604806/0-640-322-75/23194.jpg" src="http://static.lequipe.fr/v6/img/png_640-322.png" alt="Les enfants de Zadar" width="640" height="322"     taille="2">
+</a></div><div class="ZoneEdito"><h2><a href="/explore-video/basket-les-enfants-de-zadar/"     infog="false" onglet="0"   >Les enfants de Zadar</a></h2><p    >Il y a quinze ans, l’équipe de France juniors, emmenée par Tony Parker et Boris Diaw, devient championne d’Europe. C’est la naissance d’une génération qui a marqué l’histoire du basket. Découvrez cette épopée dans un documentaire vidéo riche en images inédites.</p></div></div><ul class="UnePlus"><li><a href="/Basket/Actualites/Le-grand-debut-des-bleus/587627" json="lien[].href;lien[].texte;lien[].onglet"   onglet="0">Euro: Le grand début des Bleus</a></li></ul></div><div class="Basket WithImage Coleader BigImage    clearfix" rub="Basket" sport="37" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="letitr-e" json="surtitre[].texte"  >LEXIQUE</span></div>
+<a href="/Basket/Actualites/Parlez-vous-basket/585553" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/jun-14-2015-oakland-ca-usa-editor-note-caption-correction-golden-state-warriors-guard-stephe/1500000000581007/0-300-218-75/14acc.jpg" src="http://static.lequipe.fr/v6/img/png_300-218.png" alt="Parlez-vous basket?" width="300" height="218"     taille="1">
+</a></div><div class="ZoneEdito"><h2><a href="/Basket/Actualites/Parlez-vous-basket/585553"     infog="false" onglet="0"   >Parlez-vous basket?</a></h2><p    >Le lexique du basket regorge de termes anglo-saxons. Pour éviter de vous laisser dépasser pendant l'Euro (5-20 septembre), qui débute ce samedi, nous vous proposons vingt définitions, du box-out au floater en passant par le pick and roll et le post-up. <span>28</span></p></div></div><ul class="UnePlus"></ul></div><div class="Coleader WithImage SurUneLigne clearfix" type="TRICOL"><div class="ZoneClick" TYPE="MINICOL" data-vr-contentbox=""><div>
+<a href="/Basket/Article/Moi-nicolas-batum-ailier/582679?xtatc=INT-21-[Moi-nicolas-batum-ailier]"><img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/batum/1500000000603889/0:0,1472:1068-200-145-70/a2327.jpg" src="http://www.lequipe.fr/v6/img/png_200-145.png" alt="Moi, Batum, ailier" width="190" height="138"     ></a><div class="les-blocs"></div></div><div class="ZoneEdito"><h2>
+<a title="article issu du Quotidien" href="/Basket/Article/Moi-nicolas-batum-ailier/582679?xtatc=INT-21-[Moi-nicolas-batum-ailier]"    >Moi, Batum, ailier</a>
+<span class="iconPremium" icon="iconPremium"    >&nbsp;</span></h2></div></div><div class="ZoneClick" TYPE="MINICOL" data-vr-contentbox=""><div>
+<a href="/Basket/Article/Moi-rudy-gobert-pivot/582700?xtatc=INT-21-[Moi-rudy-gobert-pivot]"><img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/rudy-gobert-son-r/1500000000603899/97:0,1521:1033-200-145-70/28509.jpg" src="http://www.lequipe.fr/v6/img/png_200-145.png" alt="Moi, Rudy Gobert, pivot" width="190" height="138"     ></a><div class="les-blocs"></div></div><div class="ZoneEdito"><h2>
+<a title="article issu du Quotidien" href="/Basket/Article/Moi-rudy-gobert-pivot/582700?xtatc=INT-21-[Moi-rudy-gobert-pivot]"    >Moi, Rudy Gobert, pivot</a>
+<span class="iconPremium" icon="iconPremium"    >&nbsp;</span></h2></div></div><div class="ZoneClick" TYPE="MINICOL" data-vr-contentbox=""><div>
+<a href="/Basket/Article/Moi-nando-de-colo-arriere/582671?xtatc=INT-21-[Moi-nando-de-colo-arriere]"><img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/de-colo-arri/1500000000603880/193:0,1782:1153-200-145-70/aed94.jpg" src="http://www.lequipe.fr/v6/img/png_200-145.png" alt="Moi, De Colo, arrière" width="190" height="138"     ></a><div class="les-blocs"></div></div><div class="ZoneEdito"><h2>
+<a title="article issu du Quotidien" href="/Basket/Article/Moi-nando-de-colo-arriere/582671?xtatc=INT-21-[Moi-nando-de-colo-arriere]"    >Moi, De Colo, arrière</a>
+<span class="iconPremium" icon="iconPremium"    >&nbsp;</span></h2></div></div></div></div></div><div class="Aussi WithImage Coleader FullImage    clearfix" rub="Aussi" sport="1" type="EDITOSPORT" data-vr-contentbox=""><div class="ZoneClick"     data-prog-infos="" data-prog-active="" data-abonne="0" data-bandeau_match=""  data-native_ads=""  ><div ><div class="les-blocs">
+<span class="lespor-t"    >EXPLORE</span>                                    <span class="letitr-e" json="surtitre[].texte"  >GRAND REPORTAGE</span></div>
+<a href="/explore/basejump-les-pieds-sur-terre/" >
+<img class="lazy" data-original="http://medias.lequipe.fr/img-photo-jpg/l-equipe-explore-base-jump-les-pieds-sur-terre/1500000000595867/0-640-322-75/21822.jpg" src="http://static.lequipe.fr/v6/img/png_640-322.png" alt="" width="640" height="322"     taille="2">
+</a></div><div class="ZoneEdito"><h2><a href="/explore/basejump-les-pieds-sur-terre/"     infog="false" onglet="0"   ></a></h2><p    >«Les pieds sur terre» est un Explore aux couleurs estudiantines. Consacré au base-jump, il a été produit par les étudiants de l'école de journalisme de Strasbourg et choisi par un jury réuni pour l'occasion. Ce premier «Prix Explore» se déguste sans hésitation.</p></div></div><ul class="UnePlus"></ul></div></div><div id="col-droite">
+	
+		<div class="block pb_2163" data-istickeroreillettes="(none)">
+			<div id="Ads_2163" class="ads">
+				<script>
+					//sas_manager.render(2163);
+					if (typeof Ads != "undefined"){Ads.display(sas_pageid, "2163", sas_target)}
+				</script>
+			</div>
+		</div>
+	
+
+<div id="chrono" class="block">  <div class="header"><h2>CHRONO</h2>
+  <div class="filter">
+    <select name="filtre chrono">
+       <option value="1" id="TAG1" >Choisissez votre sport</option>
+<!--<option value="660" id="TAG660">Euro 2012</option>-->
+<option value="2" id="TAG2">Football</option>
+<option value="3" id="TAG3">Tennis</option>
+<option value="5" id="TAG5">Rugby</option>
+<option value="6059" id="TAG6059">Formule1</option>
+<option value="8" id="TAG8">Auto-Moto</option>
+<!--      <option value="-" id="TAG-">NBA</option>-->
+<option value="6" id="TAG6">Basket</option>
+<option value="7" id="TAG7">Handball</option>
+<option value="4" id="TAG4">Golf</option>
+<option value="9" id="TAG9">Cyclisme</option>
+<option value="10" id="TAG10">Athl&eacute;tisme</option>
+<option value="11" id="TAG11">Natation</option>
+<option value="12" id="TAG12">Voile</option>
+<option value="50890" id="TAG50890">Sports US</option>
+<option value="13" id="TAG13">Autres Sports</option>
+<option value="11024" id="TAG11024">Jo</option>
+<option value="29698" id="TAG29698">Ski/Glace</option>
+<option value="14" id="TAG14">Hippisme</option>
+
+    </select></div>
+    <a href="/rss" class="rss">RSS</a> 
+    </div>
+  <div id="scrollerChrono" data-vr-zone="ListeDepeches">
+    <ul class="chrono" tag="1" >
+			
+<li  class='Football  chron-0 	 nolink' data-vr-contentbox="">
+	<span class="date">00:24</span>
+    <a   href="/Football/Actualites/Manchester-united-une-prolongation-pour-david-de-gea/589394"  >
+    	<b>Foot - ANG - United &nbsp;</b>Une prolongation pour De Gea?
+	</a>
+	<span></span>
+</li>
+
+<li  class='Football  chron-0 	 nolink' data-vr-contentbox="">
+	<span class="date">00:12</span>
+    <a   href="/Football/Actualites/Layvin-kurzawa-choisit-corneille-pour-son-bizutage-au-psg/589392"  >
+    	<b>Foot - WTF &nbsp;</b>Le bizutage de Kurzawa
+	</a>
+	<span></span>
+</li>
+
+<li  class='Football  chron-0 	 nolink' data-vr-contentbox="">
+	<span class="date">00:05</span>
+    <a target="_blank"  href="http://roustantv.lequipe.fr/"  >
+    	<b>Foot - Roustan TV &nbsp;</b>La France à double face... et...
+	</a>
+	<span></span>
+</li>
+
+<li  class='Basket  chron-0 	media video nolink' data-vr-contentbox="">
+	<span class="date">00:01</span>
+    <a   href="/Basket/Actualites/Vincent-collet-c-est-dommage/589390"  >
+    	<b>Basket - Euro &nbsp;</b>Collet: «C'est dommage»
+	</a>
+	<span></span>
+</li>
+
+<li  class='Basket  chron-0 	media video nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Basket/Actualites/Boris-diaw-de-bon-augure-pour-la-suite/589389"  >
+    	<b>Basket - Euro &nbsp;</b>«De bon augure pour la suite»
+	</a>
+	<span></span>
+</li>
+
+<li  class='Rugby  chron-0 	 nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Rugby/Actualites/Top-14-benson-stanley-et-aurelien-rougerie-reviennent-face-a-l-ubb/589388"  >
+    	<b>Rugby - Top 14 - ASM &nbsp;</b>Stanley et Rougerie reviennent
+	</a>
+	<span></span>
+</li>
+
+<li  class='Tennis  chron-0 	 nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Tennis/Actualites/Us-open-nicolas-mahut-on-a-fait-le-bon-choix/589387"  >
+    	<b>US Open (DH) &nbsp;</b>Mahut :«On a fait le bon choix»
+	</a>
+	<span></span>
+</li>
+
+<li  class='Gymnastique-rythmique  chron-0 	 nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Gymnastique-rythmique/Actualites/Yana-kudryavtseva-sacree-aux-massues-et-au-ruban/589385"  >
+    	<b>GRS - ChM &nbsp;</b>Encore de l'or pour Kudryavtseva
+	</a>
+	<span></span>
+</li>
+
+<li  class='Basket  chron-0 	media video nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Basket/Actualites/Charles-kahudi-on-a-tres-vite-compris/589384"  >
+    	<b>Basket - Euro &nbsp;</b>«On a très vite compris...»
+	</a>
+	<span></span>
+</li>
+
+<li  class='Football  chron-0 	 nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Football/Actualites/Ghana-canada-en-amical-le-13-octobre/589382"  >
+    	<b>Foot - GHA &nbsp;</b>Ghana-Canada en amical
+	</a>
+	<span></span>
+</li>
+
+<li  class='Basket  chron-0 	 nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Basket/Actualites/Eurobasket-la-france-affrontera-la-turquie-en-huitiemes-de-finale-samedi/589341"  >
+    	<b>Basket - Euro &nbsp;</b>France-Turquie en huitièmes
+	</a>
+	<span></span>
+</li>
+
+<li  class='Basket  chron-0 	 nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Basket/Actualites/L-islande-a-fait-durer-le-plaisir-en-menacant-la-turquie/589381"  >
+    	<b>Basket - Euro &nbsp;</b>L'Islande a fait durer le plaisir
+	</a>
+	<span></span>
+</li>
+
+
+
+	  </ul>
+	  <ul id="precharge" class="display">
+<li  class='Football  chron-1 	 nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Football/Actualites/Dix-mois-de-suspension-pour-jean-luc-vannuchi-auxerre/589378"  >
+    	<b>Foot - Discipline &nbsp;</b>Vannuchi, 10 mois de suspension!
+	</a>
+	<span></span>
+</li>
+
+<li  class='Basket  chron-1 	 nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Basket/Actualites/Grece-pays-bas-68-65/589377"  >
+    	<b>Basket - Euro &nbsp;</b>Grèce - Pays-Bas: 68-65
+	</a>
+	<span></span>
+</li>
+
+<li  class='Basket  chron-1 	 nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Basket/Actualites/Pau-gasol-rend-hommage-a-dirk-nowitzki-elimine-de-l-euro/589376"  >
+    	<b>Basket - Euro &nbsp;</b>Nowitzki: l'hommage de P. Gasol
+	</a>
+	<span></span>
+</li>
+
+<li  class='Basket  chron-1 urgent	media video nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Basket/Actualites/L-equipe-de-france-s-impose-face-a-israel-86-61-et-affrontera-la-turquie-en-huitiemes-de-finale/589375"  >
+    	<b>Basket - Euro &nbsp;</b>La France a encore géré
+	</a>
+	<span></span>
+</li>
+
+<li  class='Handball  chron-1 	 nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Handball/Actualites/Le-psg-bat-nimes-lors-de-la-premiere-journee-de-d1-36-32/589374"  >
+    	<b>Hand - D1 (H) &nbsp;</b>Le PSG commence bien
+	</a>
+	<span></span>
+</li>
+
+<li  class='Basket  chron-1 	 nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Basket/Actualites/La-lituanie-finit-en-tete/589373"  >
+    	<b>Basket - Euro &nbsp;</b>La Lituanie finit en tête
+	</a>
+	<span></span>
+</li>
+
+<li  class='Rugby  chron-1 	 nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Rugby/Actualites/Top-14-trop-de-casse-a-paris-pour-le-deplacement-a-montpellier/589371"  >
+    	<b>Rugby - Top 14 &nbsp;</b>Trop de casse à Paris ?
+	</a>
+	<span></span>
+</li>
+
+<li  class='Football  chron-1 	 nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Football/Actualites/Bastia-mehdi-mostefa-et-jean-louis-leca-incertains-pour-le-deplacement-a-marseille/589369"  >
+    	<b>Foot - L1 - Bastia &nbsp;</b>Mostefa et Leca incertains
+	</a>
+	<span></span>
+</li>
+
+<li  class='Rugby  chron-1 	 nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Rugby/Actualites/Top-14-robins-tchale-watchou-incertain-face-au-stade-francais/589367"  >
+    	<b>Rugby - Top 14 - MHR &nbsp;</b>Tchalé-Watchou incertain
+	</a>
+	<span></span>
+</li>
+
+<li  class='Rugby  chron-1 	 nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Rugby/Actualites/Top-14-fabien-barcella-declare-forfait-pour-le-deplacement-au-racing-92/589365"  >
+    	<b>Rugby - Top 14 - FCG &nbsp;</b>Barcella forfait
+	</a>
+	<span></span>
+</li>
+
+<li  class='Cyclisme-sur-route  chron-1 	 nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Cyclisme-sur-route/Actualites/Thomas-voeckler-on-aura-une-equipe-l-an-prochain/589363"  >
+    	<b>Cyclisme - Europcar &nbsp;</b>Voeckler: «Une équipe l'an prochain»
+	</a>
+	<span></span>
+</li>
+
+<li  class='Tennis  chron-1 	 nolink' data-vr-contentbox="">
+	<span class="date">10/09</span>
+    <a   href="/Tennis/Actualites/Us-open-toutes-les-demi-finales-se-joueront-vendredi-a-cause-de-la-pluie/589362"  >
+    	<b>US Open &nbsp;</b>Toutes les demi-finales vendredi
+	</a>
+	<span></span>
+</li>
+
+</ul>
+  </div>
+  <div class="footer"> 
+    <a href="/news.html" class="tout">VOIR TOUT LE CHRONO</a> 
+    <div class="pager disabled"><span>1</span>/10</div>
+    <a data-dir="prev" class="prev nav disabled"></a> 
+    <a data-dir="next" class="next nav"></a> 
+  </div>
+</div>
+<!--/chrono-->
+
+<div class="block pb_632">
+<div id="Ads_632" class="ads">
+<script>
+//sas_manager.render(632);
+if (typeof Ads != "undefined"){Ads.display(sas_pageid, "632", sas_target)}
+</script>
+</div>
+</div>
+
+<div id="quotidien">  <div class="title">LE QUOTIDIEN</div>  <a class="une-quotidien" href="/eStore/Offres/Achat/271918"><img class="lazy" src="http://static.lequipe.fr/v6/img/png_298-440.png" data-original="http://static.lequipe.fr/Quotidien/une/une_10092015_v65.jpg" width="298" height="440" alt="La une de L'&Eacute;quipe - jeudi 10 septembre" /></a>  <a class="achat QuotLire" href="/eStore/Offres/Achat/271918"><span></span><b>ACHETER</b> L'&Eacute;DITION NUM&Eacute;RIQUE</a>  <a class="achat QuotNum" href="/eStore/Offres" target="_blank"><span></span><b>S'ABONNER</b> &Agrave; L'&Eacute;DITION NUM&Eacute;RIQUE</a>  <a class="achat pap QuotPap" href="/eStore/Offres/"><span></span><b>S'ABONNER</b> AUX OFFRES PAPIER</a>  <a class="epress" href="https://www.epresse.fr/quotidien/l-equipe" target="_blank"><img class="lazy" src="http://static.lequipe.fr/v6/img/png_300-172.png" data-original="http://static.lequipe.fr/Quotidien/img/ePresse.png" alt="ePresse" /></a></div>
+
+<!-- if expr='$SERVER_NAME != $domain_free' --><div class="push-site-connexe E21 clearfix">  <div class="logo"><span></span></div>  <div class="bigvidE21">    <span>La Grande Edition - Replay : Jeudi 10 septembre</span>    <!-- Le code pour la vidéo -->    <div class="bigleadervid">      <iframe width="300" height="169" frameborder="0" scrolling="no" src="//www.dailymotion.com/embed/video/k6fGJa1aPv3KQdcYreG?autoplay=false" allowfullscreen></iframe>    </div><!-- fin du code vidéo -->  </div>  <a href="http://www.lequipe21.fr/grille/" class="voirTous E21Grille" target="_blank">LA GRILLE DES PROGRAMMES</a>  <a href="http://www.lequipe21.fr/direct/" class="voirTous" target="_blank">LE DIRECT</a></div>
+
+
+
+
+    
+    
+
+
+
+
+
+    
+    <div id="bloc-explore" class="clearfix">
+        <div class="header"><h2 class="title"><span><b>L'Equipe Explore</b></span></h2></div>  
+       
+            <a href="/explore-video/briseurs-de-reve/" target="_blank">
+                <img class="lazy" src="http://static.lequipe.fr/v6/img/png_300-100.png" data-original="http://static.lequipe.fr/explore/-img/EXPLORE_ALL-BRE-300X100.jpg" alt="EXPLORE / Brésil - Allemagne, un an après" width="300" height="100" style="display: inline;">
+                <h3>EXPLORE / <span>Brésil - Allemagne, un an après</span></h3>
+            </a>       
+        <a href="/explore" class="voirTous">TOUS LES EXPLORE</a>
+    </div>
+     
+
+
+<!-- include virtual="/v6/include/live_video.html" -->
+<div id="en-direct">
+    <div class="header">
+        <h2>DIRECTS</h2>
+        <span data-nb="1">1</span>
+		<div class="block pb_12340">
+<div id="Ads_12340" class="ads">
+<script>
+//sas_manager.render(12340);
+if (typeof Ads != "undefined"){Ads.display(sas_pageid, "12340", sas_target)}
+</script>
+</div>
+</div>
+    </div>
+    <div class="filter">
+        <select id="filtretemps" name="filtre temps">
+			<option value="">Filtrer par date</option>
+        </select>
+        <select id="filtresport" name="filtre sport">
+			<option value="">Filtrer par sport</option>
+        </select>
+    </div>
+    <div class="content">
+		<div>
+			
+			
+	
+	<div class="direct-sport Basket clearfix">
+		<span>Basket</span>
+					<span class="nb-direct-off">1</span>
+		
+				
+			<div class="Groupe-Match clearfix">
+				
+																				
+									
+										
+										
+																
+								
+                <div class="info-groupe no-live no-avenir termine">
+					<a class="info-match-compet">EURO</a>
+
+
+					 
+
+                    
+                    
+					                    
+										
+
+					
+                </div>
+                
+                <!-- cas particulier TDF -->
+
+						
+								
+											<a href="/Basket/Directs" class="Multiplex"><span></span>Voir le match</a>
+													
+									
+								
+								
+										
+											
+			</div>
+			
+				
+	</div>   
+	
+	
+	<div class="direct-sport Cyclisme clearfix">
+		<span>Cyclisme</span>
+					<span class="nb-direct-on">1</span>
+		
+				
+			<div class="Groupe-Match clearfix">
+				
+																				
+									
+										
+												
+										
+										
+																
+								
+                <div class="info-groupe encours">
+					<a class="info-match-compet">TOUR D'ESPAGNE</a>
+
+
+					 
+
+                    
+                    
+					                    
+											
+													<a class="info-match-heure" href="/Cyclisme/course/12220/roa-riaza">DIRECT</a>
+												
+										
+
+					
+                </div>
+                
+                <!-- cas particulier TDF -->
+
+						
+								
+													
+									
+								
+								
+									
+														
+														
+							
+							
+							
+							
+							
+							
+
+											
+											
+			</div>
+			
+				
+	</div>   
+	
+	
+	<div class="direct-sport Golf clearfix">
+		<span>Golf</span>
+					<span class="nb-direct-on">1</span>
+		
+				
+			<div class="Groupe-Match clearfix">
+				
+																				
+									
+										
+												
+										
+																					
+								
+                <div class="info-groupe encours">
+					<a class="info-match-compet">KLM OPEN</a>
+
+
+					 
+
+                    
+                    
+					                    
+											
+													<a class="info-match-heure" href="/Golf/Tournoi-2760.html">DIRECT</a>
+												
+										
+
+					
+                </div>
+                
+                <!-- cas particulier TDF -->
+
+						
+								
+													
+									
+								
+								
+						
+								<a class="Multiplex Classe-ment encours"	 href="/Golf/Tournoi-2760.html">  
+									<span></span> Voir le classement
+								</a> 
+							
+																		
+											
+			</div>
+			
+				
+	</div>   
+	
+	
+	<div class="direct-sport Hippisme clearfix">
+		<span>Hippisme</span>
+					<span class="nb-direct-off">1</span>
+		
+				
+			<div class="Groupe-Match clearfix">
+				
+																				
+									
+										
+										
+										
+																					
+								
+                <div class="info-groupe no-live avenir">
+					<a class="info-match-compet">QUINTé+</a>
+
+
+					 
+
+                    
+                    
+											<a class="info-match-parie" href="http://ww84.smartadserver.com/call/cliccommand/10411047/[timestamp]?" target="_blank">PARIEZ</a>
+					                    
+					                        						<a class="info-match-heure" href="/Hippisme/Directs">13h50</a>
+										
+
+					
+                </div>
+                
+                <!-- cas particulier TDF -->
+
+						
+								
+									
+								
+								
+						
+								<a class="Multiplex Classe-ment avenir"	  href="/Hippisme/resultats/resultats.html"	>  
+									<span></span> Voir le classement
+								</a> 
+							
+																		
+											
+			</div>
+			
+				
+	</div>   
+	
+
+		</div>
+        <a href="/Directs" class="tous-direct">TOUS LES DIRECTS</a>   
+    </div>
+</div>
+
+
+<div class="block pb_1075">
+<div id="Ads_1075" class="ads">
+<script>
+//sas_manager.render(1075);
+if (typeof Ads != "undefined")
+{Ads.display(sas_pageid, "1075", sas_target)}
+</script>
+</div>
+</div>
+
+
+    <div class="push-site-connexe ilosport clearfix">  <div class="logo">    <span></span>  </div>      <div class="item large clearfix large ">      <a href="http://www.ilosport.fr/running/conseils/running-notre-top-5-conseils/" target="_blank">        <span></span>        <img class="lazy" src="http://static.lequipe.fr/v6/img/png_260-130.png" data-original="http://medias.lequipe.fr/img-ilosport-jpg/running-conseils/1500000000607332/53:0,1200:662-0-0-70/e868e.jpg" width="260" height="130" style="display:inline">        <p>Running : conseils de pro</p>      </a>    </div>      <div class="item large clearfix large ">      <a href="http://www.ilosport.fr/conseils/entrainement/rentree-sportive-les-erreurs-a-eviter/" target="_blank">        <span></span>        <img class="lazy" src="http://static.lequipe.fr/v6/img/png_260-130.png" data-original="http://medias.lequipe.fr/img-ilosport-jpg/rentr/1500000000607065/0:0,2048:1182-260-130-75/f9b8f.jpg" width="260" height="130" style="display:inline">        <p>Rentrée sport : les 7 erreurs</p>      </a>    </div>    <a href="http://www.ilosport.fr/" class="voirTous" target="_blank">TOUS LES ARTICLES</a></div>
+
+
+<div class="push-site-connexe CNOSF clearfix">
+	<div class="logo">
+		<span></span>
+	</div>
+	<div class="item large video clearfix">
+		<a href="http://sportvideo.lequipe.fr/videos/videos-lequipe/x2h0rgo_esprit-bleu-du-16-janvier/" target="_blank">
+			<span></span>
+			<img class="lazy" src="http://static.lequipe.fr/v6/img/png_260-130.png" data-original="http://s2.dmcdn.net/I7jMg/x240-xZ8.jpg" width="260" height="130" />
+			<p>Esprit Bleu du 16 janvier</p>
+		</a>
+	</div>
+	<a href="http://sportvideo.lequipe.fr" class="voirTous" target="_blank">TOUTES LES VID&Eacute;OS</a>
+</div>
+
+
+
+    <div class="push-site-connexe adrenaline clearfix">  <div class="logo"><span></span></div>      <div class="item large diapo clearfix">      <a href="http://www.e-adrenaline.fr/eau/actualites/14-photos-d-alana-blanchard-en-lingerie/6925" target="_blank">        <span></span>        <img class="lazy" src="http://static.lequipe.fr/v6/img/png_260-130.png" data-original="http://medias.lequipe.fr/adrenaline/img-photo-jpg/alana-blanchard-x-gooseberry-intimates/30657/5:180,736:591-0-0-60/49901" width="260" height="130" />        <p>Alana Blanchard pose pour Galore</p>      </a>    </div>      <div class="item video clearfix">      <a href="http://www.e-adrenaline.fr/terre/actualites/loic-bruni-est-sacre-champion-du-monde-de-vtt-descente-a-vallnord/6924" target="_blank">        <span></span>        <img class="lazy" src="http://static.lequipe.fr/v6/img/png_260-130.png" data-original="http://medias.lequipe.fr/adrenaline/img-photo-jpg/loic-bruni/27334/0-127-72-70/fc099" width="120" height="60" />        <p>Loïc Bruni champion du monde</p>      </a>    </div>      <div class="item video clearfix">      <a href="http://www.e-adrenaline.fr/urbain/actualites/squete-le-skateboard-made-in-france/6920" target="_blank">        <span></span>        <img class="lazy" src="http://static.lequipe.fr/v6/img/png_260-130.png" data-original="http://medias.lequipe.fr/adrenaline/img-photo-jpg/squa-te-le-skateboard-made-in-france/30648/0-127-72-70/0acee" width="120" height="60" />        <p>Squête, made in France</p>      </a>    </div>    <a href="http://www.e-adrenaline.fr" class="voirTous">TOUTES LES VID&Eacute;OS</a></div>
+
+
+    <div class="push-site-connexe sportstyle clearfix">  <div class="logo"><span></span></div>  <div class="item large clearfix">    <a href="http://www.sportetstyle.fr/article/girls/p,2149,bella-la-releve-de-gigi-hadid.html" target="_blank">      <span></span>      <img class="lazy" src="http://static.lequipe.fr/v6/img/png_260-130.png" data-original="http://medias.lequipe.fr/img-photo-jpg/-/1500000000607161/0-260-130-75/3b18f.jpg" width="260" height="130" alt="Bella, nouvel Ange de Victoria's Secret" />      <p>Bella, nouvel Ange de Victoria's Secret</p>    </a>  </div>   <div class="item clearfix">    <a href="http://www.sportetstyle.fr/article/people/a,2148,brooklyn-beckham-dans-les-pas-de-son-pere.html" target="_blank">      <span></span>      <img width="120" height="60" alt="Brooklyn Beckham devient mannequin" data-original="http://medias.lequipe.fr/img-photo-jpg/-/1500000000607166/0-260-130-75/9db42.jpg" src="http://static.lequipe.fr/v6/img/png_120-60.png" class="lazy" class="lazy" style="display: block;" />      <p>Brooklyn Beckham devient mannequin</p>     </a>  </div>  <div class="item clearfix">    <a href="http://www.sportetstyle.fr/article/girls/p,2140,carton-jaune-pour-rose-bertram.html" target="_blank">      <span></span>      <img width="120" height="60" alt="Rose, la copine sexy de Van der Wiel" data-original="http://medias.lequipe.fr/img-photo-jpg/-/1500000000605768/0-260-130-75/21938.jpg" src="http://static.lequipe.fr/v6/img/png_120-60.png" class="lazy" style="display: block;" />      <p>Rose, la copine sexy de Van der Wiel</p>    </a>  </div>  <div class="item clearfix">    <a href="http://www.sportetstyle.fr/article/design/a,2143,une-piste-de-ski-de-plus-d-un-kilometre-a-dubai.html" target="_blank">      <span></span>      <img width="120" height="60" alt="Une piste de ski d'1,2 km à Dubaï" data-original="http://medias.lequipe.fr/img-photo-jpg/-/1500000000606668/0-260-130-75/2bcbb.jpg" src="http://static.lequipe.fr/v6/img/png_120-60.png" class="lazy" style="display: block;" />      <p>Une piste de ski d'1,2 km à Dubaï</p>    </a>  </div>  <a href="http://www.sportetstyle.fr/" class="voirTous" target="_blank">TOUS LES ARTICLES</a></div>
+
+
+
+
+<!-- include virtual="/v6/include/SiteFils/viewsurf.html" -->
+
+<div id="ne-pas-manquer">
+    <div class="header">
+        <h2 class="title">&Agrave; NE PAS MANQUER</h2>
+    </div>
+
+    
+
+    
+    
+    
+    
+
+    <a href="http://logc215.xiti.com/go.click?xts=492987&s2=ebar_anepasmanquer&p=ebar_anepasmanquer&clic=N&type=click&url=http://ebar.lequipe.fr/" target="_blank">
+        <img class="lazy" src="http://static.lequipe.fr/v6/img/png_300-100.png" data-original="http://static.lequipe.fr/v6/img/e-bar.jpg" alt="Les matches près de chez vous" width="300" height="100" />
+        <h3>E-BAR / <span>Les matches près de chez vous</span></h3>
+    </a>
+
+    
+    
+
+    
+        <a href="http://evoyages.groupe-couleur.com/" target="_blank">
+            <img class="lazy" src="http://static.lequipe.fr/v6/img/png_300-100.png" data-original="http://static.lequipe.fr/v6/img/evoyagelt.png" alt="E-Voyages. Cliquez ici. Vibrez là-bas" width="300" height="100" />
+            <h3>E-VOYAGES / <span>Cliquez ici. Vibrez là-bas</span></h3>
+        </a>
+    
+
+
+    
+
+
+
+    <!--<a href="http://www.e-adrenaline.fr/makeithappen-teaser/recrutement.html" target="_blank">
+        <img class="lazy" src="http://static.lequipe.fr/v6/img/png_300-100.png" data-original="http://static.lequipe.fr/v6/img/pas-manquer/LUMIA-BANNER-300x100.jpg" alt="E-Adrenaline. Propose ton trip de rêve" width="300" height="100" />
+        <h3>E-Adrenaline / <span>Propose ton trip de rêve</span></h3>
+    </a>-->
+</div>
+
+
+<div id="agenda" data-nbpages="4" data-date="2015-09-11">
+    <div class="header">
+        <h2 class="title">L'agenda TV</h2>
+    </div>
+    <div id ="scrollerAgenda" class="list_wrapper">
+        <ul class="agendaList list clearfix">
+              <li >    <div class="tags clearfix">            <span class="hour">07:00</span>          </div>    <div class="infos">      <span class="chaine_137"></span>      <a href="/programme-tv/agenda.html">L'expresso</a>    </div>  </li>  <li >    <div class="tags clearfix">            <span class="hour">07:00</span>          </div>    <div class="infos">      <span class="chaine_4"></span>      <a href="/programme-tv/agenda.html">US Open Breakfast</a>    </div>  </li>  <li class="E21">    <div class="tags clearfix">      <span><b></b></span>      <span class="hour">08:00</span>          </div>    <div class="infos">      <span class="chaine_158"></span>      <a href="/programme-tv/agenda.html">L'Equipe du matin</a>    </div>  </li>  <li >    <div class="tags clearfix">            <span class="hour">09:00</span>      <span class="sport">Moto</span>    </div>    <div class="infos">      <span class="chaine_72"></span>      <a href="/programme-tv/agenda.html">Championnat du monde de vitesse 2015. 13e manche. Grand Prix de Saint-Marin. Essais libres 1 des Moto 3. A Misano</a>    </div>  </li>  <li >    <div class="tags clearfix">            <span class="hour">09:45</span>      <span class="sport">Moto</span>    </div>    <div class="infos">      <span class="chaine_72"></span>      <a href="/programme-tv/agenda.html">Championnat du monde de vitesse 2015. 13e manche. Grand Prix de Saint-Marin. Essais libres 1 des Moto GP. A Misano</a>    </div>  </li>
+        </ul>
+        <ul id="precharge" class="prechargeAgenda">
+              <li class="E21">    <div class="tags clearfix">      <span><b></b></span>      <span class="hour">10:30</span>          </div>    <div class="infos">      <span class="chaine_158"></span>      <a href="/programme-tv/agenda.html">L'Equipe du soir</a>    </div>  </li>  <li >    <div class="tags clearfix">            <span class="hour">10:45</span>      <span class="sport">Moto</span>    </div>    <div class="infos">      <span class="chaine_72"></span>      <a href="/programme-tv/agenda.html">Championnat du monde de vitesse 2015. 13e manche. Grand Prix de Saint-Marin. Essais libres 1 des Moto 2. A Misano</a>    </div>  </li>  <li >    <div class="tags clearfix">            <span class="hour">11:50</span>      <span class="sport">Rugby à XIII</span>    </div>    <div class="infos">      <span class="chaine_148"></span>      <a href="/programme-tv/agenda.html">National Rugby League 2015. Play-offs. Sydney Roosters / Melbourne Storm.</a>    </div>  </li>  <li class="E21">    <div class="tags clearfix">      <span><b></b></span>      <span class="hour">12:00</span>          </div>    <div class="infos">      <span class="chaine_158"></span>      <a href="/programme-tv/agenda.html">Menu sport</a>    </div>  </li>  <li >    <div class="tags clearfix">            <span class="hour">13:00</span>      <span class="sport">Moto</span>    </div>    <div class="infos">      <span class="chaine_72"></span>      <a href="/programme-tv/agenda.html">Championnat du monde de vitesse 2015. 13e manche. Grand Prix de Saint-Marin. Essais libres 2 des Moto 3. A Misano</a>    </div>  </li>
+        </ul>
+    </div>
+    <div class="footer"> 
+        <a href="/programme-tv/agenda.html" class="tout">TOUT L'AGENDA TV</a> 
+        <div class="pager"><span>1</span>/4</div> 
+        <a data-dir="prev" class="prev nav disabled"></a> 
+        <a data-dir="next" class="next nav"></a> 
+    </div>
+</div>
+
+
+
+
+
+
+
+<!-- début 09/06 12h00-->
+<!-- fin 18/08 12h00-->
+    <div id="concours">
+        <div class="header">
+            <h2 class="title">Jeux & Concours</h2>
+        </div>
+        <ul class="clearfix">
+
+          
+          
+          
+          
+          
+          <!-- fin 10/08 12h00-->
+          <li class="concours clearfix">
+              <div class="image">
+                  <img class="lazy" src="http://static.lequipe.fr/v6/img/png_100-100.png" data-original="/concours/img/speedo-rond.jpg" alt="" width="100" height="100" />
+              </div>
+              <div class="content">
+                  <h3><a href="http://partenaire.ilosport.fr/getspeedofit/?utm_source=edito&utm_medium=lequipe&utm_campaign=concours-speedo" target="_blank">Grand jeu Speedo</a></h3>
+                  <p>Tentez de gagner un équipement complet de natation</p>
+              </div>
+          </li>
+          
+
+
+
+
+          
+          
+          
+          
+          
+
+
+
+          
+          
+          
+          
+          
+
+
+
+
+
+          
+          
+          
+          
+          
+        </ul>
+        <a class="more" href="/concours">Tous les jeux</a>
+    </div>
+
+
+<div class="block pb_1446">
+<div id="Ads_1446" class="ads">
+<script>
+//sas_manager.render(1446);
+if (typeof Ads != "undefined"){Ads.display(sas_pageid, "1446", sas_target)}
+</script>
+</div>
+</div>
+
+</div><div class="clear"></div></div><div id="bk-surf" data-vr-zone="plus_consultes">
+    <div id="surfer-content">
+        <span class="title">LE TOP DES INTERNAUTES</span>
+        <div id="surfer-nave">
+            <a class="active" href="#1">Les plus partagés</a> | <a href="#2">les plus lus</a> | <a href="#3">les plus commentés</a>
+        </div>
+        <span class="ico ar-left o-ff"></span>
+        <div id="inside">
+            <div class="bloc-surfeur" id="plus-partages" data-on="1">
+                             <div class="img-surfer Football" data-vr-contentbox="">  <div class="les-blocs">    <span class="lespor-t">Foot</span><span class="letitr-e">ESP</span><span class="letitr-e">Real</span>  </div>  <div class="top-surf-1">1</div>    <img class="lazy" src="http://static.lequipe.fr/v6/img/png_200-145_nb.png" data-original="http://medias.lequipe.fr/img-photo-jpg/ronaldo-cristiano-perez-florentino/1500000000607333/0-200-145-70/ef43f.jpg" width="200" height="145" alt="Pour Ronaldo, c'est un mi..." />      <div class="top-surf">    <a href="/Football/Actualites/Florentino-perez-real-madrid-si-le-psg-veut-cristiano-ronaldo-il-doit-payer-un-milliard-d-euros/589200">Pour Ronaldo, c'est un mi...</a>    <span><b>5178</b>             fois            </span>  </div></div>           <ul class="classement-surfer">   <li class="Football" data-vr-contentbox="">    <b>2</b>    <span class="lespor-t">Football</span>    <a href="/Football/Actualites/Gomis-ou-ayew-meilleur-joueur-d-aout/589166">Gomis ou Ayew meilleur joueur d'août?</a>    <div><b>4827</b>         fois</div>  </li>          <li class="Football" data-vr-contentbox="">    <b>3</b>    <span class="lespor-t">Football</span>    <a href="/Football/Actualites/Hatem-ben-arfa-remporte-le-top-buts-du-mois-d-aout/589272">Ben Arfa lauréat du mois d'août</a>    <div><b>4784</b>         fois</div>  </li>          <li class="Tennis" data-vr-contentbox="">    <b>4</b>    <span class="lespor-t">Tennis</span>    <a href="/Tennis/Actualites/Justin-timberlake-et-jimmy-fallon-font-le-show-dans-les-tribunes/589289">Timberlake et Fallon font le show</a>    <div><b>3010</b>         fois</div>  </li>          <li class="Football" data-vr-contentbox="">    <b>5</b>    <span class="lespor-t">Football</span>    <a href="/Football/Actualites/Dechirure-au-pied-droit-pour-danilo-real-madrid/589212">Déchirure à un pied pour Danilo</a>    <div><b>2773</b>         fois</div>  </li>          <li class="Basket" data-vr-contentbox="">    <b>6</b>    <span class="lespor-t">Basket</span>    <a href="/Basket/Actualites/Israel-france-61-86/589375">La France a encore géré</a>    <div><b>2322</b>         fois</div>  </li>          <li class="Basket" data-vr-contentbox="">    <b>7</b>    <span class="lespor-t">Basket</span>    <a href="/Basket/Actualites/L-allemagne-eliminee-l-espagne-qualifiee-et-la-turquie-4e-du-groupe-b/589323">L'Allemagne éliminée</a>    <div><b>2021</b>         fois</div>  </li></ul>    
+            </div>
+        </div>
+        <span class="ico ar-right"></span>
+    </div>
+</div>
+
+<div id="footer-710" class="clearfix">
+    <div id="footer_boutique">
+        <div id="footer_parts"><img class="lazy" src="http://static.lequipe.fr/v6/img/png_228-181.png" data-original="http://static.lequipe.fr/v6/img/e-services.png" height="181px" width="228px" /></div>
+        <div id="footer_inshop">
+            <div id="inshop"></div> 
+<div id="linking-inshop">
+
+    <!-- echo var="DOCUMENT_NAME" -->
+    <!-- echo var="HTTP_HOST" -->
+    
+    
+        
+    
+            
+
+
+    
+            
+		
+    <a href="http://shopping.lequipe.fr/">Shopping sport</a> : Retrouvez vos articles de sport au meilleur prix en utilisant notre moteur de shopping ! <a href="http://shopping.lequipe.fr/tennis/">Tennis</a>, <a href="http://shopping.lequipe.fr/rugby/">Rugby</a>, <a href="http://shopping.lequipe.fr/equipement-de-basketball/">basket-ball</a>... Equipez-vous tout en ma&icirc;trisant votre budget sport & loisirs !
+
+
+        
+    
+
+
+            </div>
+        </div>
+    </div>
+<div id="triboutique" class="clearfix">
+
+	<script>FOGLIO.q('mark', {name:'11Foot_dom', value:new Date().getTime()});</script>
+    <div id="b11F"></div>
+	<script>function OnzeFootLoaded(){FOGLIO.q('mark', {name:'11Foot_ready', value:new Date().getTime()})}</script>
+    
+    <div class="storeb">
+        <span><b></b>STORE</span>
+        <a href="http://www.lequipe.fr/eStore/" target="_blank"><img class="lazy" src="http://static.lequipe.fr/v6/img/png_305-138.png" data-original="http://static.lequipe.fr/v6/img/premium-footer.png" width="305" height="138" alt="E-Store" /></a>
+    </div>
+    
+    <div id="Alltricks-footer">
+        <span>CORNER TECHNIQUE<a href="http://www.alltricks.fr/" target="_blank"></a></span>
+        <div>
+            <iframe id="Alltricks-footer" name="Alltricks-footer" src="http://lequipe.avanis.fr/?page=eqfooter" width="300" height="136" frameborder="0" scrolling="no"></iframe>
+        </div>
+    </div>
+   
+
+</div>
+</div>
+<div id="footer" class="block pb_651">
+    <div id="Ads_651" class="ads">
+		<script>
+        //sas_manager.render(651);
+        if (typeof Ads != "undefined"){Ads.display(sas_pageid, "651", sas_target)}
+        </script>
+    </div>
+</div>
+<footer>      <div id="footer-content" class="clearfix">          <div><h4><a href="http://www.lequipe.fr/Football/"   class="hr-Football"  >Football</a></h4><a href="http://www.lequipe.fr/Football/Ligue-1/" >Ligue 1</a><a href="http://www.lequipe.fr/homes/Football/Ligue-2/" >Ligue 2</a><a href="http://www.lequipe.fr/video/football/ligue-1/" >Ligue 1 Vidéo</a><a href="http://www.lequipe.fr/Football/Ligue-des-champions/" >Ligue des Champions</a><a href="http://www.lequipe.fr/Football/Ligue-europa/" >Ligue Europa</a><a href="http://www.lequipe.fr/Football/Transferts-football/" >Mercato</a><a href="lequipe.fr/Football/Coupe-du-monde-2015-f/" >Coupe du Monde (F)</a><a href="http://www.lequipe.fr/Football/Euro/Saison-2016/" >Euro 2016</a><a href="http://www.lequipe.fr/Football/Copa-america/" >Copa America</a><a href="http://www.lequipe.fr/Football/Coupe-du-monde/Saison-2014/" >Coupe du Monde 2014</a><a href="http://www.lequipe.fr/Football/Elim-euro/Saison-2016/" >Elim. Euro 2016</a><a href="http://www.lequipe.fr/Football/Coupe-du-monde/Coupe-du-monde-2018/" >CDM 2018</a><a href="http://www.lequipe.fr/Football/Ligue-1/Clasico-psg-marseille/" >Clasico : PSG-OM</a><a href="http://www.lequipe.fr/Football/Ballon-d-or/" >Ballon d'Or</a><a href="http://www.lequipe.fr/Football/France/" >Équipe de France</a><a href="http://www.lequipe.fr/Football/Championnat-d-angleterre/" >Premier League</a><a href="http://www.lequipe.fr/Football/Championnat-d-espagne/" >Liga</a><a href="http://www.lequipe.fr/Football/Championnat-d-allemagne/" >Bundesliga</a><a href="http://www.lequipe.fr/Football/Championnat-d-italie/" >Calcio</a><a href="http://www.lequipe.fr/Football/Football-feminin/" >Football féminin</a><a href="http://www.lequipe.fr/Football/Can/" >CAN</a><a href="http://www.11footballclub.com/?tag=equipe&domain=lequipehome11.fr" rel="dofollow" target="_blank">Boutique Football</a><a href="http://www.lequipe.fr/Football/RES_POR.html" >Portugal</a><a href="http://www.lequipe.fr/Football/RES_HOL.html" >Pays-Bas</a><a href="http://www.lequipe.fr/base/football/resultats/HOME_AUTRES_CHAMPS.html" >Autres championnats </a>      </div>          <div><a href="http://www.lequipe.fr/Football/FootballFicheClub6.html#Effectif" >OM</a><a href="http://www.lequipe.fr/Football/FootballFicheClub22.html" >OL</a><a href="http://www.lequipe.fr/Football/FootballFicheClub26.html#Effectif" >PSG</a><a href="http://www.lequipe.fr/Football/FootballFicheClub38.html" >Saint-Etienne</a><a href="http://www.lequipe.fr/Football/FootballFicheClub25.html#Effectif" >AS Monaco</a><a href="http://www.lequipe.fr/Football/FootballFicheClub15.html" >FC Nantes </a><a href="http://www.lequipe.fr/Football/FootballFicheClub18.html" >Bordeaux</a><a href="http://www.lequipe.fr/Football/FootballFicheClub43.html" >LOSC</a><a href="http://www.lequipe.fr/Football/FootballFicheClub14.html" >Rennes</a><a href="http://www.lequipe.fr/Football/FootballFicheClub87.html" >Manchester United</a><a href="http://www.lequipe.fr/Football/FootballFicheClub73.html" >Chelsea</a><a href="http://www.lequipe.fr/Football/FootballFicheClub71.html" >Arsenal</a><a href="http://www.lequipe.fr/Football/FootballFicheClub725.html" >Manchester City</a><a href="http://www.lequipe.fr/Football/FootballFicheClub2084.html" >Liverpool</a><a href="http://www.lequipe.fr/Football/FootballFicheClub86.html" >Tottenham</a><a href="http://www.lequipe.fr/Football/FootballFicheClub98.html" >FC Barcelone</a><a href="http://www.lequipe.fr/Football/FootballFicheClub108.html" >Real Madrid</a><a href="http://www.lequipe.fr/Football/FootballFicheClub111.html" >Atletico Madrid</a><a href="http://www.lequipe.fr/Football/FootballFicheClub677.html" >Séville FC</a><a href="http://www.lequipe.fr/Football/FootballFicheClub112.html" >Valence CF</a><a href="http://www.lequipe.fr/Football/FootballFicheClub128.html" >Juventus</a><a href="http://www.lequipe.fr/Football/FootballFicheClub647.html" >Naples</a><a href="http://www.lequipe.fr/Football/FootballFicheClub125.html" >AS Roma</a><a href="http://www.lequipe.fr/Football/FootballFicheClub120.html" >Inter Milan</a><a href="http://www.lequipe.fr/Football/FootballFicheClub127.html" >AC Milan</a><a href="http://www.lequipe.fr/Football/FootballFicheClub50.html" >Bayern Münich</a><a href="http://www.lequipe.fr/Football/FootballFicheClub53.html" >Borussia Dortmund</a><a href="http://www.lequipe.fr/Football/FootballFicheClub57.html" >VFL Wolfsburg</a><a href="http://www.lequipe.fr/Football/FootballFicheClub67.html" >Bayer Leverkusen</a><a href="http://www.lequipe.fr/Football/FootballFicheClub431.html" >Benfica</a><a href="http://www.lequipe.fr/Football/FootballFicheClub481.html" >FC Porto</a>      </div>          <div><a href="http://www.lequipe.fr/Football/FootballFicheJoueur21740.html" >Messi</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur19316.html" >Ronaldo</a><a href="http://abonnes.lequipe.fr/Football/FootballFicheJoueur22939.html" >Neuer</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur39792.html" >Neymar</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur34803.html" >Pogba</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur22047.html" >Benzema</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur36553.html" >Griezmann</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur28423.html" >Hazard</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur27703.html" >Di Maria</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur29318.html" >Falcao</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur55000000000000000000020447.html" >Ibrahimovic</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur26337.html" >Cavani</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur29652.html" >Thiago Silva</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur26732.html" >David Luiz</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur45183.html" >Verratti</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur30109.html" >Lewandowski</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur25656.html" >Luis Suarez</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur16673.html" >Rooney</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur20000000000000000000019521.html" >Ribéry</a><a href="" ></a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur17217.html" >Robben</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur4254.html" >Pirlo</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur29772.html" >Muller</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur18353.html" >Lahm</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur25711.html" >Bale </a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur24604.html" >Aguero</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur42634.html" >Sterling</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur38404.html" >James Rodriguez</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur29357.html" >Alexis Sanchez</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur16769.html" >Iniesta</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur33753.html" >Reus</a><a href="http://www.lequipe.fr/Football/FootballFicheJoueur19963.html" >Tevez</a><a href="" ></a><a href="http://www.actumercato.fr/" >Actu Mercato</a>      </div>          <div><a href="" ></a><h4><a href="http://www.lequipe.fr/Tennis"   class="hr-Tennis"  >Tennis</a></h4><a href="http://www.lequipe.fr/Tennis/atp-classement.html" >Classement ATP</a><a href="http://www.lequipe.fr/Tennis/wta-classement.html" >Classement WTA</a><a href="http://www.lequipe.fr/Tennis/Open-d-australie/" >Open d'Australie</a><a href="http://www.lequipe.fr/Tennis/Roland-garros/" >Roland-Garros</a><a href="http://www.lequipe.fr/homes/Tennis/Wimbledon/" >Wimbledon</a><a href="http://www.lequipe.fr/Tennis/Us-open/" >US Open</a><a href="http://www.lequipe.fr/Tennis/Coupe-davis/" >Coupe Davis</a><a href="http://www.lequipe.fr/Tennis/" >Masters de Londres</a><a href="http://www.lequipe.fr/Tennis/TFJM_3153.html" >Djokovic</a><a href="http://www.lequipe.fr/Tennis/TFJM_3233.html" >Murray</a><a href="http://www.lequipe.fr/Tennis/TFJM_676.html" >Federer</a><a href="http://www.lequipe.fr/Tennis/TFJM_2862.html" >Nadal</a><a href="http://www.lequipe.fr/Tennis/TFJM_3181.html" >Tsonga</a><a href="http://www.lequipe.fr/Tennis/TFJM_2856.html" >Gasquet</a><a href="http://www.lequipe.fr/Tennis/TennisFicheJoueurM_3525.html" >Nishikori</a><a href="http://www.lequipe.fr/Tennis/TennisFicheJoueurM_3190.html" >Monfils</a><a href="http://www.lequipe.fr/Aussi/Pacquiao-vs-mayweather/" ></a><a href="http://www.lequipe.fr/Tennis/TennisFicheJoueurM_3191.html" >Simon</a><a href="http://www.lequipe.fr/Tennis/TennisFicheJoueurM_3013.html" >Wawrinka</a><a href="http://www.lequipe.fr/Tennis/TennisFicheJoueurM_2906.html" >Ferrer</a><a href="http://www.lequipe.fr/Tennis/TennisFicheJoueurM_5036.html" >Raonic</a><a href="http://www.lequipe.fr/Tennis/TennisFicheJoueurM_3048.html" >Berdych</a><a href="http://www.lequipe.fr/Tennis/TennisFicheJoueurM_3274.html" >Cilic</a><a href="http://www.lequipe.fr/Tennis/TennisFicheJoueurM_3649.html" >Dimitrov</a><a href="http://www.lequipe.fr/Tennis/TennisFicheJoueurF_333.html" >Williams</a><a href="http://www.lequipe.fr/Tennis/TennisFicheJoueurF_1500000000003013.html" >Sharapova</a><a href="http://www.lequipe.fr/Tennis/TennisFicheJoueurF_3196.html" >Ivanovic</a><a href="http://www.lequipe.fr/Tennis/TennisFicheJoueurF_4322.html" >Halep</a><a href="http://www.lequipe.fr/Tennis/TennisFicheJoueurF_3270.html" >Wozniacki</a>      </div>          <div><h4><a href=""   class="hr-Aussi"></a></h4><a href="" ></a><h4><a href="http://www.lequipe.fr/Rugby"   class="hr-Rugby"  >Rugby</a></h4><a href="http://www.lequipe.fr/Rugby/Coupe-du-monde/" >Coupe du monde</a><a href="http://www.lequipe.fr/Rugby/Top-14/" >Top 14</a><a href="http://www.lequipe.fr/base/rugby/resultats/RES_TOP-14_2014-2015.html" >Phase finale 2015</a><a href="http://www.lequipe.fr/Rugby/Coupe-d-europe/" >H Cup</a><a href="http://www.lequipe.fr/Rugby/Tournoi-des-6-nations/" >6 Nations</a><a href="http://www.lequipe.fr/Rugby/France-fra/" >XV de France</a><a href="http://www.lequipe.fr/Rugby/RugbyFicheClub14.html" >Clermont</a><a href="http://www.lequipe.fr/Rugby/RugbyFicheClub23.html" >Toulon</a><a href="http://www.lequipe.fr/Rugby/RugbyFicheClub24.html" >Stade Toulousain</a><a href="http://www.lequipe.fr/Rugby/RugbyFicheJoueur500000000004191.html" >Thierry Dusautoir</a><a href="http://www.lequipe.fr/Rugby/RugbyFicheJoueur500000000004242.html" >Pascal Papé</a><a href="http://www.lequipe.fr/Rugby/RugbyFicheJoueur5500000000004862.html" >Louis Picamoles</a><a href="http://www.lequipe.fr/Rugby/RugbyFicheJoueur11500000000005199.html" >Wesley Fofana</a><a href="http://www.lequipe.fr/Rugby/RugbyFicheJoueur4420.html" >Morgan Parra</a><a href="http://www.lequipe.fr/Rugby/RugbyFicheJoueur6000000000005030.html" >François Trinh-Duc</a><a href="http://www.lequipe.fr/Rugby/RugbyFicheJoueur4211.html" >Mathieu Bastareaud</a><a href="http://www.lequipe.fr/Rugby/RugbyFicheJoueur3548.html" >Frédéric Michalak</a><h4><a href="http://www.lequipe.fr/Formule-1"   class="hr-Formule1"  >Formule 1</a></h4><a href="http://www.lequipe.fr/Formule1/f1-classement-pilotes.html" >Class. Pilotes</a><a href="http://www.lequipe.fr/Formule1/Formule1FichePilote704.html" >Romain Grosjean</a><a href="http://www.lequipe.fr/Formule1/Formule1FichePilote4000000000000644.html" >Lewis Hamilton</a><a href="http://www.lequipe.fr/Formule1/Formule1FichePilote2000000000000651.html" >Nico Rosberg</a><a href="http://www.lequipe.fr/Formule1/Formule1FichePilote3000000000000642.html" >Sebastian Vettel</a><a href="http://www.lequipe.fr/Formule1/Formule1FichePilote628.html" >Fernando Alonso</a><a href="http://www.lequipe.fr/Formule-1/Accident-schumacher/" >Michael Schumacher</a><a href="" ></a><a href="" ></a><a href="" ></a><a href="" ></a><a href="http://www.lequipe.fr/Formule1/Formule1FichePilote632.html" >Felipe Massa</a><h4><a href=""   class="hr-Aussi">Compétitions internationales</a></h4><a href="http://www.lequipe.fr/General/Bakou-2015/" >Jeux européens Bakou 2015</a><a href="http://www.lequipe.fr/Aussi/Paris-2024/ " >Paris 2024</a>      </div>          <div><h4><a href="http://www.lequipe.fr/Basket"   class="hr-Basket"  >Basket</a></h4><a href="http://www.lequipe.fr/Basket/Euro/" >Euro</a><a href="http://www.lequipe.fr/Basket/Nba/" >NBA</a><a href="http://www.lequipe.fr/Basket/Pro-a/" >Pro A</a><a href="http://www.lequipe.fr/Basket/BasketPlayOff2013_2.html" >Pro B</a><a href="http://www.lequipe.fr/Basket/Nba/" >Play-offs NBA</a><a href="http://www.lequipe.fr/Basket/BasketFicheJoueur4000000000003283.html" >Lebron James</a><a href="http://www.lequipe.fr/Basket/BasketFicheJoueur882.html" >Kobe Bryant</a><a href="http://www.lequipe.fr/Basket/BasketFicheJoueur1131.html" >Tony Parker</a><a href="http://www.lequipe.fr/Basket/BasketFicheJoueur4186.html" >James Harden</a><a href="http://www.lequipe.fr/Basket/BasketFicheJoueur4104.html" >Russell Westbrook </a><h4><a href="http://www.lequipe.fr/Cyclisme"   class="hr-Cyclisme"  >Cyclisme</a></h4><a href="http://www.lequipe.fr/Cyclisme/Cyclisme-sur-route/Tour-d-espagne/" >Vuelta</a><a href="http://www.lequipe.fr/Cyclisme/Cyclisme-sur-route/Tour-de-france/" >Tour de France</a><a href="http://www.lequipe.fr/Cyclisme/Cyclisme-sur-route/Tour-d-italie/" >Giro</a><a href="http://www.lequipe.fr/Cyclisme/Cyclisme-sur-route/Les-classiques-ardennaises/" >Classiques ardennaises</a><a href="http://www.lequipe.fr/Cyclisme/CyclismeFicheCoureur1500000000009373.html" >Alberto Contador</a><a href="http://www.lequipe.fr/Cyclisme/CyclismeFicheCoureur1500000000009307.html" >Vincenzo Nibali</a><a href="http://abonnes.lequipe.fr/Cyclisme/CyclismeFicheCoureur10127.html" >Tejay Van Garderen</a><a href="http://www.lequipe.fr/Cyclisme/CyclismeFicheCoureur1000000000009158.html" >Alejandro Valverde</a><a href="http://www.lequipe.fr/Cyclisme/CyclismeFicheCoureur10617.html" >Nairo Quintana</a><a href="http://www.lequipe.fr/Cyclisme/CyclismeFicheCoureur10310.html" >Peter Sagan</a><a href="http://www.lequipe.fr/Cyclisme/CyclismeFicheCoureur10412.html" >Michal Kwiatkowski</a><a href="http://www.lequipe.fr/Cyclisme/CyclismeFicheCoureur9264.html" >Richie Porte</a><a href="http://www.lequipe.fr/Cyclisme/CyclismeFicheCoureur10293.html" >Thibaut Pinot</a><a href="http://www.lequipe.fr/Cyclisme/CyclismeFicheCoureur10768.html" >Romain Bardet</a><a href="http://www.lequipe.fr/Cyclisme/CyclismeFicheCoureur11066.html" >Fabio Aru</a><h4><a href="http://www.lequipe.fr/Handball/"   class="hr-Aussi">Handball</a></h4><a href="http://www.lequipe.fr/Handball/Championnats-du-monde-h/Championnats-du-monde-h-2015/" >Championnat du Monde</a><a href="http://www.lequipe.fr/Handball/AussiFicheAthlete5500000000023917.html" >Nikola Karabatic</a><a href="http://www.lequipe.fr/General/Dopage/" >Affaire Dopage</a><a href="undefined" >NOUVEL ÉLÉMENT</a>      </div>          <div id="bonsPlans">
+<a href="http://www.lequipe.fr/reduction-shopping/code-promo-sarenza-reduction-1378">Code Promo Sarenza</a>
+<!-- <a href="http://www.lequipe.fr/reduction-shopping/code-promo-zalando-reduction-13822">Code Promo Zalando</a> -->
+<a href="http://www.lequipe.fr/reduction-shopping/code-promo-lastminute-reduction-349">Code Promo Lastminute</a>
+<a href="http://www.lequipe.fr/reduction-shopping/code-promo-yves-rocher-reduction-121">Code Promo Yves Rocher</a>
+</div>    </div>    <div id="pictos-content">
+    <a class="foo-compte"><span></span>compte</a>
+    <a class="foo-facebook" href="/facebook/"><span></span>facebook</a>
+    <a class="foo-twitter" href="/twitter/"><span></span>twitter</a>
+    <a class="foo-rss" href="/rss/"><span></span>rss</a>
+    <a class="foo-alertes" href="/compte/les-alertes/#les-alertes" rel="nofollow"><span></span>alertes</a>
+    <a class="foo-newsletter" href="/compte/les-newsletters/#les-newsletters" rel="nofollow"><span></span>newsletter</a>       
+    <a class="foo-mobile" href="/mobiles/"><span></span>mobile</a>
+    <a class="foo-services" href="/services/"><span></span>services</a>
+    <a class="foo-plan" href="/Fonctions/navs-plan-du-site.html"><span></span>plan du site</a>
+    <a class="foo-credits" href="/Fonctions/pages_credits.html" target="_blank"><span></span>crédits</a>
+    <a class="foo-mentions" href="/Fonctions/page_mentions.html"><span></span>mentions légales</a>
+    <a class="foo-cookies" href="/cookies/"><span></span>cookies</a>
+    <a class="foo-contacts" href="/Fonctions/page_contacts.html"><span></span>contacts</a>
+</div>    <div id="amaury-content">
+    <div>
+        <a href="http://www.francefootball.fr/" target="_blank" rel="nofollow">FranceFootball</a>|
+        <a href="http://www.e-adrenaline.fr/" target="_blank" rel="nofollow">Adrénaline L'Équipe</a>/
+        <a href="http://www.ilosport.fr/" target="_blank" rel="nofollow">ilosport L'Équipe</a>/
+        <a href="http://www.lequipemagazine.fr/" target="_blank" rel="nofollow">L'Equipe Magazine</a>/
+        <a href="http://www.sportetstyle.fr/" target="_blank" rel="nofollow">Sport & Style</a>|
+        <a href="http://www.leparisien.fr/" target="_blank" rel="nofollow">Le Parisien.fr</a>|
+        <a href="http://www.aso.fr/" target="_blank" rel="nofollow">ASO</a>|
+        <a href="http://www.amaurymedias.fr/" target="_blank" rel="nofollow">Amaury Médias</a>|
+        <a href="http://www.pressesports.com/" target="_blank" rel="nofollow">PresseSports</a>/
+        <a href="http://www.amaury.com/" target="_blank" rel="nofollow">Groupe Amaury</a>
+    </div>
+    <span>© L'Equipe 24/24 - 2015<br />tous droits réservés</span>
+</div>  </footer>
+
+<script type="text/javascript" src="/LiveStats/wlstats.min.js"></script>
+
+<script>wlstatsinit('homepage','www.lequipe.fr');</script>
+
+
+<script type="text/javascript">
+(function(w, d) { var a = function() { var a = 
+d.createElement('script'); a.type = 'text/javascript';
+     a.async = 'async'; a.src = '//' + ((w.location.protocol === 
+'https:') ? 's3.amazonaws.com/cdx-radar/' :
+     'radar.cedexis.com/') + '01-10044-radar10.min.js'; 
+d.body.appendChild(a); };
+     if (w.addEventListener) { w.addEventListener('load', a, false); }
+     else if (w.attachEvent) { w.attachEvent('onload', a); }
+}(window, document));
+</script>
+
+<!--script src="http://lequipe.serv2me.com/popunder/function.js.php"></script-->
+    <!-- basilic -->
+    <script type="text/javascript">
+    (function(){var f,d,a,b=document.createElement("iframe");b.src="javascript:false";(b.frameElement||b).style.cssText="width: 0; height: 0; border: 0; display: none;";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);try{d=b.contentWindow.document}catch(c){f=document.domain;b.src="javascript:var d=document.open();d.domain='"+f+"';void(0);";d=b.contentWindow.document}d.open()._l=function(){var e=this.createElement("script");if(f){this.domain=f}e.id="boomr-if-as";e.src=window.location.protocol=="https:"?"https://d3phbp7p78bdk9.cloudfront.net/27/foglio.js":"http://medias.lequipe.fr/basilic.php";this.body.appendChild(e)};d.write('<body onload="document._l();">');d.close()})();
+    </script>
+    
+    
+</body>
+<script src="/v6/js/librairies_v65.js?V70"></script>
+<script>
+
+$('body').attr('an','');
+$('body').attr('ac','');
+_userInfos = $.parseJSON(decodeURIComponent(readCookie('lequipe-connected-infos')));
+if (  typeof _userInfos == "object"  &&  _userInfos != null)
+{
+	xt_an = _userInfos.id;
+	xt_ac =  ((_userInfos.gender && _userInfos.gender.length >= 2 )?1:0)*2+((_userInfos.quotiAbonne && _userInfos.quotiAbonne == 1)?1:2);
+	an = xt_an;
+	ac = xt_ac;
+	$('body').attr('an',an);
+	$('body').attr('ac',ac);
+}
+</script>
+
+
+
+
+<!--<script src="/v6/js/scripts_gratuit.js?201402032000t1-9bc"></script>-->
+<script>
+$(document).ready(function () {
+    $('body').bind("lequipe-checklogin",function(e,data) {
+        if(data!=false) {
+            if(data.quotiAbonne==1) {
+               redirectSiteAbonnes();
+            }         
+        }     
+    });  
+});
+
+function redirectSiteAbonnes(){
+    url=document.location.href;    
+    referrer = document.referrer;
+    if(url.indexOf("abonnes.")!=-1) {
+        return false;
+    }
+    if(url.indexOf("http://www.lequipe.fr")==-1) {
+        return false;
+    }       
+    if(url.indexOf("qlf-")!=-1)
+        replace="qlf-abonnes.";
+    else
+        replace="abonnes.";
+
+    url=url.replace("qlf-v6.",replace);
+    url=url.replace("www.",replace);   
+    document.location.href=url;
+}
+</script>
+
+<script src="/premium/js/premium.js?2015-08-13-C"></script>
+<!--<script src="/vel/js/popin.js?20150420"></script>-->
+<script src="/vel/js/velwin.js?20140625-1"></script>
+<script src="/vel/js/vel.js?20150813-2"></script>
+<script src="/v6/js/global_v65.js?020150418-51"></script>
+
+<!-- Modification Nug.Add 23/07/2014 -->
+
+<!-- TUNNEL CONVERSION (none) -->
+
+
+ <script type="text/javascript"  src="h3p://adtrack.adleadevent.com/mailNo=fica=on.php?st=c05906d0-a377-4569-8630-a2331d4c4a90"   async="true"></script>  
+
+
+
+
+   
+
+
+    <div id="analyzer">
+        <script type="text/javascript">
+            xtdmc = ".lequipe.fr";
+            xt_xtcpath = "www.lequipe.fr/v6/js/xtcore_async.js";
+        </script>
+        <script type="text/javascript">
+        <!--
+        (function(){
+        var at=document.createElement('script');
+        at.type='text/javascript';
+        at.async=true;
+        at.src=(('https:'==document.location.protocol)?'https://':'http://')+xt_xtcpath;(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]||document.getElementsByTagName('script')[0].parentNode).insertBefore(at,null); // async call
+        })();//-->
+        </script>
+    </div>
+
+<!-- Fin modif Nug.Add -->
+
+
+
+
+
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7413727" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=7413727&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+<!-- Sport SSI  : General -->
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+<script type="text/javascript">
+   (function() {
+       function async_load(){
+           var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+           var s = document.createElement('script');
+           s.src = protocol + 'pagefair.com/static/adblock_detection/js/d.min.js';
+           var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+       }
+       bm_website_code = '53AFBDE42AF74D78';
+       jQuery(document).ready(async_load);
+   })();
+</script>
+    
+        <!-- native ad --><script id="ean-native-embed-tag" src="http://cdn.elasticad.net/native/serve/js/nativeEmbed.gz.js"></script><!-- fin -->
+    
+
+
+
+
+    <script async src="http://widget.achetezfacile.com/widget.js"></script>
+    <script type="text/javascript">
+		window.___gcfg = {lang: 'fr'};
+		(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/platform.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+    </script>
+	<script type="text/javascript">var popin=new Object();</script>
+<script type="text/javascript" src="/v6/js/popins.js?20150420-1"></script> 
+    
+    <script type="text/javascript">
+        var _vrq = _vrq || [];
+        _vrq.push(['id', 510]);
+        _vrq.push(['automate', true]);
+        _vrq.push(['track', function(){}]);
+        (function(d, a){
+            var s = d.createElement(a),
+            x = d.getElementsByTagName(a)[0];
+            s.async = true;
+            s.src = 'http://a.visualrevenue.com/vrs.js';
+            x.parentNode.insertBefore(s, x);
+        })(document, 'script');
+    </script>
+    
+
+
+
+<script>
+if ($(".blocProgrammeCM").length) {
+	 $(".blocProgrammeCM .nav-jour a").live('click', function(){	 
+		baseurl = $(".blocProgrammeCM .nav-jour").attr("base-url");
+		var posJour = parseInt($(".blocProgrammeCM .nav-jour").attr("posJour"));		
+		if (!$(this).hasClass("disabled")) {
+			if ($(this).hasClass("precedent")) {
+			var posJour = posJour-1;
+			$(".blocProgrammeCM").load(baseurl+"_"+posJour+".html");
+			}
+			if ($(this).hasClass("suivant")) {
+			var posJour = posJour+1;
+			$(".blocProgrammeCM").load(baseurl+"_"+posJour+".html");
+			}	
+		}
+	});
+}
+</script>
+
+
+
+
+
+	<script>
+		$(function(){ 
+			if ($("#bloc-explore").length > 0) {
+				$("#bloc-explore a.blexplore").hide();
+				var numero = "a"+Math.floor( ( 2 ) * Math.random() )+1;
+				$("#bloc-explore a.blexplore."+numero).show();
+			}
+		});
+    </script>
+
+
+
+
+
+
+
+    <!-- Google Analytics embed code 22/07/2015 -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-17890262-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <!-- end Google -->
+
+<iframe style="height:1px;width:1px;border:0 none;position:absolute;display:none;left:0;top:0;z-index:0" src="//cstatic.weborama.fr/iframe/customers/premium.html?idEditeur=1176&idSite=260"></iframe></html>

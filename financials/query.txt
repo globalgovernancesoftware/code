@@ -1,0 +1,45 @@
+select cikE, dateFiledE, if(left(right(dateFiledE,4),2)="01" or left(right(dateFiledE,4),2)="02" or left(right(dateFiledE,4),2)="03","QTR1",
+if(left(right(dateFiledE,4),2)="04" or left(right(dateFiledE,4),2)="05" or left(right(dateFiledE,4),2)="06","QTR2",
+if(left(right(dateFiledE,4),2)="07" or left(right(dateFiledE,4),2)="08" or left(right(dateFiledE,4),2)="09","QTR3",
+"QTR4")))  as quarter, left(dateFiledE,4) as year, concat(left(right(filedNamedE,24),20),"\\",left(right(filedNamedE,24),20),"-xbrl.zip") as fileName from edgarDb.edgarTb where (formTypeE like "%10-K%" or formTypeE like "%10-Q%") and dateFiledE>20150101
+
+order by dateFiledE, formTypeE;
+
+
+
+create database ggsFinance;
+
+use ggsFinance;
+drop table mineXBRL;
+create table mineXBRL (pk bigint auto_increment, cik varchar(9), ticker varchar(25), tag varchar(200), val decimal(20,2), startDate int(8), endDate int(8), instantDate int(8), source varchar(500), primary key (pk), dt datetime default current_Timestamp);
+alter table mineXBRL add index (cik);
+alter table mineXBRL add index (ticker);
+alter table mineXBRL add index (tag);
+alter table mineXBRL add index (val);
+alter table mineXBRL add index (source);
+
+select count(*) from mineXBRL;
+select * from mineXBRL where ticker='aapl';
+select count(*) from (select * from  ggsFinance.mineXBRL WHERE startDate=0 and endDate=0 and instantDate=0 group by source) as t;
+
+select * from  ggsFinance.mineXBRL;
+
+
+select count(*) from (select * from ggsFinance.mineXBRL group by source) as t ;
+select * from  ggsFinance.mineXBRL WHERE startDate=0 and endDate=0 and instantDate=0;
+insert into ggsFinance.mineXBRL (cik,ticker, tag, val, startDate,endDate, instantDate, source) values ('0001023844','','EntityCommonStockSharesOutstanding','124454870','','','2014-12-29', '0'),('0001023844','','AllocatedShareBasedCompensationExpense','253000','2013-10-01','2014-09-30','', '0'),('0001023844','','AllocatedShareBasedCompensationExpense','240000','2012-10-01','2013-09-30','', '0'),('0001023844','','AllocatedShareBasedCompensationExpense','871000','2013-10-01','2014-09-30','', '0'),('0001023844','','AllocatedShareBasedCompensationExpense','139000','2012-10-01','2013-09-30','', '0'),('0001023844','','NetIncomeLoss','18643000','2013-10-01','2014-09-30','', '0'),('0001023844','','NetIncomeLoss','1562000','2012-10-01','2013-09-30','', '0'),('0001023844','','EarningsPerShareBasic','0.15','2013-10-01','2014-09-30','', '0'),('0001023844','','EarningsPerShareBasic','0.02','2012-10-01','2013-09-30','', '0'),('0001023844','','EarningsPerShareDiluted','0.15','2013-10-01','2014-09-30','', '0'),('0001023844','','EarningsPerShareDiluted','0.02','2012-10-01','2013-09-30','', '0'),('0001023844','','Assets','64793000','','','2014-09-30', '0'),('0001023844','','Assets','29511000','','','2013-09-30', '0'),('0001023844','','Assets','44222000','','','2014-09-30', '0'),('0001023844','','Assets','2907000','','','2014-09-30', '0'),('0001023844','','Assets','17664000','','','2014-09-30', '0'),('0001023844','','Assets','22632000','','','2013-09-30', '0'),('0001023844','','Assets','6978000','','','2013-09-30', '0'),('0001023844','','CashAndCashEquivalentsAtCarryingValue','24465000','','','2014-09-30', '0'),('0001023844','','CashAndCashEquivalentsAtCarryingValue','19985000','','','2013-09-30', '0'),('0001023844','','CashAndCashEquivalentsAtCarryingValue','7934000','','','2012-09-30', '0');
+
+
+select cikE, dateFiledE, if(left(right(dateFiledE,4),2)="01" or left(right(dateFiledE,4),2)="02" or left(right(dateFiledE,4),2)="03","QTR1",
+if(left(right(dateFiledE,4),2)="04" or left(right(dateFiledE,4),2)="05" or left(right(dateFiledE,4),2)="06","QTR2",
+if(left(right(dateFiledE,4),2)="07" or left(right(dateFiledE,4),2)="08" or left(right(dateFiledE,4),2)="09","QTR3",
+"QTR4")))  as quarter, left(dateFiledE,4) as year, concat(left(right(filedNamedE,24),20),"\\",left(right(filedNamedE,24),20),"-xbrl.zip") as fileName from edgarDb.edgarTb where (formTypeE like "%10-K%" or formTypeE like "%10-Q%") and dateFiledE>20140101
+
+order by dateFiledE, formTypeE;
+
+
+select cikE, dateFiledE, if(left(right(dateFiledE,4),2)="01" or left(right(dateFiledE,4),2)="02" or left(right(dateFiledE,4),2)="03","QTR1",
+if(left(right(dateFiledE,4),2)="04" or left(right(dateFiledE,4),2)="05" or left(right(dateFiledE,4),2)="06","QTR2",
+if(left(right(dateFiledE,4),2)="07" or left(right(dateFiledE,4),2)="08" or left(right(dateFiledE,4),2)="09","QTR3",
+"QTR4")))  as quarter, left(dateFiledE,4) as year, concat(left(right(filedNamedE,24),20),"\\",left(right(filedNamedE,24),20),"-xbrl.zip") as fileName from edgarDb.edgarTb where (formTypeE like "%10-K%") and dateFiledE>20150101
+order by dateFiledE, formTypeE;
